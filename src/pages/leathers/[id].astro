@@ -1,0 +1,139 @@
+---
+// leathers/[id].astro - レザー詳細ページ
+import Base from '../../layouts/Base.astro';
+import LeatherRadar from '../../components/LeatherRadar.astro';
+import BootCard from '../../components/BootCard.astro';
+
+import leathersData from '../../data/leathers.json';
+import bootsData from '../../data/boots.json';
+
+// レザーIDの逆マッピング（leathers.jsonのID → boots.jsonの値）
+const leatherBootsMap: Record<string, string> = {
+  'calfskin': 'calf',
+};
+
+// 静的パス生成
+export function getStaticPaths() {
+  return leathersData.map((leather) => ({
+    params: { id: leather.id },
+  }));
+}
+
+const { id } = Astro.params;
+const leather = leathersData.find(l => l.id === id);
+if (!leather) return Astro.redirect('/404');
+
+// このレザーを使ったブーツを取得（IDマッピング考慮）
+const bootsLeatherId = leatherBootsMap[id] || id;
+const leatherBoots = bootsData.filter(b => b.leather === bootsLeatherId);
+---
+
+<Base
+  title={`${leather.name} Leather Guide`}
+  description={leather.description.slice(0, 160)}
+>
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      {leather.tannery} · {leather.tanningMethod} tanned
+    </p>
+    <h1 class="page-header__title">{leather.name}</h1>
+    <p style="font-family: var(--font-ja); color: var(--color-text-sub);">{leather.nameJa}</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- レーダーチャート（大きめ） -->
+    <div style="padding: var(--space-lg) 0; max-width: 300px; margin: 0 auto;">
+      <LeatherRadar
+        durability={leather.properties.durability}
+        waterResistance={leather.properties.waterResistance}
+        patina={leather.properties.patina}
+        suppleness={leather.properties.suppleness}
+        maintenance={leather.properties.maintenance}
+        size={300}
+      />
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{leather.description}</p>
+
+    <!-- スペック詳細 -->
+    <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+      <h2 style="margin-bottom: var(--space-md);">Properties</h2>
+
+      <div style="display: flex; flex-direction: column; gap: var(--space-sm);">
+        <div class="rating-bar">
+          <span class="rating-bar__label">Durability</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${leather.properties.durability * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{leather.properties.durability}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Water Resistance</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${leather.properties.waterResistance * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{leather.properties.waterResistance}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Patina</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${leather.properties.patina * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{leather.properties.patina}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Suppleness</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${leather.properties.suppleness * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{leather.properties.suppleness}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Ease of Maintenance</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${leather.properties.maintenance * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{leather.properties.maintenance}/5</span>
+        </div>
+      </div>
+
+      <div class="spec-grid" style="margin-top: var(--space-md);">
+        <div class="spec-item">
+          <span class="spec-item__label">Tannery</span>
+          <span class="spec-item__value">{leather.tannery}</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Tanning Method</span>
+          <span class="spec-item__value">{leather.tanningMethod.charAt(0).toUpperCase() + leather.tanningMethod.slice(1)}</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- このレザーを使ったブーツ -->
+    {leatherBoots.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Boots Using {leather.name}</h2>
+        <div class="item-grid">
+          {leatherBoots.map((boot) => (
+            <BootCard
+              id={boot.id}
+              name={boot.name}
+              brand={boot.brand}
+              category={boot.category}
+              leather={boot.leather}
+              construction={boot.construction}
+              price={boot.price}
+              madeIn={boot.madeIn}
+              image={boot.image}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

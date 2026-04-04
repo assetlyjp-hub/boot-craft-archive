@@ -1,0 +1,122 @@
+---
+// constructions/[id].astro - 製法詳細ページ
+import Base from '../../layouts/Base.astro';
+import ConstructionRadar from '../../components/ConstructionRadar.astro';
+import BootCard from '../../components/BootCard.astro';
+
+import constructionsData from '../../data/constructions.json';
+import bootsData from '../../data/boots.json';
+
+// 静的パス生成
+export function getStaticPaths() {
+  return constructionsData.map((construction) => ({
+    params: { id: construction.id },
+  }));
+}
+
+const { id } = Astro.params;
+const construction = constructionsData.find(c => c.id === id);
+if (!construction) return Astro.redirect('/404');
+
+// この製法を使ったブーツを取得
+const constructionBoots = bootsData.filter(b => b.construction === id);
+---
+
+<Base
+  title={`${construction.name} Construction Guide`}
+  description={construction.description.slice(0, 160)}
+>
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      Construction Method
+    </p>
+    <h1 class="page-header__title">{construction.name}</h1>
+    <p style="font-family: var(--font-ja); color: var(--color-text-sub);">{construction.nameJa}</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- レーダーチャート（大きめ） -->
+    <div style="padding: var(--space-lg) 0; max-width: 300px; margin: 0 auto;">
+      <ConstructionRadar
+        durability={construction.properties.durability}
+        waterResistance={construction.properties.waterResistance}
+        resolability={construction.properties.resolability}
+        flexibility={construction.properties.flexibility}
+        weight={construction.properties.weight}
+        size={300}
+      />
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{construction.description}</p>
+
+    <!-- スペック詳細 -->
+    <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+      <h2 style="margin-bottom: var(--space-md);">Properties</h2>
+
+      <div style="display: flex; flex-direction: column; gap: var(--space-sm);">
+        <div class="rating-bar">
+          <span class="rating-bar__label">Durability</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${construction.properties.durability * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{construction.properties.durability}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Water Resistance</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${construction.properties.waterResistance * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{construction.properties.waterResistance}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Resolability</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${construction.properties.resolability * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{construction.properties.resolability}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Flexibility</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${construction.properties.flexibility * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{construction.properties.flexibility}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Lightweight</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${construction.properties.weight * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{construction.properties.weight}/5</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- この製法を使ったブーツ -->
+    {constructionBoots.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Boots Using {construction.name}</h2>
+        <div class="item-grid">
+          {constructionBoots.map((boot) => (
+            <BootCard
+              id={boot.id}
+              name={boot.name}
+              brand={boot.brand}
+              category={boot.category}
+              leather={boot.leather}
+              construction={boot.construction}
+              price={boot.price}
+              madeIn={boot.madeIn}
+              image={boot.image}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

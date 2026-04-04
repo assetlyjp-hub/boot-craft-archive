@@ -1,0 +1,119 @@
+---
+// FilterBar.astro - フィルターバーコンポーネント
+// ブーツをカテゴリ・レザー・製法・価格帯���絞り込む
+---
+
+<div class="filter-bar" id="filter-bar">
+  <!-- カテゴリフィルター -->
+  <span class="filter-bar__label">Category</span>
+  <div class="filter-bar__group" id="filter-category">
+    <button class="filter-btn is-active" data-filter="category" data-value="all">All</button>
+    <button class="filter-btn" data-filter="category" data-value="work-boot">Work Boot</button>
+    <button class="filter-btn" data-filter="category" data-value="service-boot">Service Boot</button>
+    <button class="filter-btn" data-filter="category" data-value="chelsea">Chelsea</button>
+    <button class="filter-btn" data-filter="category" data-value="oxford">Oxford</button>
+    <button class="filter-btn" data-filter="category" data-value="derby">Derby</button>
+    <button class="filter-btn" data-filter="category" data-value="loafer">Loafer</button>
+    <button class="filter-btn" data-filter="category" data-value="moc-toe">Moc Toe</button>
+  </div>
+
+  <!-- 区切り線 -->
+  <div class="filter-bar__divider"></div>
+
+  <!-- レザーフィルター -->
+  <span class="filter-bar__label">Leather</span>
+  <div class="filter-bar__group" id="filter-leather">
+    <button class="filter-btn is-active" data-filter="leather" data-value="all">All</button>
+    <button class="filter-btn" data-filter="leather" data-value="chromexcel">Chromexcel</button>
+    <button class="filter-btn" data-filter="leather" data-value="shell-cordovan">Shell Cordovan</button>
+    <button class="filter-btn" data-filter="leather" data-value="calf">Calfskin</button>
+    <button class="filter-btn" data-filter="leather" data-value="suede">Suede</button>
+    <button class="filter-btn" data-filter="leather" data-value="roughout">Roughout</button>
+    <button class="filter-btn" data-filter="leather" data-value="veg-tan">Veg Tan</button>
+  </div>
+
+  <!-- 区切り線 -->
+  <div class="filter-bar__divider"></div>
+
+  <!-- 製法フィルター -->
+  <span class="filter-bar__label">Construction</span>
+  <div class="filter-bar__group" id="filter-construction">
+    <button class="filter-btn is-active" data-filter="construction" data-value="all">All</button>
+    <button class="filter-btn" data-filter="construction" data-value="goodyear-welt">Goodyear Welt</button>
+    <button class="filter-btn" data-filter="construction" data-value="blake">Blake</button>
+    <button class="filter-btn" data-filter="construction" data-value="stitchdown">Stitchdown</button>
+  </div>
+
+  <!-- 価格帯スライダー -->
+  <div class="filter-price">
+    <label for="price-range">Max $</label>
+    <input type="range" id="price-range" min="50" max="1000" value="1000" step="10" />
+    <span id="price-value">$1000</span>
+  </div>
+</div>
+
+<!-- フィルタリングのJavaScript -->
+<script>
+  // フィルターの状態を管理するオブジェクト
+  const filterState: Record<string, string> = {
+    category: 'all',
+    leather: 'all',
+    construction: 'all',
+    maxPrice: '1000',
+  };
+
+  // フィルターボタンのクリックイベント
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filterName = (btn as HTMLElement).dataset.filter!;
+      const filterValue = (btn as HTMLElement).dataset.value!;
+
+      // 同じフィルターグループ内のアクティブ状態を更新
+      btn.parentElement?.querySelectorAll('.filter-btn').forEach(b => {
+        b.classList.remove('is-active');
+      });
+      btn.classList.add('is-active');
+
+      // フィルター状態を更新
+      filterState[filterName] = filterValue;
+
+      // カードをフィルタリング
+      applyFilters();
+    });
+  });
+
+  // 価格スライダーのイベント
+  const priceRange = document.getElementById('price-range') as HTMLInputElement;
+  const priceValue = document.getElementById('price-value');
+
+  priceRange?.addEventListener('input', () => {
+    filterState.maxPrice = priceRange.value;
+    if (priceValue) priceValue.textContent = `$${priceRange.value}`;
+    applyFilters();
+  });
+
+  // フィルターを適用する関数（.item-card を対象）
+  function applyFilters() {
+    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
+
+    cards.forEach(card => {
+      const cardCategory = card.dataset.category || '';
+      const cardLeather = card.dataset.leather || '';
+      const cardConstruction = card.dataset.construction || '';
+      const cardPrice = parseInt(card.dataset.price || '0');
+
+      // 各フィルター条件をチェック
+      const categoryMatch = filterState.category === 'all' || cardCategory === filterState.category;
+      const leatherMatch = filterState.leather === 'all' || cardLeather === filterState.leather;
+      const constructionMatch = filterState.construction === 'all' || cardConstruction === filterState.construction;
+      const priceMatch = cardPrice <= parseInt(filterState.maxPrice);
+
+      // すべての条件を満たす場合のみ表示
+      if (categoryMatch && leatherMatch && constructionMatch && priceMatch) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+</script>

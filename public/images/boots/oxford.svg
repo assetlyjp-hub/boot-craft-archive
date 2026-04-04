@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- オックスフォード シルエット -->
+  <rect width="400" height="300" fill="#1A1612"/>
+  <g transform="translate(60, 80)">
+    <!-- シューズ本体 -->
+    <path d="M40 120 L40 80 Q40 50 70 40 L120 30 Q160 25 200 30 L240 40 Q270 50 270 80 L270 120 Z" fill="#3B3430" stroke="#B8860B" stroke-width="1.5"/>
+    <!-- ソール -->
+    <path d="M30 118 L280 118 Q285 118 285 125 L285 135 Q285 140 280 140 L30 140 Q25 140 25 135 L25 125 Q25 118 30 118 Z" fill="#D4A574" stroke="#B8860B" stroke-width="1"/>
+    <!-- トゥキャップ -->
+    <path d="M40 80 Q40 50 70 40 L120 30 Q100 60 100 80 Z" fill="#2B2420" stroke="#B8860B" stroke-width="0.8"/>
+    <!-- ステッチ -->
+    <path d="M100 35 L100 85" stroke="#B8860B" stroke-width="0.8" stroke-dasharray="3,3" opacity="0.6"/>
+    <!-- レースホール -->
+    <circle cx="140" cy="45" r="2.5" fill="#B8860B" opacity="0.5"/>
+    <circle cx="160" cy="42" r="2.5" fill="#B8860B" opacity="0.5"/>
+    <circle cx="180" cy="40" r="2.5" fill="#B8860B" opacity="0.5"/>
+    <circle cx="140" cy="60" r="2.5" fill="#B8860B" opacity="0.5"/>
+    <circle cx="160" cy="57" r="2.5" fill="#B8860B" opacity="0.5"/>
+    <circle cx="180" cy="55" r="2.5" fill="#B8860B" opacity="0.5"/>
+  </g>
+  <text x="200" y="285" text-anchor="middle" font-family="serif" font-size="12" fill="#666" letter-spacing="0.1em">OXFORD</text>
+</svg>

@@ -1,0 +1,35 @@
+---
+// brands/index.astro - ブランド一覧ページ
+import Base from '../../layouts/Base.astro';
+import brandsData from '../../data/brands.json';
+
+// ブランドを創業年順にソート
+const sortedBrands = [...brandsData].sort((a, b) => a.founded - b.founded);
+---
+
+<Base
+  title="Boot Brands"
+  description="Explore the world's finest bootmakers — from Red Wing and Alden in America to Tricker's and Crockett & Jones in England. Each brand carries decades of craftsmanship tradition."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Brands</h1>
+    <p class="page-header__description">
+      The world's finest bootmakers, from heritage workwear to English elegance
+    </p>
+  </div>
+
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {sortedBrands.map((brand) => (
+        <a href={`/brands/${brand.id}/`} class="brand-card">
+          <h3 class="brand-card__name">{brand.name}</h3>
+          <p class="brand-card__name-ja">{brand.nameJa}</p>
+          <p class="brand-card__meta">
+            Est. {brand.founded} · {brand.country}
+          </p>
+          <p class="brand-card__specialty">{brand.specialty}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

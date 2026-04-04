@@ -1,0 +1,44 @@
+---
+// constructions/index.astro - 製法データベースページ
+import Base from '../../layouts/Base.astro';
+import ConstructionRadar from '../../components/ConstructionRadar.astro';
+import constructionsData from '../../data/constructions.json';
+---
+
+<Base
+  title="Boot Construction Guide"
+  description="Complete guide to boot construction methods — Goodyear Welt, Blake Stitch, Stitchdown, Norwegian Welt, and more. Compare durability, resolability, and flexibility."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Construction Methods</h1>
+    <p class="page-header__description">
+      How a boot is built determines how long it lasts — explore every construction method
+    </p>
+  </div>
+
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {constructionsData.map((construction) => (
+        <a href={`/constructions/${construction.id}/`} class="material-card">
+          <h3 class="material-card__name">{construction.name}</h3>
+          <p class="material-card__type">{construction.nameJa}</p>
+
+          <ConstructionRadar
+            durability={construction.properties.durability}
+            waterResistance={construction.properties.waterResistance}
+            resolability={construction.properties.resolability}
+            flexibility={construction.properties.flexibility}
+            weight={construction.properties.weight}
+          />
+
+          <div class="material-card__stats">
+            <span class="material-card__stat">Durable: {construction.properties.durability}/5</span>
+            <span class="material-card__stat">Resole: {construction.properties.resolability}/5</span>
+            <span class="material-card__stat">Flex: {construction.properties.flexibility}/5</span>
+            <span class="material-card__stat">Light: {construction.properties.weight}/5</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

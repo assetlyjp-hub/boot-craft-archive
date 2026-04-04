@@ -1,0 +1,44 @@
+---
+// leathers/index.astro - レザーデータベースページ
+import Base from '../../layouts/Base.astro';
+import LeatherRadar from '../../components/LeatherRadar.astro';
+import leathersData from '../../data/leathers.json';
+---
+
+<Base
+  title="Leather Guide"
+  description="Complete guide to boot leathers — Chromexcel, Shell Cordovan, Calfskin, Suede, and more. Compare durability, patina, water resistance, and maintenance."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Leather Database</h1>
+    <p class="page-header__description">
+      The science behind the hide — explore every leather used in quality footwear
+    </p>
+  </div>
+
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {leathersData.map((leather) => (
+        <a href={`/leathers/${leather.id}/`} class="material-card">
+          <h3 class="material-card__name">{leather.name}</h3>
+          <p class="material-card__type">{leather.tannery} · {leather.tanningMethod} tanned</p>
+
+          <LeatherRadar
+            durability={leather.properties.durability}
+            waterResistance={leather.properties.waterResistance}
+            patina={leather.properties.patina}
+            suppleness={leather.properties.suppleness}
+            maintenance={leather.properties.maintenance}
+          />
+
+          <div class="material-card__stats">
+            <span class="material-card__stat">Durable: {leather.properties.durability}/5</span>
+            <span class="material-card__stat">Water: {leather.properties.waterResistance}/5</span>
+            <span class="material-card__stat">Patina: {leather.properties.patina}/5</span>
+            <span class="material-card__stat">Supple: {leather.properties.suppleness}/5</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,140 @@
+---
+// compare/index.astro - ブーツ比較ツールページ
+import Base from '../../layouts/Base.astro';
+import bootsData from '../../data/boots.json';
+import leathersData from '../../data/leathers.json';
+import constructionsData from '../../data/constructions.json';
+---
+
+<Base
+  title="Compare Boots"
+  description="Side-by-side comparison tool for leather boots and shoes. Compare leather, construction, price, and more."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Compare</h1>
+    <p class="page-header__description">
+      Select two boots to compare their specifications side by side
+    </p>
+  </div>
+
+  <div class="container">
+    <!-- ブーツ選択セレクター -->
+    <div class="compare-selector">
+      <div>
+        <select class="compare-select" id="boot-a">
+          <option value="">Select first boot...</option>
+          {bootsData.map(b => (
+            <option value={b.id}>{b.name}</option>
+          ))}
+        </select>
+      </div>
+
+      <span class="compare-vs">VS</span>
+
+      <div>
+        <select class="compare-select" id="boot-b">
+          <option value="">Select second boot...</option>
+          {bootsData.map(b => (
+            <option value={b.id}>{b.name}</option>
+          ))}
+        </select>
+      </div>
+    </div>
+
+    <!-- 比較テーブル -->
+    <div id="compare-result" style="padding-bottom: var(--space-xl);">
+      <p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">
+        Select two boots above to see the comparison
+      </p>
+    </div>
+  </div>
+
+  <!-- ブーツ・レザー・製法データをJSに渡す -->
+  <script define:vars={{ bootsData, leathersData, constructionsData }}>
+    const selectA = document.getElementById('boot-a');
+    const selectB = document.getElementById('boot-b');
+    const resultDiv = document.getElementById('compare-result');
+
+    selectA?.addEventListener('change', updateComparison);
+    selectB?.addEventListener('change', updateComparison);
+
+    function updateComparison() {
+      const idA = /** @type {HTMLSelectElement} */ (selectA).value;
+      const idB = /** @type {HTMLSelectElement} */ (selectB).value;
+
+      if (!idA || !idB) {
+        resultDiv.innerHTML = '<p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">Select two boots above to see the comparison</p>';
+        return;
+      }
+
+      const bootA = bootsData.find(b => b.id === idA);
+      const bootB = bootsData.find(b => b.id === idB);
+      if (!bootA || !bootB) return;
+
+      // レザーIDマッピング
+      const leatherMap = { 'calf': 'calfskin' };
+      const leatherA = leathersData.find(l => l.id === (leatherMap[bootA.leather] || bootA.leather));
+      const leatherB = leathersData.find(l => l.id === (leatherMap[bootB.leather] || bootB.leather));
+
+      const constructionA = constructionsData.find(c => c.id === bootA.construction);
+      const constructionB = constructionsData.find(c => c.id === bootB.construction);
+
+      // カテゴリ表示名を見やすくする関数
+      function formatLabel(str) {
+        return str.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      }
+
+      const rows = [
+        ['Brand', formatLabel(bootA.brand), formatLabel(bootB.brand)],
+        ['Category', formatLabel(bootA.category), formatLabel(bootB.category)],
+        ['Leather', leatherA?.name || bootA.leather, leatherB?.name || bootB.leather],
+        ['Construction', constructionA?.name || bootA.construction, constructionB?.name || bootB.construction],
+        ['Sole', formatLabel(bootA.sole), formatLabel(bootB.sole)],
+        ['Last Shape', bootA.lastShape, bootB.lastShape],
+        ['Made In', bootA.madeIn, bootB.madeIn],
+        ['Price (USD)', `$${bootA.price}`, `$${bootB.price}`],
+      ];
+
+      // レザースペック比較
+      if (leatherA && leatherB) {
+        rows.push(
+          ['Leather Durability', `${leatherA.properties.durability}/5`, `${leatherB.properties.durability}/5`],
+          ['Leather Water Resist.', `${leatherA.properties.waterResistance}/5`, `${leatherB.properties.waterResistance}/5`],
+          ['Leather Patina', `${leatherA.properties.patina}/5`, `${leatherB.properties.patina}/5`],
+        );
+      }
+
+      // 製法スペック比較
+      if (constructionA && constructionB) {
+        rows.push(
+          ['Construction Durability', `${constructionA.properties.durability}/5`, `${constructionB.properties.durability}/5`],
+          ['Resolability', `${constructionA.properties.resolability}/5`, `${constructionB.properties.resolability}/5`],
+          ['Flexibility', `${constructionA.properties.flexibility}/5`, `${constructionB.properties.flexibility}/5`],
+        );
+      }
+
+      const tableHTML = `
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Specification</th>
+              <th>${bootA.name}</th>
+              <th>${bootB.name}</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rows.map(([label, valA, valB]) => `
+              <tr>
+                <td style="font-weight: 500; color: var(--color-text);">${label}</td>
+                <td>${valA}</td>
+                <td>${valB}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+
+      resultDiv.innerHTML = tableHTML;
+    }
+  </script>
+</Base>

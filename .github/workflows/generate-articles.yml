@@ -1,0 +1,76 @@
+# Boot Craft Archive - 記事自動生成ワークフロー
+# JST 11:00（UTC 02:00）に月〜金で実行
+# 月=review, 火=leather, 水=construction, 木=comparison, 金=care
+
+name: Generate Articles
+
+on:
+  schedule:
+    # JST 11:00 = UTC 02:00、月曜〜金曜
+    - cron: '0 2 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      category:
+        description: '記事カテゴリ'
+        required: true
+        type: choice
+        options:
+          - review
+          - leather
+          - construction
+          - comparison
+          - care
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # リポジトリのチェックアウト
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Python のセットアップ
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 曜日に応じたカテゴリを決定
+      - name: Determine category
+        id: category
+        run: |
+          if [ -n "${{ github.event.inputs.category }}" ]; then
+            echo "category=${{ github.event.inputs.category }}" >> $GITHUB_OUTPUT
+          else
+            # 曜日番号: 1=月, 2=火, 3=水, 4=木, 5=金
+            DOW=$(date +%u)
+            case $DOW in
+              1) echo "category=review" >> $GITHUB_OUTPUT ;;
+              2) echo "category=leather" >> $GITHUB_OUTPUT ;;
+              3) echo "category=construction" >> $GITHUB_OUTPUT ;;
+              4) echo "category=comparison" >> $GITHUB_OUTPUT ;;
+              5) echo "category=care" >> $GITHUB_OUTPUT ;;
+              *) echo "category=review" >> $GITHUB_OUTPUT ;;
+            esac
+          fi
+
+      # 記事を生成
+      - name: Generate article
+        run: python scripts/generate-articles.py --category ${{ steps.category.outputs.category }}
+
+      # 変更があればコミット＆プッシュ
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/articles/
+          # 変更がある場合のみコミット
+          if git diff --staged --quiet; then
+            echo "変更なし — コミットをスキップ"
+          else
+            git commit -m "auto: generate ${{ steps.category.outputs.category }} article [$(date +%Y-%m-%d)]"
+            git push
+          fi

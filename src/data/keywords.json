@@ -1,0 +1,56 @@
+{
+  "review": [
+    { "keyword": "red wing iron ranger review", "slug": "red-wing-iron-ranger-review", "category": "review" },
+    { "keyword": "wolverine 1000 mile review", "slug": "wolverine-1000-mile-review", "category": "review" },
+    { "keyword": "thursday captain review", "slug": "thursday-captain-review", "category": "review" },
+    { "keyword": "viberg service boot review", "slug": "viberg-service-boot-review", "category": "review" },
+    { "keyword": "alden indy boot review", "slug": "alden-indy-boot-review", "category": "review" },
+    { "keyword": "grant stone diesel boot review", "slug": "grant-stone-diesel-boot-review", "category": "review" },
+    { "keyword": "trickers stow review", "slug": "trickers-stow-review", "category": "review" },
+    { "keyword": "allen edmonds park avenue review", "slug": "allen-edmonds-park-avenue-review", "category": "review" }
+  ],
+  "leather": [
+    { "keyword": "chromexcel leather guide", "slug": "chromexcel-leather-guide", "category": "leather" },
+    { "keyword": "shell cordovan complete guide", "slug": "shell-cordovan-complete-guide", "category": "leather" },
+    { "keyword": "calfskin leather explained", "slug": "calfskin-leather-explained", "category": "leather" },
+    { "keyword": "suede vs nubuck difference", "slug": "suede-vs-nubuck-difference", "category": "leather" },
+    { "keyword": "roughout leather boots", "slug": "roughout-leather-boots", "category": "leather" },
+    { "keyword": "vegetable tanned leather guide", "slug": "vegetable-tanned-leather-guide", "category": "leather" },
+    { "keyword": "horween leather explained", "slug": "horween-leather-explained", "category": "leather" }
+  ],
+  "construction": [
+    { "keyword": "goodyear welt explained", "slug": "goodyear-welt-explained", "category": "construction" },
+    { "keyword": "blake stitch construction guide", "slug": "blake-stitch-construction-guide", "category": "construction" },
+    { "keyword": "stitchdown construction explained", "slug": "stitchdown-construction-explained", "category": "construction" },
+    { "keyword": "norwegian welt guide", "slug": "norwegian-welt-guide", "category": "construction" },
+    { "keyword": "goodyear welt vs blake stitch", "slug": "goodyear-welt-vs-blake-stitch", "category": "construction" },
+    { "keyword": "boot construction methods compared", "slug": "boot-construction-methods-compared", "category": "construction" }
+  ],
+  "comparison": [
+    { "keyword": "red wing vs thursday boots", "slug": "red-wing-vs-thursday-boots", "category": "comparison" },
+    { "keyword": "viberg vs alden service boot", "slug": "viberg-vs-alden-service-boot", "category": "comparison" },
+    { "keyword": "grant stone vs red wing", "slug": "grant-stone-vs-red-wing", "category": "comparison" },
+    { "keyword": "allen edmonds vs crockett jones", "slug": "allen-edmonds-vs-crockett-jones", "category": "comparison" },
+    { "keyword": "trickers vs crockett jones", "slug": "trickers-vs-crockett-jones", "category": "comparison" },
+    { "keyword": "best service boots compared", "slug": "best-service-boots-compared", "category": "comparison" },
+    { "keyword": "best dress boots compared", "slug": "best-dress-boots-compared", "category": "comparison" }
+  ],
+  "care": [
+    { "keyword": "how to care for leather boots", "slug": "how-to-care-for-leather-boots", "category": "care" },
+    { "keyword": "boot conditioning guide", "slug": "boot-conditioning-guide", "category": "care" },
+    { "keyword": "how to polish dress shoes", "slug": "how-to-polish-dress-shoes", "category": "care" },
+    { "keyword": "suede boot care guide", "slug": "suede-boot-care-guide", "category": "care" },
+    { "keyword": "shell cordovan care guide", "slug": "shell-cordovan-care-guide", "category": "care" },
+    { "keyword": "boot storage tips", "slug": "boot-storage-tips", "category": "care" },
+    { "keyword": "leather boot break in guide", "slug": "leather-boot-break-in-guide", "category": "care" }
+  ],
+  "beginner": [
+    { "keyword": "best boots for beginners", "slug": "best-boots-for-beginners", "category": "beginner" },
+    { "keyword": "goodyear welt boots under 200", "slug": "goodyear-welt-boots-under-200", "category": "beginner" },
+    { "keyword": "best goodyear welt boots under 300", "slug": "best-goodyear-welt-boots-under-300", "category": "beginner" },
+    { "keyword": "first heritage boot guide", "slug": "first-heritage-boot-guide", "category": "beginner" },
+    { "keyword": "boot sizing guide", "slug": "boot-sizing-guide", "category": "beginner" },
+    { "keyword": "boot terminology glossary", "slug": "boot-terminology-glossary", "category": "beginner" },
+    { "keyword": "heritage boot buying guide", "slug": "heritage-boot-buying-guide", "category": "beginner" }
+  ]
+}

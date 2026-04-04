@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- プレースホルダー画像 -->
+  <rect width="400" height="300" fill="#1A1612"/>
+  <g transform="translate(140, 80)">
+    <!-- ブーツアイコン -->
+    <path d="M25 120 L25 50 Q25 30 45 25 L55 23 L55 15 Q55 10 60 10 L70 10 Q75 10 75 15 L75 23 L85 25 Q105 30 105 50 L105 120 Z" fill="#3B3430" stroke="#B8860B" stroke-width="1.5"/>
+    <rect x="20" y="118" width="90" height="10" rx="3" fill="#D4A574" stroke="#B8860B" stroke-width="1"/>
+  </g>
+  <text x="200" y="240" text-anchor="middle" font-family="serif" font-size="14" fill="#666" letter-spacing="0.05em">Boot Craft Archive</text>
+</svg>
