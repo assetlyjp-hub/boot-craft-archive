@@ -1,0 +1,192 @@
+---
+// [id].astro - ブーツ詳細ページ
+// 動的ルーティングで各ブーツの詳細情報を表示
+
+import Base from '../../layouts/Base.astro';
+import BootCard from '../../components/BootCard.astro';
+
+// データの読み込み
+import bootsData from '../../data/boots.json';
+import leathersData from '../../data/leathers.json';
+import constructionsData from '../../data/constructions.json';
+import brandsData from '../../data/brands.json';
+
+// レザーIDのマッピング（boots.jsonの値 → leathers.jsonのID）
+const leatherIdMap: Record<string, string> = {
+  'calf': 'calfskin',
+};
+
+// 静的パス生成（全ブーツのIDからパスを生成）
+export function getStaticPaths() {
+  return bootsData.map((boot) => ({
+    params: { id: boot.id },
+  }));
+}
+
+// URLパラメータからブーツIDを取得
+const { id } = Astro.params;
+
+// 該当するブーツデータを検索
+const boot = bootsData.find(k => k.id === id);
+if (!boot) return Astro.redirect('/404');
+
+// レザーデータを検索（マッピング考慮）
+const leatherId = leatherIdMap[boot.leather] || boot.leather;
+const leather = leathersData.find(l => l.id === leatherId);
+
+// 製法データを検索
+const construction = constructionsData.find(c => c.id === boot.construction);
+
+// ブランドデータを検索
+const brand = brandsData.find(b => b.id === boot.brand);
+
+// 関連ブーツデータを取得
+const relatedBoots = boot.relatedBoots
+  .map(relId => bootsData.find(b => b.id === relId))
+  .filter(Boolean);
+
+// カテゴリ表示名
+const categoryLabel = boot.category
+  .split('-')
+  .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+  .join(' ');
+
+// JSON-LD構造化データ（Product schema）
+const productJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": boot.name,
+  "description": boot.description,
+  "brand": {
+    "@type": "Brand",
+    "name": brand?.name || boot.brand,
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": boot.price,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+  },
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "Category", "value": categoryLabel },
+    { "@type": "PropertyValue", "name": "Leather", "value": leather?.name || boot.leather },
+    { "@type": "PropertyValue", "name": "Construction", "value": construction?.name || boot.construction },
+    { "@type": "PropertyValue", "name": "Made In", "value": boot.madeIn },
+  ],
+};
+---
+
+<Base
+  title={boot.name}
+  description={boot.description.slice(0, 160)}
+  jsonLd={productJsonLd}
+>
+  <!-- ブーツ詳細ヘッダー -->
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      {categoryLabel} · {boot.madeIn}
+    </p>
+    <h1 class="page-header__title">{boot.name}</h1>
+    <p class="page-header__description">{brand?.name || boot.brand} — {boot.madeIn}</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- ブーツ画像 -->
+    <div style="padding: var(--space-lg) 0;">
+      <img src={boot.image} alt={boot.name} style="width: 100%; border-radius: var(--radius-md);" />
+    </div>
+
+    <!-- 価格表示 -->
+    <div style="display: flex; gap: var(--space-md); align-items: center; margin-bottom: var(--space-lg);">
+      <span style="font-size: 1.8rem; font-weight: 700; color: var(--color-danger);">${boot.price}</span>
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{boot.description}</p>
+
+    <!-- スペック表 -->
+    <div class="spec-grid">
+      <div class="spec-item">
+        <span class="spec-item__label">Category</span>
+        <span class="spec-item__value">{categoryLabel}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Leather</span>
+        <span class="spec-item__value">
+          <a href={`/leathers/${leatherId}/`} style="color: var(--color-accent);">{leather?.name || boot.leather}</a>
+        </span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Construction</span>
+        <span class="spec-item__value">
+          <a href={`/constructions/${boot.construction}/`} style="color: var(--color-accent);">{construction?.name || boot.construction}</a>
+        </span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Sole</span>
+        <span class="spec-item__value">{boot.sole.charAt(0).toUpperCase() + boot.sole.slice(1)}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Last Shape</span>
+        <span class="spec-item__value">{boot.lastShape}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Made In</span>
+        <span class="spec-item__value">{boot.madeIn}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Brand</span>
+        <span class="spec-item__value">
+          <a href={`/brands/${boot.brand}/`} style="color: var(--color-accent);">{brand?.name || boot.brand}</a>
+        </span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Price</span>
+        <span class="spec-item__value">${boot.price}</span>
+      </div>
+    </div>
+
+    <!-- 特徴リスト -->
+    <div style="padding: var(--space-lg) 0;">
+      <h2 style="margin-bottom: var(--space-md);">Key Features</h2>
+      <ul style="list-style: none; padding: 0;">
+        {boot.features.map((feature: string) => (
+          <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--color-border); color: var(--color-text-sub); display: flex; align-items: center; gap: 0.5rem;">
+            <span style="color: var(--color-accent);">&#9670;</span>
+            {feature}
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <!-- 購入リンク -->
+    <div style="padding: var(--space-md) 0 var(--space-lg);">
+      <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
+      <div class="buy-links">
+        <a href={boot.amazonUrl || '#'} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon</a>
+      </div>
+    </div>
+
+    <!-- 関連ブーツ -->
+    {relatedBoots.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Related Boots</h2>
+        <div class="related-grid">
+          {relatedBoots.map((rb: any) => (
+            <BootCard
+              id={rb.id}
+              name={rb.name}
+              brand={rb.brand}
+              category={rb.category}
+              leather={rb.leather}
+              construction={rb.construction}
+              price={rb.price}
+              madeIn={rb.madeIn}
+              image={rb.image}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

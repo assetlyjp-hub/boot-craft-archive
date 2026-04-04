@@ -1,0 +1,68 @@
+---
+// BootCard.astro - ブーツカードコンポーネント
+// グリッド表示用のブーツ1足分のカード
+
+// ブーツデータの型定義
+interface Props {
+  id: string;          // ブーツID（URLスラッグ）
+  name: string;        // ブーツ名
+  brand: string;       // ブランドID
+  category: string;    // カテゴリ（service-boot, oxford等）
+  leather: string;     // レザー種別
+  construction: string; // 製法
+  price: number;       // 価格（USD）
+  madeIn: string;      // 生産国
+  image: string;       // 画像パス
+}
+
+const { id, name, brand, category, leather, construction, price, madeIn, image } = Astro.props;
+
+// カテゴリの表示名を見やすくする
+const categoryLabel = category
+  .split('-')
+  .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+  .join(' ');
+
+// レザー名を見やすくする
+const leatherLabel = leather
+  .split('-')
+  .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+  .join(' ');
+
+// 製法名を見やすくする
+const constructionLabel = construction
+  .split('-')
+  .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+  .join(' ');
+---
+
+<!-- ブーツカード: クリックで詳細ページへ遷移 -->
+<a href={`/boots/${id}/`} class="item-card"
+   data-category={category}
+   data-leather={leather}
+   data-construction={construction}
+   data-price={price}
+   data-made-in={madeIn}>
+
+  <!-- ブーツ画像（SVGプレースホルダー） -->
+  <img src={image} alt={name} class="item-card__image" loading="lazy" />
+
+  <div class="item-card__body">
+    <!-- カテゴリラベル -->
+    <p class="item-card__type">{categoryLabel}</p>
+
+    <!-- ブーツ名 -->
+    <h3 class="item-card__name">{name}</h3>
+
+    <!-- ブランド名 -->
+    <p class="item-card__brand">{brand.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</p>
+
+    <!-- メタ情報: レザー・製法・生産国・価格 -->
+    <div class="item-card__meta">
+      <span class="item-card__tag">{leatherLabel}</span>
+      <span class="item-card__tag">{constructionLabel}</span>
+      <span class="item-card__tag">{madeIn}</span>
+      <span class="item-card__price">${price}</span>
+    </div>
+  </div>
+</a>

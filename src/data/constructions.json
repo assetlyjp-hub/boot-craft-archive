@@ -1,0 +1,86 @@
+[
+  {
+    "id": "goodyear-welt",
+    "name": "Goodyear Welt",
+    "nameJa": "グッドイヤーウェルト",
+    "description": "The Goodyear welt is the gold standard of boot construction, named after Charles Goodyear Jr. who invented the machine to automate the process. A strip of leather (the welt) is stitched to both the upper and a rib attached to the insole, then the outsole is stitched to the welt. This creates a water-resistant channel and allows multiple resoles over the boot's lifetime.",
+    "descriptionJa": "グッドイヤーウェルトは工程を自動化する機械を発明したチャールズ・グッドイヤー・ジュニアにちなんで名付けられたブーツ製法のゴールドスタンダード。レザーのストリップ（ウェルト）をアッパーとインソールに取り付けられたリブの両方に縫い付け、アウトソールをウェルトに縫い付ける。防水チャネルを形成し、ブーツの寿命を通じて何度もリソールが可能。",
+    "properties": {
+      "durability": 5,
+      "waterResistance": 4,
+      "resolability": 5,
+      "flexibility": 2,
+      "weight": 2
+    }
+  },
+  {
+    "id": "blake",
+    "name": "Blake Stitch",
+    "nameJa": "ブレイクステッチ",
+    "description": "Blake stitch construction sews the outsole directly to the insole through the upper, creating a sleeker, more flexible shoe. Invented by Lyman Reed Blake in 1856, this method produces a thinner profile ideal for dress shoes. While less water-resistant than welted construction, Blake-stitched shoes break in faster and feel lighter on the foot.",
+    "descriptionJa": "ブレイクステッチ製法はアウトソールをアッパーを通してインソールに直接縫い付ける。1856年にライマン・リード・ブレイクが発明したこの製法は、よりスリークで柔軟な靴を生み出し、ドレスシューズに最適な薄いプロファイルを実現。ウェルト製法ほどの防水性はないが、履き慣らしが早く足に軽い。",
+    "properties": {
+      "durability": 3,
+      "waterResistance": 2,
+      "resolability": 3,
+      "flexibility": 5,
+      "weight": 5
+    }
+  },
+  {
+    "id": "stitchdown",
+    "name": "Stitchdown",
+    "nameJa": "ステッチダウン",
+    "description": "In stitchdown construction, the upper leather is turned outward and stitched directly to the midsole, creating a visible flange around the shoe. This method, favored by makers like Viberg, produces a wider, more rugged-looking boot with excellent flexibility. The turned-out upper creates a natural water barrier at the sole join.",
+    "descriptionJa": "ステッチダウン製法ではアッパーレザーを外側に折り返してミッドソールに直接縫い付け、靴の周りに目に見えるフランジを作る。ヴァイバーグなどのメーカーが好むこの製法は、幅広くよりラギッドな見た目のブーツを生み出し、優れた柔軟性を持つ。外側に折り返したアッパーがソール接合部で自然な防水バリアを形成。",
+    "properties": {
+      "durability": 4,
+      "waterResistance": 4,
+      "resolability": 4,
+      "flexibility": 4,
+      "weight": 3
+    }
+  },
+  {
+    "id": "norwegian-welt",
+    "name": "Norwegian Welt",
+    "nameJa": "ノルウィージャンウェルト",
+    "description": "The Norwegian welt is a heavy-duty construction where the upper is turned outward and stitched with a visible double row of stitching. Developed for Scandinavian weather conditions, it provides the best water resistance of any welt construction. Paraboot is the most famous practitioner of this technique.",
+    "descriptionJa": "ノルウィージャンウェルトはアッパーを外側に折り返し、目に見えるダブルステッチで縫い付けるヘビーデューティな製法。スカンジナビアの気候条件に対応するために開発され、あらゆるウェルト製法の中で最高の防水性を提供。パラブーツがこの技法で最も有名。",
+    "properties": {
+      "durability": 5,
+      "waterResistance": 5,
+      "resolability": 4,
+      "flexibility": 2,
+      "weight": 1
+    }
+  },
+  {
+    "id": "blake-rapid",
+    "name": "Blake/Rapid",
+    "nameJa": "ブレイク/ラピッド",
+    "description": "Blake/Rapid is a hybrid construction that combines Blake stitching with an additional outsole stitch. The insole is first Blake-stitched to a midsole, then the outsole is attached via a rapid stitch visible on the outsole edge. This offers better water resistance and resolability than pure Blake while maintaining a relatively slim profile.",
+    "descriptionJa": "ブレイク/ラピッドはブレイクステッチにアウトソールステッチを追加したハイブリッド製法。まずインソールをミッドソールにブレイクステッチし、次にアウトソールをアウトソール端に見えるラピッドステッチで取り付ける。純粋なブレイクより防水性とリソール性に優れ、比較的スリムなプロファイルを維持。",
+    "properties": {
+      "durability": 4,
+      "waterResistance": 3,
+      "resolability": 4,
+      "flexibility": 4,
+      "weight": 4
+    }
+  },
+  {
+    "id": "cement",
+    "name": "Cement",
+    "nameJa": "セメント（接着）",
+    "description": "Cement construction uses industrial adhesive to bond the outsole to the upper, without any stitching. While often associated with cheaper footwear, modern adhesives are incredibly strong. This method produces the lightest, most flexible shoes and is used by some high-end sneaker brands. However, cement shoes cannot be resoled.",
+    "descriptionJa": "セメント製法は工業用接着剤でアウトソールをアッパーに接着する、ステッチなしの製法。安価なフットウェアと関連付けられがちだが、現代の接着剤は非常に強力。最も軽量で柔軟な靴を生み出し、一部の高級スニーカーブランドも採用。ただしリソールは不可能。",
+    "properties": {
+      "durability": 1,
+      "waterResistance": 2,
+      "resolability": 1,
+      "flexibility": 5,
+      "weight": 5
+    }
+  }
+]

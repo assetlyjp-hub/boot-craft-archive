@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- サービスブーツ シルエット -->
+  <rect width="400" height="300" fill="#1A1612"/>
+  <g transform="translate(100, 30)">
+    <!-- ブーツ本体 -->
+    <path d="M50 240 L50 100 Q50 60 80 50 L90 47 L90 30 Q90 20 100 20 L120 20 Q130 20 130 30 L130 47 L140 50 Q170 60 170 100 L170 240 Z" fill="#3B3430" stroke="#B8860B" stroke-width="1.5"/>
+    <!-- ソール -->
+    <rect x="40" y="238" width="140" height="15" rx="4" fill="#D4A574" stroke="#B8860B" stroke-width="1"/>
+    <!-- ステッチ -->
+    <path d="M60 120 L160 120" stroke="#B8860B" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.6"/>
+    <path d="M55 160 L165 160" stroke="#B8860B" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.6"/>
+    <path d="M52 200 L168 200" stroke="#B8860B" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.6"/>
+    <!-- レースホール -->
+    <circle cx="95" cy="65" r="3" fill="#B8860B" opacity="0.5"/>
+    <circle cx="125" cy="65" r="3" fill="#B8860B" opacity="0.5"/>
+    <circle cx="95" cy="80" r="3" fill="#B8860B" opacity="0.5"/>
+    <circle cx="125" cy="80" r="3" fill="#B8860B" opacity="0.5"/>
+    <circle cx="95" cy="95" r="3" fill="#B8860B" opacity="0.5"/>
+    <circle cx="125" cy="95" r="3" fill="#B8860B" opacity="0.5"/>
+  </g>
+  <!-- ラベル -->
+  <text x="200" y="285" text-anchor="middle" font-family="serif" font-size="12" fill="#666" letter-spacing="0.1em">SERVICE BOOT</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- チェルシーブーツ シルエット -->
+  <rect width="400" height="300" fill="#1A1612"/>
+  <g transform="translate(100, 30)">
+    <!-- ブーツ本体 -->
+    <path d="M50 240 L50 80 Q50 50 80 45 L140 45 Q170 50 170 80 L170 240 Z" fill="#3B3430" stroke="#B8860B" stroke-width="1.5"/>
+    <!-- ソール -->
+    <rect x="40" y="238" width="140" height="15" rx="4" fill="#D4A574" stroke="#B8860B" stroke-width="1"/>
+    <!-- エラスティックゴア（サイドの伸縮パネル） -->
+    <rect x="52" y="80" width="15" height="80" rx="3" fill="#2B2420" stroke="#B8860B" stroke-width="0.8"/>
+    <rect x="153" y="80" width="15" height="80" rx="3" fill="#2B2420" stroke="#B8860B" stroke-width="0.8"/>
+    <!-- プルタブ -->
+    <rect x="95" y="48" width="30" height="8" rx="2" fill="#B8860B" opacity="0.4"/>
+    <!-- ステッチ -->
+    <path d="M55 180 L165 180" stroke="#B8860B" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.6"/>
+  </g>
+  <text x="200" y="285" text-anchor="middle" font-family="serif" font-size="12" fill="#666" letter-spacing="0.1em">CHELSEA BOOT</text>
+</svg>

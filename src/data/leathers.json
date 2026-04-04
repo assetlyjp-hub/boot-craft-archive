@@ -1,0 +1,130 @@
+[
+  {
+    "id": "chromexcel",
+    "name": "Chromexcel",
+    "nameJa": "クロムエクセル",
+    "tannery": "Horween",
+    "tanningMethod": "combination",
+    "description": "Chromexcel is Horween's legendary pull-up leather, tanned using a proprietary 89-step combination tanning process involving chrome, vegetable tannins, and hot stuffing with natural oils and greases. Known for its rich depth of color, self-healing scratch resistance, and exceptional patina development over time.",
+    "descriptionJa": "クロムエクセルはホーウィン社の伝説的プルアップレザー。クローム、植物タンニン、天然オイル・グリースによるホットスタッフィングを含む独自の89工程のコンビネーション鞣しで製造。色の深み、自己修復するスクラッチ耐性、経年変化による卓越したパティーナで知られる。",
+    "properties": {
+      "durability": 4,
+      "waterResistance": 3,
+      "patina": 5,
+      "suppleness": 5,
+      "maintenance": 3
+    }
+  },
+  {
+    "id": "shell-cordovan",
+    "name": "Shell Cordovan",
+    "nameJa": "シェルコードバン",
+    "tannery": "Horween",
+    "tanningMethod": "vegetable",
+    "description": "Shell Cordovan is the most prized leather in footwear, made from the oval shell membrane beneath a horse's hindquarters. Horween's vegetable tanning process takes six months to complete. The resulting leather develops a mirror-like patina, resists creasing, and can last a lifetime with proper care.",
+    "descriptionJa": "シェルコードバンはフットウェアで最も珍重されるレザーで、馬の臀部の下にある楕円形のシェル膜から作られる。ホーウィン社の植物タンニン鞣しは完成まで6ヶ月を要する。出来上がったレザーは鏡のようなパティーナを形成し、シワに強く、適切なケアで一生使える。",
+    "properties": {
+      "durability": 5,
+      "waterResistance": 2,
+      "patina": 5,
+      "suppleness": 3,
+      "maintenance": 2
+    }
+  },
+  {
+    "id": "calfskin",
+    "name": "Calfskin",
+    "nameJa": "カーフスキン",
+    "tannery": "Various",
+    "tanningMethod": "chrome",
+    "description": "Calfskin is the gold standard of dress shoe leather, prized for its fine grain, smooth texture, and ability to take a high polish. Sourced from young cattle, it offers a perfect balance of suppleness and structure. French and Italian tanneries produce the finest calfskin used in luxury footwear.",
+    "descriptionJa": "カーフスキンはドレスシューズレザーのゴールドスタンダードで、きめ細かい粒子、滑らかな質感、高い光沢仕上げが可能なことで珍重される。若い牛から採取され、しなやかさと構造のバランスに優れる。フランスやイタリアのタンナリーが高級フットウェア用の最高級カーフスキンを生産。",
+    "properties": {
+      "durability": 3,
+      "waterResistance": 2,
+      "patina": 4,
+      "suppleness": 4,
+      "maintenance": 3
+    }
+  },
+  {
+    "id": "suede",
+    "name": "Suede",
+    "nameJa": "スエード",
+    "tannery": "Various",
+    "tanningMethod": "chrome",
+    "description": "Suede is leather with the grain side buffed to create a soft, napped finish. While often perceived as delicate, quality suede from reputable tanneries like CF Stead is surprisingly durable. Its texture adds visual interest and a casual elegance that works beautifully across seasons.",
+    "descriptionJa": "スエードは銀面を研磨して柔らかい起毛仕上げにしたレザー。繊細に見られがちだが、CFステッドのような信頼できるタンナリーの高品質スエードは驚くほど耐久性がある。そのテクスチャーはビジュアルの魅力とカジュアルなエレガンスを加え、四季を通じて美しく映える。",
+    "properties": {
+      "durability": 2,
+      "waterResistance": 1,
+      "patina": 2,
+      "suppleness": 5,
+      "maintenance": 2
+    }
+  },
+  {
+    "id": "roughout",
+    "name": "Roughout",
+    "nameJa": "ラフアウト",
+    "tannery": "Various",
+    "tanningMethod": "combination",
+    "description": "Roughout leather is conventional leather turned inside out, exposing the flesh side. Originally used in military boots for its resistance to scuffs and abrasion, roughout develops a rugged character over time. It hides scratches naturally and requires minimal maintenance compared to smooth leathers.",
+    "descriptionJa": "ラフアウトレザーは通常の革を裏返して肉面を表にしたもの。もともと傷や摩擦に強いことから軍用ブーツに使われ、経年で荒々しい味わいを増す。傷が目立ちにくく、スムースレザーと比べてメンテナンスも最小限で済む。",
+    "properties": {
+      "durability": 4,
+      "waterResistance": 3,
+      "patina": 3,
+      "suppleness": 3,
+      "maintenance": 4
+    }
+  },
+  {
+    "id": "veg-tan",
+    "name": "Vegetable Tanned",
+    "nameJa": "ベジタブルタンニン鞣し",
+    "tannery": "Various",
+    "tanningMethod": "vegetable",
+    "description": "Vegetable tanned leather uses natural tannins from tree bark and plants in a process that can take weeks to months. The result is a firm, characterful leather that develops the most dramatic patina of any leather type. It stiffens and molds to the wearer's foot over time, creating a truly personal fit.",
+    "descriptionJa": "ベジタブルタンニン鞣しレザーは樹皮や植物由来の天然タンニンを使い、数週間から数ヶ月かけて鞣す。出来上がったレザーは硬めで個性的な質感を持ち、あらゆるレザーの中で最もドラマチックなパティーナを生む。経年で硬化しながら着用者の足に馴染み、完全にパーソナルなフィットを実現。",
+    "properties": {
+      "durability": 4,
+      "waterResistance": 2,
+      "patina": 5,
+      "suppleness": 3,
+      "maintenance": 3
+    }
+  },
+  {
+    "id": "nubuck",
+    "name": "Nubuck",
+    "nameJa": "ヌバック",
+    "tannery": "Various",
+    "tanningMethod": "chrome",
+    "description": "Nubuck is top-grain leather that has been sanded or buffed on the grain side to create a soft, velvety texture. Unlike suede (which uses the flesh side), nubuck uses the stronger grain side, making it more durable. It offers a luxurious tactile experience but requires careful protection from water and stains.",
+    "descriptionJa": "ヌバックは銀面を研磨してベルベットのような柔らかい質感にしたトップグレインレザー。肉面を使うスエードと異なり、より強い銀面を使うため耐久性が高い。贅沢な触感を提供するが、水や汚れからの保護に注意が必要。",
+    "properties": {
+      "durability": 3,
+      "waterResistance": 1,
+      "patina": 2,
+      "suppleness": 4,
+      "maintenance": 2
+    }
+  },
+  {
+    "id": "dublin",
+    "name": "Dublin",
+    "nameJa": "ダブリン",
+    "tannery": "Horween",
+    "tanningMethod": "combination",
+    "description": "Dublin is another Horween pull-up leather similar to Chromexcel but with a slightly different character. It features the same combination tanning process but with a more natural, waxy hand feel. Dublin leather develops beautiful pull-up marks and ages gracefully with a warm, rich patina.",
+    "descriptionJa": "ダブリンはクロムエクセルに似たホーウィン社のプルアップレザーだが、やや異なる個性を持つ。同じコンビネーション鞣しだが、より自然でワックス感のある手触りが特徴。美しいプルアップマークが出て、温かみのある豊かなパティーナへと優雅に経年変化する。",
+    "properties": {
+      "durability": 4,
+      "waterResistance": 3,
+      "patina": 4,
+      "suppleness": 4,
+      "maintenance": 3
+    }
+  }
+]

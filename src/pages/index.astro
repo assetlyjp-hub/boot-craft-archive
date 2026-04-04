@@ -1,0 +1,47 @@
+---
+// index.astro - トップページ
+// ヒーロー + フィルター付きブーツグリッドを表示
+
+import Base from '../layouts/Base.astro';
+import FilterBar from '../components/FilterBar.astro';
+import BootCard from '../components/BootCard.astro';
+
+// ブーツデータの読み込み
+import bootsData from '../data/boots.json';
+---
+
+<Base title="Boot Craft Archive">
+  <!-- ヒーローセクション -->
+  <section class="hero">
+    <h1 class="hero__title">Boot Craft <span>Archive</span></h1>
+    <p class="hero__subtitle">Crafted Footwear, Curated Knowledge</p>
+  </section>
+
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- フィルターバー -->
+    <FilterBar />
+
+    <!-- ブーツグリッド -->
+    <div class="item-grid" id="boot-grid">
+      {bootsData.map((boot) => (
+        <BootCard
+          id={boot.id}
+          name={boot.name}
+          brand={boot.brand}
+          category={boot.category}
+          leather={boot.leather}
+          construction={boot.construction}
+          price={boot.price}
+          madeIn={boot.madeIn}
+          image={boot.image}
+        />
+      ))}
+    </div>
+
+    <!-- 結果なし表示（フィルターで全非表示の時） -->
+    <p id="no-results" style="display:none; text-align:center; color:var(--color-text-muted); padding: 2rem 0;">
+      No boots match your filters. Try adjusting your criteria.
+    </p>
+  </div>
+</Base>

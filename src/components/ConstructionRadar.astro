@@ -1,0 +1,93 @@
+---
+// ConstructionRadar.astro - 製法のレーダーチャート（SVGで描画）
+// 5つのスペック（耐久性・防水性・リソール性・柔軟性・軽さ）をレーダーで表示
+
+interface Props {
+  durability: number;       // 耐久性（1-5）
+  waterResistance: number;  // 防水性（1-5）
+  resolability: number;     // リソール性（1-5）
+  flexibility: number;      // 柔軟性（1-5）
+  weight: number;           // 軽さ（1-5、高いほど軽い）
+  size?: number;            // SVGサイズ（デフォルト200）
+}
+
+const {
+  durability,
+  waterResistance,
+  resolability,
+  flexibility,
+  weight,
+  size = 200,
+} = Astro.props;
+
+// 5つの値を配列に
+const values = [durability, waterResistance, resolability, flexibility, weight];
+const labels = ['Durability', 'Water Resist.', 'Resolability', 'Flexibility', 'Lightweight'];
+
+// レーダーチャートの計算
+const center = size / 2;
+const maxRadius = (size / 2) - 30;  // ラベル分の余白
+const angles = values.map((_, i) => (Math.PI * 2 * i) / values.length - Math.PI / 2);
+
+// 各値の座標を計算する関数
+function getPoint(value: number, index: number): [number, number] {
+  const radius = (value / 5) * maxRadius;
+  return [
+    center + radius * Math.cos(angles[index]),
+    center + radius * Math.sin(angles[index]),
+  ];
+}
+
+// データポイントのパスを生成
+const dataPoints = values.map((v, i) => getPoint(v, i));
+const dataPath = dataPoints.map((p, i) => `${i === 0 ? 'M' : 'L'}${p[0]},${p[1]}`).join(' ') + 'Z';
+
+// グリッド線のパスを生成（5段階）
+function getGridPath(level: number): string {
+  const points = angles.map((_, i) => getPoint(level, i));
+  return points.map((p, i) => `${i === 0 ? 'M' : 'L'}${p[0]},${p[1]}`).join(' ') + 'Z';
+}
+
+// ラベルの座標（グリッドの外側に配置）
+const labelPoints = angles.map((angle, _i) => [
+  center + (maxRadius + 20) * Math.cos(angle),
+  center + (maxRadius + 20) * Math.sin(angle),
+]);
+---
+
+<svg viewBox={`0 0 ${size} ${size}`} class="radar-chart" xmlns="http://www.w3.org/2000/svg">
+  <!-- グリッド線（5段階） -->
+  {[1, 2, 3, 4, 5].map(level => (
+    <path d={getGridPath(level)} fill="none" stroke="#3A3025"
+          stroke-width={level === 5 ? 1 : 0.5} opacity={level === 5 ? 0.8 : 0.4} />
+  ))}
+
+  <!-- 軸線（中心から各頂点へ） -->
+  {angles.map((_, i) => {
+    const [x, y] = getPoint(5, i);
+    return <line x1={center} y1={center} x2={x} y2={y} stroke="#3A3025" stroke-width="0.5" opacity="0.4" />;
+  })}
+
+  <!-- データエリア（塗りつぶし） -->
+  <path d={dataPath} fill="rgba(184, 134, 11, 0.2)" stroke="#B8860B" stroke-width="2" />
+
+  <!-- データポイント（丸） -->
+  {dataPoints.map(([x, y]) => (
+    <circle cx={x} cy={y} r="3" fill="#B8860B" />
+  ))}
+
+  <!-- ラベル -->
+  {labels.map((label, i) => (
+    <text
+      x={labelPoints[i][0]}
+      y={labelPoints[i][1]}
+      text-anchor="middle"
+      dominant-baseline="central"
+      font-family="Inter, sans-serif"
+      font-size="8"
+      fill="#999"
+    >
+      {label}
+    </text>
+  ))}
+</svg>
