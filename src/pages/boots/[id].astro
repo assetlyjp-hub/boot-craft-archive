@@ -81,8 +81,15 @@ const productJsonLd = {
   description={boot.description.slice(0, 160)}
   jsonLd={productJsonLd}
 >
+  <!-- 一覧への戻りリンク -->
+  <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
+    <a href="/" style="font-size: 0.85rem; color: var(--color-text-muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.3rem; transition: color 0.2s;">
+      <span>&larr;</span> Back to Boots
+    </a>
+  </div>
+
   <!-- ブーツ詳細ヘッダー -->
-  <div class="page-header">
+  <div class="page-header" style="padding-top: var(--space-sm);">
     <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
       {categoryLabel} · {boot.madeIn}
     </p>
@@ -159,13 +166,15 @@ const productJsonLd = {
       </ul>
     </div>
 
-    <!-- 購入リンク -->
-    <div style="padding: var(--space-md) 0 var(--space-lg);">
-      <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
-      <div class="buy-links">
-        <a href={boot.amazonUrl || '#'} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon</a>
+    <!-- 購入リンク（URLがある場合のみ表示） -->
+    {boot.amazonUrl && (
+      <div style="padding: var(--space-md) 0 var(--space-lg);">
+        <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
+        <div class="buy-links">
+          <a href={boot.amazonUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon</a>
+        </div>
       </div>
-    </div>
+    )}
 
     <!-- 関連ブーツ -->
     {relatedBoots.length > 0 && (
