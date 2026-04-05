@@ -1,9 +1,12 @@
 ---
 // magazine/[...slug].astro - 記事詳細ページ
 // Markdownの記事をレンダリングして表示
+// frontmatter の relatedBoots に対応するブーツ商品カードも表示
 
 import Article from '../../layouts/Article.astro';
+import RelatedProducts from '../../components/RelatedProducts.astro';
 import { getCollection, render } from 'astro:content';
+import bootsData from '../../data/boots.json';
 
 // 静的パス生成（全記事からパスを生成）
 export async function getStaticPaths() {
@@ -19,6 +22,12 @@ const { article } = Astro.props;
 
 // MarkdownをHTMLにレンダリング
 const { Content } = await render(article);
+
+// frontmatter の relatedBoots IDリストからブーツデータを取得
+const relatedIds = article.data.relatedBoots || [];
+const matchedBoots = relatedIds.map((id: string) =>
+  bootsData.find((b: any) => b.id === id)
+).filter(Boolean);
 ---
 
 <Article
@@ -30,4 +39,5 @@ const { Content } = await render(article);
   tags={article.data.tags}
 >
   <Content />
+  <RelatedProducts boots={matchedBoots} />
 </Article>

@@ -1,0 +1,66 @@
+---
+// RelatedProducts.astro - 記事内で紹介されたブーツの商品カード
+// frontmatter の relatedBoots フィールドに対応するブーツ情報を表示
+
+// ブーツデータの型定義
+interface Boot {
+  id: string;
+  name: string;
+  brand: string;
+  leather: string;
+  construction: string;
+  sole: string;
+  price: number;
+  madeIn: string;
+  image: string;
+  amazonUrl?: string;
+}
+
+interface Props {
+  boots: Boot[];
+}
+
+const { boots } = Astro.props;
+---
+
+{/* ブーツが1件以上あるときだけセクションを表示 */}
+{boots.length > 0 && (
+  <section class="related-products">
+    <h2 class="related-products__title">🥾 Featured Boots in This Article</h2>
+    <div class="related-products__grid">
+      {boots.map((boot) => (
+        <div class="related-products__card">
+          {/* ブーツ画像 */}
+          <div class="related-products__image">
+            <img src={boot.image} alt={boot.name} loading="lazy" />
+          </div>
+
+          {/* ブーツ情報 */}
+          <div class="related-products__info">
+            <h3 class="related-products__name">
+              <a href={`/boots/${boot.id}/`}>{boot.name}</a>
+            </h3>
+            <p class="related-products__meta">{boot.brand}</p>
+            <p class="related-products__price">${boot.price}</p>
+            <p class="related-products__materials">
+              {boot.leather} · {boot.construction} · {boot.sole}
+            </p>
+            <p class="related-products__meta">Made in {boot.madeIn}</p>
+
+            {/* 購入・詳細リンク */}
+            <div class="related-products__links">
+              <a href={`/boots/${boot.id}/`} class="related-products__btn related-products__btn--detail">
+                View Details
+              </a>
+              {boot.amazonUrl && (
+                <a href={boot.amazonUrl} class="related-products__btn related-products__btn--amazon" target="_blank" rel="noopener noreferrer">
+                  Amazon
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+)}
