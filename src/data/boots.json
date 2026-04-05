@@ -16,7 +16,7 @@
     "featuresJa": ["キャップトゥデザイン", "Vibram 430ミニラグソール", "ナイトライルコルクミッドソール", "トリプルステッチ仕上げ"],
     "description": "The Iron Ranger is Red Wing's most iconic heritage boot. Inspired by the iron miners of Minnesota's Mesabi Range, it features a double-layered toe cap for extra protection and Amber Harness leather that develops a rich patina over time.",
     "descriptionJa": "アイアンレンジャーはレッドウィングを代表するヘリテージブーツ。ミネソタ州メサビレンジの鉄鉱山労働者にインスパイアされた二重トゥキャップが特徴。アンバーハーネスレザーは経年変化で美しいパティーナを形成する。",
-    "amazonUrl": "",
+    "amazonUrl": "https://amzn.to/41zBw69",
     "image": "/images/boots/service-boot.svg",
     "relatedBoots": ["red-wing-blacksmith-3343", "red-wing-beckman", "wolverine-1000-mile"]
   },
@@ -37,7 +37,7 @@
     "featuresJa": ["モックトゥ構造", "トラクショントレッド・クリスティソール", "オロレガシーレザー", "快適なウェッジソール"],
     "description": "The 875 is the original moc toe boot that built Red Wing's reputation. The Traction Tred wedge sole provides all-day comfort while the Oro Legacy leather ages beautifully. A true American classic since 1952.",
     "descriptionJa": "875はレッドウィングの名声を築いたオリジナルモックトゥブーツ。トラクショントレッドウェッジソールが終日の快適さを提供し、オロレガシーレザーは美しく経年変化する。1952年以来のアメリカの定番。",
-    "amazonUrl": "",
+    "amazonUrl": "https://amzn.to/4sTYnoI",
     "image": "/images/boots/moc-toe.svg",
     "relatedBoots": ["red-wing-iron-ranger-8111", "red-wing-blacksmith-3343", "grant-stone-diesel-boot"]
   },
