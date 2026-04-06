@@ -4,6 +4,7 @@ description: "Learn how to properly clean, condition, and maintain your leather 
 category: "care"
 tags: ["leather-care", "maintenance", "conditioning", "beginner"]
 publishedAt: "2026-03-15"
+updatedAt: "2026-04-06"
 relatedBoots: ["red-wing-iron-ranger-8111", "wolverine-1000-mile", "thursday-captain"]
 articleType: "guide"
 ---

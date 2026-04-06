@@ -1,20 +1,19 @@
 ---
-// magazine/[...slug].astro - 記事詳細ページ
-// Markdownの記事をレンダリングして表示
-// frontmatter の relatedBoots に対応するブーツ商品カードも表示
+// ja/magazine/[...slug].astro - 日本語版 記事詳細ページ
+// ja/ サブフォルダの記事をレンダリングして表示
 
-import Article from '../../layouts/Article.astro';
-import RelatedProducts from '../../components/RelatedProducts.astro';
+import Article from '../../../layouts/Article.astro';
+import RelatedProducts from '../../../components/RelatedProducts.astro';
 import { getCollection, render } from 'astro:content';
-import bootsData from '../../data/boots.json';
+import bootsData from '../../../data/boots.json';
 
-// 静的パス生成（全記事からパスを生成）
+// 静的パス生成（ja/ プレフィックスの記事のみ）
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
   return articles
-    .filter(a => !a.id.startsWith('ja/'))
+    .filter(a => a.id.startsWith('ja/'))
     .map((article) => ({
-      params: { slug: article.id },
+      params: { slug: article.id.replace('ja/', '') },
       props: { article },
     }));
 }

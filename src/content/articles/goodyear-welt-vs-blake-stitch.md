@@ -4,6 +4,7 @@ description: "A detailed comparison of the two most popular shoe construction me
 category: "comparison"
 tags: ["goodyear-welt", "blake-stitch", "construction", "comparison"]
 publishedAt: "2026-03-20"
+updatedAt: "2026-04-06"
 relatedBoots: ["allen-edmonds-park-avenue", "churchs-consul", "carmina-shell-cordovan-derby"]
 articleType: "comparison"
 ---

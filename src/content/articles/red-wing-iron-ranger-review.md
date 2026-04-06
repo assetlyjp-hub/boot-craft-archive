@@ -4,6 +4,7 @@ description: "An in-depth review of the Red Wing Iron Ranger 8111 in Amber Harne
 category: "review"
 tags: ["red-wing", "iron-ranger", "service-boot", "heritage"]
 publishedAt: "2026-03-28"
+updatedAt: "2026-04-06"
 relatedBoots: ["red-wing-iron-ranger-8111", "red-wing-blacksmith-3343", "red-wing-beckman"]
 articleType: "review"
 ---

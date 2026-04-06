@@ -4,6 +4,7 @@ description: "Looking for quality welted boots without breaking the bank? We rev
 category: "beginner"
 tags: ["goodyear-welt", "budget", "beginner", "service-boot"]
 publishedAt: "2026-04-01"
+updatedAt: "2026-04-06"
 relatedBoots: ["thursday-captain", "thursday-president", "red-wing-moc-toe-875"]
 articleType: "listicle"
 ---
