@@ -1,0 +1,60 @@
+---
+// ja/magazine/index.astro - 日本語版 記事一覧ページ
+// ja/ サブフォルダの記事のみをフィルターして表示
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+// 全記事を取得し、ja/ プレフィックスのもののみ抽出
+const allArticles = await getCollection('articles');
+const jaArticles = allArticles
+  .filter(a => a.id.startsWith('ja/'))
+  .sort((a, b) =>
+    new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime()
+  );
+
+// カテゴリの日本語表示名マッピング
+const categoryLabels: Record<string, string> = {
+  review: 'レビュー',
+  leather: 'レザーガイド',
+  construction: '製法ガイド',
+  comparison: '比較',
+  care: 'ケアガイド',
+  beginner: '初心者向け',
+};
+---
+
+<Base
+  title="Magazine — ブーツガイド＆レビュー"
+  description="レザーブーツの選び方、ケア方法、レビュー記事を掲載。初心者向けガイドから上級者向けの比較記事まで。"
+  enPath="/magazine/"
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Magazine</h1>
+    <p class="page-header__description">
+      クラフトフットウェアのガイド、レビュー、深掘り記事
+    </p>
+  </div>
+
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {jaArticles.map((article) => (
+        <a href={`/ja/magazine/${article.id.replace('ja/', '')}/`} class="article-card">
+          <div class="article-card__body">
+            <p class="article-card__category">{categoryLabels[article.data.category] || article.data.category}</p>
+            <h3 class="article-card__title">{article.data.title}</h3>
+            <p class="article-card__excerpt">{article.data.description}</p>
+            <p class="article-card__excerpt" style="margin-top: 0.5rem; font-size: 0.75rem; color: var(--color-text-muted);">
+              {article.data.publishedAt}
+            </p>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    {jaArticles.length === 0 && (
+      <p style="text-align: center; color: var(--color-text-muted); padding: var(--space-xl) 0;">
+        記事はまだありません。もうしばらくお待ちください！
+      </p>
+    )}
+  </div>
+</Base>

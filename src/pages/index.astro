@@ -8,9 +8,23 @@ import BootCard from '../components/BootCard.astro';
 
 // ブーツデータの読み込み
 import bootsData from '../data/boots.json';
+
+// ItemList JSON-LD: Google検索結果でカルーセル表示の可能性を高める
+const itemListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Crafted Leather Boots & Shoes",
+  "numberOfItems": bootsData.length,
+  "itemListElement": bootsData.map((boot, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "url": `https://bootcraftarchive.com/boots/${boot.id}/`,
+    "name": boot.name,
+  })),
+};
 ---
 
-<Base title="Boot Craft Archive">
+<Base title="Boot Craft Archive" jsonLd={itemListJsonLd}>
   <!-- ヒーローセクション -->
   <section class="hero">
     <h1 class="hero__title">Boot Craft <span>Archive</span></h1>

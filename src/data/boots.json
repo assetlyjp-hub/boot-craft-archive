@@ -12,13 +12,28 @@
     "price": 350,
     "priceRange": "mid",
     "madeIn": "USA",
-    "features": ["Cap toe design", "Vibram 430 Mini Lug sole", "Nitrile cork midsole", "Triple stitched quality"],
-    "featuresJa": ["キャップトゥデザイン", "Vibram 430ミニラグソール", "ナイトライルコルクミッドソール", "トリプルステッチ仕上げ"],
+    "features": [
+      "Cap toe design",
+      "Vibram 430 Mini Lug sole",
+      "Nitrile cork midsole",
+      "Triple stitched quality"
+    ],
+    "featuresJa": [
+      "キャップトゥデザイン",
+      "Vibram 430ミニラグソール",
+      "ナイトライルコルクミッドソール",
+      "トリプルステッチ仕上げ"
+    ],
     "description": "The Iron Ranger is Red Wing's most iconic heritage boot. Inspired by the iron miners of Minnesota's Mesabi Range, it features a double-layered toe cap for extra protection and Amber Harness leather that develops a rich patina over time.",
     "descriptionJa": "アイアンレンジャーはレッドウィングを代表するヘリテージブーツ。ミネソタ州メサビレンジの鉄鉱山労働者にインスパイアされた二重トゥキャップが特徴。アンバーハーネスレザーは経年変化で美しいパティーナを形成する。",
     "amazonUrl": "https://amzn.to/41zBw69",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["red-wing-blacksmith-3343", "red-wing-beckman", "wolverine-1000-mile"]
+    "amazonJPUrl": "https://amzn.to/4mbRzQI",
+    "image": "/images/boots/red-wing-iron-ranger-8111.webp",
+    "relatedBoots": [
+      "red-wing-blacksmith-3343",
+      "red-wing-beckman",
+      "wolverine-1000-mile"
+    ]
   },
   {
     "id": "red-wing-moc-toe-875",
@@ -33,13 +48,28 @@
     "price": 310,
     "priceRange": "mid",
     "madeIn": "USA",
-    "features": ["Moc toe construction", "Traction Tred Christy sole", "Oro Legacy leather", "Comfortable wedge sole"],
-    "featuresJa": ["モックトゥ構造", "トラクショントレッド・クリスティソール", "オロレガシーレザー", "快適なウェッジソール"],
+    "features": [
+      "Moc toe construction",
+      "Traction Tred Christy sole",
+      "Oro Legacy leather",
+      "Comfortable wedge sole"
+    ],
+    "featuresJa": [
+      "モックトゥ構造",
+      "トラクショントレッド・クリスティソール",
+      "オロレガシーレザー",
+      "快適なウェッジソール"
+    ],
     "description": "The 875 is the original moc toe boot that built Red Wing's reputation. The Traction Tred wedge sole provides all-day comfort while the Oro Legacy leather ages beautifully. A true American classic since 1952.",
     "descriptionJa": "875はレッドウィングの名声を築いたオリジナルモックトゥブーツ。トラクショントレッドウェッジソールが終日の快適さを提供し、オロレガシーレザーは美しく経年変化する。1952年以来のアメリカの定番。",
     "amazonUrl": "https://amzn.to/4sTYnoI",
-    "image": "/images/boots/moc-toe.svg",
-    "relatedBoots": ["red-wing-iron-ranger-8111", "red-wing-blacksmith-3343", "grant-stone-diesel-boot"]
+    "amazonJPUrl": "https://amzn.to/4cbcMG8",
+    "image": "/images/boots/red-wing-moc-toe-875.webp",
+    "relatedBoots": [
+      "red-wing-iron-ranger-8111",
+      "red-wing-blacksmith-3343",
+      "grant-stone-diesel-boot"
+    ]
   },
   {
     "id": "red-wing-blacksmith-3343",
@@ -54,13 +84,28 @@
     "price": 340,
     "priceRange": "mid",
     "madeIn": "USA",
-    "features": ["Plain toe design", "Vibram 430 Mini Lug sole", "Copper Rough & Tough leather", "Unstructured toe box"],
-    "featuresJa": ["プレーントゥデザイン", "Vibram 430ミニラグソール", "コッパー ラフ＆タフレザー", "非構造化トゥボックス"],
+    "features": [
+      "Plain toe design",
+      "Vibram 430 Mini Lug sole",
+      "Copper Rough & Tough leather",
+      "Unstructured toe box"
+    ],
+    "featuresJa": [
+      "プレーントゥデザイン",
+      "Vibram 430ミニラグソール",
+      "コッパー ラフ＆タフレザー",
+      "非構造化トゥボックス"
+    ],
     "description": "The Blacksmith offers the heritage aesthetic of the Iron Ranger without the cap toe. Its unstructured toe box molds to your foot over time, and Copper Rough & Tough leather is among the most forgiving leathers Red Wing offers.",
     "descriptionJa": "ブラックスミスはキャップトゥなしのヘリテージブーツ。非構造化トゥボックスが足に馴染み、コッパー ラフ＆タフレザーはレッドウィングで最も扱いやすい革の一つ。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["red-wing-iron-ranger-8111", "red-wing-beckman", "thursday-captain"]
+    "amazonJPUrl": "https://amzn.to/41fsxH4",
+    "image": "/images/boots/red-wing-blacksmith-3343.webp",
+    "relatedBoots": [
+      "red-wing-iron-ranger-8111",
+      "red-wing-beckman",
+      "thursday-captain"
+    ]
   },
   {
     "id": "red-wing-beckman",
@@ -75,13 +120,28 @@
     "price": 400,
     "priceRange": "mid",
     "madeIn": "USA",
-    "features": ["Featherstone leather", "Leather outsole with lug half-sole", "Dressy heritage silhouette", "Speed hooks"],
-    "featuresJa": ["フェザーストーンレザー", "ラグハーフソール付きレザーアウトソール", "ドレッシーなヘリテージシルエット", "スピードフック"],
+    "features": [
+      "Featherstone leather",
+      "Leather outsole with lug half-sole",
+      "Dressy heritage silhouette",
+      "Speed hooks"
+    ],
+    "featuresJa": [
+      "フェザーストーンレザー",
+      "ラグハーフソール付きレザーアウトソール",
+      "ドレッシーなヘリテージシルエット",
+      "スピードフック"
+    ],
     "description": "The Beckman bridges the gap between workwear and dress boot. Featuring Red Wing's premium Featherstone leather and a leather outsole, it brings refined elegance while maintaining the brand's rugged heritage.",
     "descriptionJa": "ベックマンはワークウェアとドレスブーツの架け橋。レッドウィングのプレミアム・フェザーストーンレザーとレザーアウトソールで、ブランドの堅牢なヘリテージを保ちつつ洗練されたエレガンスを実現。",
-    "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["red-wing-iron-ranger-8111", "wolverine-1000-mile", "allen-edmonds-dalton"]
+    "amazonUrl": "https://amzn.to/3PTpv8O",
+    "amazonJPUrl": "https://amzn.to/4tsIci4",
+    "image": "/images/boots/red-wing-beckman.webp",
+    "relatedBoots": [
+      "red-wing-iron-ranger-8111",
+      "wolverine-1000-mile",
+      "allen-edmonds-dalton"
+    ]
   },
   {
     "id": "wolverine-1000-mile",
@@ -96,13 +156,28 @@
     "price": 400,
     "priceRange": "mid",
     "madeIn": "USA",
-    "features": ["Horween Chromexcel leather", "Leather stacked sole", "Vibram heel", "Classic silhouette since 1914"],
-    "featuresJa": ["ホーウィン社クロムエクセルレザー", "レザースタックドソール", "Vibramヒール", "1914年以来のクラシックシルエット"],
+    "features": [
+      "Horween Chromexcel leather",
+      "Leather stacked sole",
+      "Vibram heel",
+      "Classic silhouette since 1914"
+    ],
+    "featuresJa": [
+      "ホーウィン社クロムエクセルレザー",
+      "レザースタックドソール",
+      "Vibramヒール",
+      "1914年以来のクラシックシルエット"
+    ],
     "description": "Wolverine's flagship heritage boot uses Horween's legendary Chromexcel leather, known for its pull-up character and rich patina development. The stacked leather sole with Vibram heel offers a perfect balance of style and durability.",
     "descriptionJa": "ウルヴァリンのフラッグシップ・ヘリテージブーツ。ホーウィン社の伝説的クロムエクセルレザーを使用し、プルアップの質感と豊かなパティーナが特徴。レザースタックドソールとVibramヒールでスタイルと耐久性を両立。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["wolverine-1000-mile-evans", "red-wing-iron-ranger-8111", "red-wing-beckman"]
+    "amazonJPUrl": "https://amzn.to/3QligXj",
+    "image": "/images/boots/wolverine-1000-mile.webp",
+    "relatedBoots": [
+      "wolverine-1000-mile-evans",
+      "red-wing-iron-ranger-8111",
+      "red-wing-beckman"
+    ]
   },
   {
     "id": "wolverine-1000-mile-evans",
@@ -117,13 +192,27 @@
     "price": 420,
     "priceRange": "premium",
     "madeIn": "USA",
-    "features": ["Horween Chromexcel leather", "Wingtip brogue detail", "Leather stacked sole", "Heritage meets dress style"],
-    "featuresJa": ["ホーウィン社クロムエクセルレザー", "ウィングチップ・ブローグ装飾", "レザースタックドソール", "ヘリテージとドレスの融合"],
+    "features": [
+      "Horween Chromexcel leather",
+      "Wingtip brogue detail",
+      "Leather stacked sole",
+      "Heritage meets dress style"
+    ],
+    "featuresJa": [
+      "ホーウィン社クロムエクセルレザー",
+      "ウィングチップ・ブローグ装飾",
+      "レザースタックドソール",
+      "ヘリテージとドレスの融合"
+    ],
     "description": "The Evans adds wingtip brogue detailing to the classic 1000 Mile platform. Same Horween Chromexcel quality with added visual flair, making it versatile enough for both casual and semi-formal settings.",
     "descriptionJa": "エヴァンスはクラシックな1000マイルにウィングチップ・ブローグを加えたモデル。ホーウィン社クロムエクセルの品質はそのままに、カジュアルからセミフォーマルまで対応する汎用性を実現。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["wolverine-1000-mile", "allen-edmonds-dalton", "trickers-stow"]
+    "image": "/images/boots/wolverine-1000-mile-evans.webp",
+    "relatedBoots": [
+      "wolverine-1000-mile",
+      "allen-edmonds-dalton",
+      "trickers-stow"
+    ]
   },
   {
     "id": "allen-edmonds-park-avenue",
@@ -138,13 +227,27 @@
     "price": 395,
     "priceRange": "mid",
     "madeIn": "USA",
-    "features": ["Cap toe oxford", "Calfskin leather upper", "Leather sole with rubber heel", "360-degree Goodyear welt"],
-    "featuresJa": ["キャップトゥオックスフォード", "カーフスキンレザーアッパー", "ラバーヒール付きレザーソール", "360度グッドイヤーウェルト"],
+    "features": [
+      "Cap toe oxford",
+      "Calfskin leather upper",
+      "Leather sole with rubber heel",
+      "360-degree Goodyear welt"
+    ],
+    "featuresJa": [
+      "キャップトゥオックスフォード",
+      "カーフスキンレザーアッパー",
+      "ラバーヒール付きレザーソール",
+      "360度グッドイヤーウェルト"
+    ],
     "description": "The Park Avenue is America's quintessential dress shoe. A cap-toe oxford with clean, elegant lines, it has been the go-to shoe for Wall Street professionals and White House staff for decades.",
     "descriptionJa": "パークアベニューはアメリカを代表するドレスシューズ。クリーンで優雅なラインのキャップトゥオックスフォードは、何十年もウォール街のプロフェッショナルやホワイトハウスのスタッフに愛用されてきた。",
-    "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["allen-edmonds-strand", "allen-edmonds-dalton", "churchs-consul"]
+    "amazonUrl": "https://amzn.to/4dqFIG1",
+    "image": "/images/boots/allen-edmonds-park-avenue.webp",
+    "relatedBoots": [
+      "allen-edmonds-strand",
+      "allen-edmonds-dalton",
+      "churchs-consul"
+    ]
   },
   {
     "id": "allen-edmonds-strand",
@@ -159,13 +262,27 @@
     "price": 395,
     "priceRange": "mid",
     "madeIn": "USA",
-    "features": ["Cap toe with brogue perforations", "Full-grain calfskin", "Leather sole", "Medallion toe detail"],
-    "featuresJa": ["ブローグパーフォレーション付きキャップトゥ", "フルグレインカーフスキン", "レザーソール", "メダリオントゥ装飾"],
+    "features": [
+      "Cap toe with brogue perforations",
+      "Full-grain calfskin",
+      "Leather sole",
+      "Medallion toe detail"
+    ],
+    "featuresJa": [
+      "ブローグパーフォレーション付きキャップトゥ",
+      "フルグレインカーフスキン",
+      "レザーソール",
+      "メダリオントゥ装飾"
+    ],
     "description": "The Strand adds brogue perforations and a medallion toe to Allen Edmonds' Park Avenue platform. The extra detail makes it versatile for both business and smart-casual occasions.",
     "descriptionJa": "ストランドはパークアベニューにブローグパーフォレーションとメダリオントゥを加えたモデル。装飾がビジネスからスマートカジュアルまでの汎用性を高めている。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["allen-edmonds-park-avenue", "allen-edmonds-dalton", "crockett-jones-islay"]
+    "image": "/images/boots/allen-edmonds-strand.webp",
+    "relatedBoots": [
+      "allen-edmonds-park-avenue",
+      "allen-edmonds-dalton",
+      "crockett-jones-islay"
+    ]
   },
   {
     "id": "allen-edmonds-dalton",
@@ -180,13 +297,27 @@
     "price": 495,
     "priceRange": "premium",
     "madeIn": "USA",
-    "features": ["Wingtip boot design", "Dainite rubber sole", "Calfskin leather upper", "Brogue detailing throughout"],
-    "featuresJa": ["ウィングチップブーツデザイン", "ダイナイトラバーソール", "カーフスキンレザーアッパー", "全面ブローグ装飾"],
+    "features": [
+      "Wingtip boot design",
+      "Dainite rubber sole",
+      "Calfskin leather upper",
+      "Brogue detailing throughout"
+    ],
+    "featuresJa": [
+      "ウィングチップブーツデザイン",
+      "ダイナイトラバーソール",
+      "カーフスキンレザーアッパー",
+      "全面ブローグ装飾"
+    ],
     "description": "The Dalton is Allen Edmonds' take on the classic wingtip boot. With full brogue detailing and a Dainite sole for all-weather traction, it bridges the gap between heritage workboot and dress shoe.",
     "descriptionJa": "ダルトンはアレンエドモンズのクラシックウィングチップブーツ。フルブローグ装飾とダイナイトソールで全天候対応。ヘリテージワークブーツとドレスシューズの架け橋的存在。",
-    "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["allen-edmonds-strand", "trickers-stow", "crockett-jones-islay"]
+    "amazonUrl": "https://amzn.to/4sV41Hn",
+    "image": "/images/boots/allen-edmonds-dalton.webp",
+    "relatedBoots": [
+      "allen-edmonds-strand",
+      "trickers-stow",
+      "crockett-jones-islay"
+    ]
   },
   {
     "id": "alden-indy-boot-403",
@@ -201,13 +332,27 @@
     "price": 630,
     "priceRange": "premium",
     "madeIn": "USA",
-    "features": ["Chromexcel leather upper", "Trubalance last for comfort", "Commando sole", "Made famous by Indiana Jones"],
-    "featuresJa": ["クロムエクセルレザーアッパー", "快適なTrubalanceラスト", "コマンドソール", "インディ・ジョーンズで有名"],
+    "features": [
+      "Chromexcel leather upper",
+      "Trubalance last for comfort",
+      "Commando sole",
+      "Made famous by Indiana Jones"
+    ],
+    "featuresJa": [
+      "クロムエクセルレザーアッパー",
+      "快適なTrubalanceラスト",
+      "コマンドソール",
+      "インディ・ジョーンズで有名"
+    ],
     "description": "The Alden 403 Indy Boot gained legendary status from the Indiana Jones films. Built on the generous Trubalance last with Horween Chromexcel leather, it combines rugged durability with Alden's unmatched craftsmanship.",
     "descriptionJa": "オールデン403インディブーツはインディ・ジョーンズ映画で伝説的地位を獲得。ゆったりとしたTrubalanceラストとホーウィン社クロムエクセルレザーで、堅牢な耐久性とオールデンの比類なきクラフツマンシップを融合。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["alden-plain-toe-blucher", "alden-tassel-loafer", "viberg-service-boot-2030"]
+    "image": "/images/boots/alden-indy-boot-403.webp",
+    "relatedBoots": [
+      "alden-plain-toe-blucher",
+      "alden-tassel-loafer",
+      "viberg-service-boot-2030"
+    ]
   },
   {
     "id": "alden-plain-toe-blucher",
@@ -222,13 +367,27 @@
     "price": 800,
     "priceRange": "luxury",
     "madeIn": "USA",
-    "features": ["Horween Shell Cordovan", "Barrie last", "Double leather sole", "Color #8 burgundy"],
-    "featuresJa": ["ホーウィン社シェルコードバン", "バリーラスト", "ダブルレザーソール", "カラー#8バーガンディ"],
+    "features": [
+      "Horween Shell Cordovan",
+      "Barrie last",
+      "Double leather sole",
+      "Color #8 burgundy"
+    ],
+    "featuresJa": [
+      "ホーウィン社シェルコードバン",
+      "バリーラスト",
+      "ダブルレザーソール",
+      "カラー#8バーガンディ"
+    ],
     "description": "The Alden 990 in Color #8 Shell Cordovan is perhaps the most coveted American dress shoe. Shell cordovan's legendary durability and mirror-like patina make this a lifetime investment piece.",
     "descriptionJa": "カラー#8シェルコードバンのオールデン990は、最も切望されるアメリカンドレスシューズ。シェルコードバンの伝説的な耐久性と鏡のようなパティーナは、一生モノの投資にふさわしい。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["alden-indy-boot-403", "alden-tassel-loafer", "carmina-shell-cordovan-derby"]
+    "image": "/images/boots/alden-plain-toe-blucher.webp",
+    "relatedBoots": [
+      "alden-indy-boot-403",
+      "alden-tassel-loafer",
+      "carmina-shell-cordovan-derby"
+    ]
   },
   {
     "id": "alden-tassel-loafer",
@@ -243,13 +402,27 @@
     "price": 850,
     "priceRange": "luxury",
     "madeIn": "USA",
-    "features": ["Shell Cordovan upper", "Aberdeen last", "Tassel detail", "Slip-on convenience"],
-    "featuresJa": ["シェルコードバンアッパー", "アバディーンラスト", "タッセル装飾", "スリッポンの利便性"],
+    "features": [
+      "Shell Cordovan upper",
+      "Aberdeen last",
+      "Tassel detail",
+      "Slip-on convenience"
+    ],
+    "featuresJa": [
+      "シェルコードバンアッパー",
+      "アバディーンラスト",
+      "タッセル装飾",
+      "スリッポンの利便性"
+    ],
     "description": "Alden's Tassel Loafer in Shell Cordovan epitomizes Ivy League style. The sleek Aberdeen last creates an elegant silhouette, while the Shell Cordovan only improves with age.",
     "descriptionJa": "シェルコードバンのオールデン・タッセルローファーはアイビーリーグスタイルの極致。スリークなアバディーンラストがエレガントなシルエットを生み、シェルコードバンは経年で美しさを増す。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["alden-plain-toe-blucher", "alden-indy-boot-403", "carmina-shell-cordovan-derby"]
+    "image": "/images/boots/alden-tassel-loafer.webp",
+    "relatedBoots": [
+      "alden-plain-toe-blucher",
+      "alden-indy-boot-403",
+      "carmina-shell-cordovan-derby"
+    ]
   },
   {
     "id": "grant-stone-diesel-boot",
@@ -264,13 +437,27 @@
     "price": 360,
     "priceRange": "mid",
     "madeIn": "China",
-    "features": ["Horween Chromexcel leather", "Studded rubber sole", "Wheeled welt", "Exceptional value"],
-    "featuresJa": ["ホーウィン社クロムエクセルレザー", "スタッドラバーソール", "ウィールドウェルト", "卓越したコストパフォーマンス"],
+    "features": [
+      "Horween Chromexcel leather",
+      "Studded rubber sole",
+      "Wheeled welt",
+      "Exceptional value"
+    ],
+    "featuresJa": [
+      "ホーウィン社クロムエクセルレザー",
+      "スタッドラバーソール",
+      "ウィールドウェルト",
+      "卓越したコストパフォーマンス"
+    ],
     "description": "Grant Stone's Diesel Boot offers Alden-level quality at a fraction of the price. Using genuine Horween Chromexcel and a hand-welted construction, it represents perhaps the best value in the heritage boot market.",
     "descriptionJa": "グラントストーンのディーゼルブーツはオールデンレベルの品質を手頃な価格で提供。本物のホーウィン社クロムエクセルとハンドウェルト製法で、ヘリテージブーツ市場で最高のコストパフォーマンスを実現。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["grant-stone-ottawa-boot", "grant-stone-plain-toe", "red-wing-iron-ranger-8111"]
+    "image": "/images/boots/grant-stone-diesel-boot.webp",
+    "relatedBoots": [
+      "grant-stone-ottawa-boot",
+      "grant-stone-plain-toe",
+      "red-wing-iron-ranger-8111"
+    ]
   },
   {
     "id": "grant-stone-ottawa-boot",
@@ -285,13 +472,27 @@
     "price": 380,
     "priceRange": "mid",
     "madeIn": "China",
-    "features": ["Roughout leather upper", "Stitchdown construction", "Vibram Morflex sole", "Moc toe silhouette"],
-    "featuresJa": ["ラフアウトレザーアッパー", "ステッチダウン製法", "Vibram Morflexソール", "モックトゥシルエット"],
+    "features": [
+      "Roughout leather upper",
+      "Stitchdown construction",
+      "Vibram Morflex sole",
+      "Moc toe silhouette"
+    ],
+    "featuresJa": [
+      "ラフアウトレザーアッパー",
+      "ステッチダウン製法",
+      "Vibram Morflexソール",
+      "モックトゥシルエット"
+    ],
     "description": "The Ottawa Boot uses stitchdown construction for a wider, more rugged aesthetic. Roughout leather resists scuffs and develops a unique character over time. A great alternative to Red Wing's moc toe line.",
     "descriptionJa": "オタワブーツはステッチダウン製法で幅広くワイルドな見た目を実現。ラフアウトレザーは傷に強く、独特の経年変化を見せる。レッドウィングのモックトゥラインの優れた代替品。",
     "amazonUrl": "",
-    "image": "/images/boots/moc-toe.svg",
-    "relatedBoots": ["grant-stone-diesel-boot", "red-wing-moc-toe-875", "grant-stone-plain-toe"]
+    "image": "/images/boots/grant-stone-ottawa-boot.webp",
+    "relatedBoots": [
+      "grant-stone-diesel-boot",
+      "red-wing-moc-toe-875",
+      "grant-stone-plain-toe"
+    ]
   },
   {
     "id": "grant-stone-plain-toe",
@@ -306,13 +507,27 @@
     "price": 330,
     "priceRange": "mid",
     "madeIn": "China",
-    "features": ["Vegano calfskin leather", "Leather outsole", "Clean plain toe design", "Oliver last dress shape"],
-    "featuresJa": ["ヴェガーノ・カーフスキンレザー", "レザーアウトソール", "クリーンなプレーントゥデザイン", "Oliverラスト ドレスシェイプ"],
+    "features": [
+      "Vegano calfskin leather",
+      "Leather outsole",
+      "Clean plain toe design",
+      "Oliver last dress shape"
+    ],
+    "featuresJa": [
+      "ヴェガーノ・カーフスキンレザー",
+      "レザーアウトソール",
+      "クリーンなプレーントゥデザイン",
+      "Oliverラスト ドレスシェイプ"
+    ],
     "description": "Grant Stone's Plain Toe derby combines the clean lines of a dress shoe with the durability of a welted construction. The Oliver last provides an elegant yet comfortable fit at an accessible price point.",
     "descriptionJa": "グラントストーンのプレーントゥダービーはドレスシューズのクリーンなラインとウェルト製法の耐久性を融合。Oliverラストが手頃な価格でエレガントかつ快適なフィットを提供。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["grant-stone-diesel-boot", "allen-edmonds-park-avenue", "carmina-shell-cordovan-derby"]
+    "image": "/images/boots/grant-stone-plain-toe.webp",
+    "relatedBoots": [
+      "grant-stone-diesel-boot",
+      "allen-edmonds-park-avenue",
+      "carmina-shell-cordovan-derby"
+    ]
   },
   {
     "id": "thursday-captain",
@@ -327,13 +542,27 @@
     "price": 199,
     "priceRange": "budget",
     "madeIn": "Mexico",
-    "features": ["Horween Chromexcel leather", "Studded rubber sole", "Cork-bed footbed", "Excellent entry-level boot"],
-    "featuresJa": ["ホーウィン社クロムエクセルレザー", "スタッドラバーソール", "コルクベッドフットベッド", "優れたエントリーレベルブーツ"],
+    "features": [
+      "Horween Chromexcel leather",
+      "Studded rubber sole",
+      "Cork-bed footbed",
+      "Excellent entry-level boot"
+    ],
+    "featuresJa": [
+      "ホーウィン社クロムエクセルレザー",
+      "スタッドラバーソール",
+      "コルクベッドフットベッド",
+      "優れたエントリーレベルブーツ"
+    ],
     "description": "Thursday's Captain is the boot that disrupted the heritage market. Offering Horween Chromexcel leather and Goodyear welt construction under $200, it's the best entry point into quality footwear.",
     "descriptionJa": "サーズデイのキャプテンはヘリテージ市場に変革をもたらしたブーツ。200ドル以下でホーウィン社クロムエクセルとグッドイヤーウェルト製法を実現。上質なフットウェアへの最良のエントリーポイント。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["thursday-president", "thursday-diplomat", "grant-stone-diesel-boot"]
+    "image": "/images/boots/thursday-captain.webp",
+    "relatedBoots": [
+      "thursday-president",
+      "thursday-diplomat",
+      "grant-stone-diesel-boot"
+    ]
   },
   {
     "id": "thursday-president",
@@ -348,13 +577,27 @@
     "price": 199,
     "priceRange": "budget",
     "madeIn": "Mexico",
-    "features": ["Plain toe design", "Horween Chromexcel", "Dainite-style sole", "Sleeker than Captain"],
-    "featuresJa": ["プレーントゥデザイン", "ホーウィン社クロムエクセル", "ダイナイトスタイルソール", "キャプテンよりスリーク"],
+    "features": [
+      "Plain toe design",
+      "Horween Chromexcel",
+      "Dainite-style sole",
+      "Sleeker than Captain"
+    ],
+    "featuresJa": [
+      "プレーントゥデザイン",
+      "ホーウィン社クロムエクセル",
+      "ダイナイトスタイルソール",
+      "キャプテンよりスリーク"
+    ],
     "description": "The President is Thursday's plain toe counterpart to the Captain. Without the cap toe stitching, it offers a cleaner, dressier profile while maintaining the same quality construction and materials.",
     "descriptionJa": "プレジデントはキャプテンのプレーントゥ版。キャップトゥのステッチがない分、よりクリーンでドレッシーなプロファイルを持ちながら、同じ品質の製法と素材を維持。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["thursday-captain", "thursday-diplomat", "red-wing-blacksmith-3343"]
+    "image": "/images/boots/thursday-president.webp",
+    "relatedBoots": [
+      "thursday-captain",
+      "thursday-diplomat",
+      "red-wing-blacksmith-3343"
+    ]
   },
   {
     "id": "thursday-diplomat",
@@ -369,13 +612,27 @@
     "price": 220,
     "priceRange": "budget",
     "madeIn": "Mexico",
-    "features": ["Wingtip dress boot", "Full-grain calfskin", "Leather sole", "Brogue detailing"],
-    "featuresJa": ["ウィングチップドレスブーツ", "フルグレインカーフスキン", "レザーソール", "ブローグ装飾"],
+    "features": [
+      "Wingtip dress boot",
+      "Full-grain calfskin",
+      "Leather sole",
+      "Brogue detailing"
+    ],
+    "featuresJa": [
+      "ウィングチップドレスブーツ",
+      "フルグレインカーフスキン",
+      "レザーソール",
+      "ブローグ装飾"
+    ],
     "description": "The Diplomat brings dress boot styling at Thursday's trademark value pricing. Full brogue wingtip detailing on a calfskin upper with a leather sole makes it suitable for business and formal occasions.",
     "descriptionJa": "ディプロマットはサーズデイのコストパフォーマンスでドレスブーツスタイリングを実現。カーフスキンにフルブローグ・ウィングチップとレザーソールで、ビジネスやフォーマルに対応。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["thursday-captain", "thursday-president", "allen-edmonds-dalton"]
+    "image": "/images/boots/thursday-diplomat.webp",
+    "relatedBoots": [
+      "thursday-captain",
+      "thursday-president",
+      "allen-edmonds-dalton"
+    ]
   },
   {
     "id": "viberg-service-boot-2030",
@@ -390,13 +647,27 @@
     "price": 700,
     "priceRange": "luxury",
     "madeIn": "Canada",
-    "features": ["Stitchdown construction", "2030 last", "Dainite sole", "Unstructured toe"],
-    "featuresJa": ["ステッチダウン製法", "2030ラスト", "ダイナイトソール", "非構造化トゥ"],
+    "features": [
+      "Stitchdown construction",
+      "2030 last",
+      "Dainite sole",
+      "Unstructured toe"
+    ],
+    "featuresJa": [
+      "ステッチダウン製法",
+      "2030ラスト",
+      "ダイナイトソール",
+      "非構造化トゥ"
+    ],
     "description": "Viberg's 2030 Service Boot is the gold standard of modern heritage boots. The iconic 2030 last with its slightly tapered, almond-shaped toe creates a sleek silhouette. Stitchdown construction allows for wider welting and easier resoling.",
     "descriptionJa": "ヴァイバーグの2030サービスブーツは現代のヘリテージブーツのゴールドスタンダード。アイコニックな2030ラストのやや先細りのアーモンドシェイプがスリークなシルエットを生む。ステッチダウン製法で幅広いウェルティングと容易なリソールが可能。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["viberg-derby", "alden-indy-boot-403", "grant-stone-diesel-boot"]
+    "image": "/images/boots/viberg-service-boot-2030.webp",
+    "relatedBoots": [
+      "viberg-derby",
+      "alden-indy-boot-403",
+      "grant-stone-diesel-boot"
+    ]
   },
   {
     "id": "viberg-derby",
@@ -411,13 +682,27 @@
     "price": 620,
     "priceRange": "luxury",
     "madeIn": "Canada",
-    "features": ["2030 last", "Stitchdown construction", "Leather sole", "Low-profile derby design"],
-    "featuresJa": ["2030ラスト", "ステッチダウン製法", "レザーソール", "ローカットダービーデザイン"],
+    "features": [
+      "2030 last",
+      "Stitchdown construction",
+      "Leather sole",
+      "Low-profile derby design"
+    ],
+    "featuresJa": [
+      "2030ラスト",
+      "ステッチダウン製法",
+      "レザーソール",
+      "ローカットダービーデザイン"
+    ],
     "description": "Viberg's Derby brings the same meticulous construction as their Service Boot to a low-cut shoe. The 2030 last provides the same coveted silhouette in a more versatile, year-round format.",
     "descriptionJa": "ヴァイバーグのダービーはサービスブーツと同じ精緻な製法をローカットシューズに適用。2030ラストの人気シルエットをより汎用性の高い通年フォーマットで提供。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["viberg-service-boot-2030", "alden-plain-toe-blucher", "paraboot-chambord"]
+    "image": "/images/boots/viberg-derby.webp",
+    "relatedBoots": [
+      "viberg-service-boot-2030",
+      "alden-plain-toe-blucher",
+      "paraboot-chambord"
+    ]
   },
   {
     "id": "trickers-stow",
@@ -432,13 +717,27 @@
     "price": 590,
     "priceRange": "premium",
     "madeIn": "UK",
-    "features": ["Full brogue wingtip", "Dainite studded sole", "Bench-made construction", "Storm welt"],
-    "featuresJa": ["フルブローグ・ウィングチップ", "ダイナイト・スタッドソール", "ベンチメイド製法", "ストームウェルト"],
+    "features": [
+      "Full brogue wingtip",
+      "Dainite studded sole",
+      "Bench-made construction",
+      "Storm welt"
+    ],
+    "featuresJa": [
+      "フルブローグ・ウィングチップ",
+      "ダイナイト・スタッドソール",
+      "ベンチメイド製法",
+      "ストームウェルト"
+    ],
     "description": "The Stow is Tricker's legendary country boot, handmade in Northampton since 1829. Its full brogue wingtip design and Dainite sole make it equally at home in the countryside and the city. A benchmark of British bootmaking.",
     "descriptionJa": "ストウは1829年からノーサンプトンで手作りされてきたトリッカーズの伝説的カントリーブーツ。フルブローグ・ウィングチップとダイナイトソールで、田舎でも都会でも映える。英国ブーツ作りのベンチマーク。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["trickers-bourton", "crockett-jones-islay", "allen-edmonds-dalton"]
+    "image": "/images/boots/trickers-stow.webp",
+    "relatedBoots": [
+      "trickers-bourton",
+      "crockett-jones-islay",
+      "allen-edmonds-dalton"
+    ]
   },
   {
     "id": "trickers-bourton",
@@ -453,13 +752,27 @@
     "price": 540,
     "priceRange": "premium",
     "madeIn": "UK",
-    "features": ["Full brogue derby", "Dainite sole", "Heavy-duty storm welt", "Double leather sole option"],
-    "featuresJa": ["フルブローグダービー", "ダイナイトソール", "ヘビーデューティ・ストームウェルト", "ダブルレザーソールオプション"],
+    "features": [
+      "Full brogue derby",
+      "Dainite sole",
+      "Heavy-duty storm welt",
+      "Double leather sole option"
+    ],
+    "featuresJa": [
+      "フルブローグダービー",
+      "ダイナイトソール",
+      "ヘビーデューティ・ストームウェルト",
+      "ダブルレザーソールオプション"
+    ],
     "description": "The Bourton is the shoe version of the legendary Stow boot. Same superb construction and brogue detailing in a derby format. The chunky silhouette and Dainite sole handle any terrain with aplomb.",
     "descriptionJa": "バートンは伝説のストウブーツのシューズ版。同じ卓越した製法とブローグ装飾をダービーフォーマットで提供。チャンキーなシルエットとダイナイトソールはどんな地形もこなす。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["trickers-stow", "paraboot-chambord", "crockett-jones-islay"]
+    "image": "/images/boots/trickers-bourton.webp",
+    "relatedBoots": [
+      "trickers-stow",
+      "paraboot-chambord",
+      "crockett-jones-islay"
+    ]
   },
   {
     "id": "crockett-jones-islay",
@@ -474,13 +787,27 @@
     "price": 650,
     "priceRange": "premium",
     "madeIn": "UK",
-    "features": ["Scotch grain leather", "Dainite sole", "Storm welt", "James Bond's boot of choice"],
-    "featuresJa": ["スコッチグレインレザー", "ダイナイトソール", "ストームウェルト", "ジェームズ・ボンドのブーツ"],
+    "features": [
+      "Scotch grain leather",
+      "Dainite sole",
+      "Storm welt",
+      "James Bond's boot of choice"
+    ],
+    "featuresJa": [
+      "スコッチグレインレザー",
+      "ダイナイトソール",
+      "ストームウェルト",
+      "ジェームズ・ボンドのブーツ"
+    ],
     "description": "Made famous by Daniel Craig's James Bond in Skyfall, the Islay is Crockett & Jones' rugged country boot. Scotch grain leather and a storm welt provide excellent weather protection while maintaining a refined British aesthetic.",
     "descriptionJa": "映画スカイフォールのダニエル・クレイグ演じるジェームズ・ボンドで有名になったアイラは、クロケット＆ジョーンズのラギッドカントリーブーツ。スコッチグレインレザーとストームウェルトで優れた耐候性と洗練された英国的美学を両立。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["crockett-jones-coniston", "trickers-stow", "churchs-shannon"]
+    "image": "/images/boots/crockett-jones-islay.webp",
+    "relatedBoots": [
+      "crockett-jones-coniston",
+      "trickers-stow",
+      "churchs-shannon"
+    ]
   },
   {
     "id": "crockett-jones-coniston",
@@ -495,13 +822,27 @@
     "price": 620,
     "priceRange": "premium",
     "madeIn": "UK",
-    "features": ["Scotch grain leather", "Dainite sole", "Round toe", "Versatile country boot"],
-    "featuresJa": ["スコッチグレインレザー", "ダイナイトソール", "ラウンドトゥ", "多用途カントリーブーツ"],
+    "features": [
+      "Scotch grain leather",
+      "Dainite sole",
+      "Round toe",
+      "Versatile country boot"
+    ],
+    "featuresJa": [
+      "スコッチグレインレザー",
+      "ダイナイトソール",
+      "ラウンドトゥ",
+      "多用途カントリーブーツ"
+    ],
     "description": "The Coniston is Crockett & Jones' versatile country boot with a cleaner, less decorated profile than the Islay. Scotch grain leather handles weather excellently, and the round toe provides ample room.",
     "descriptionJa": "コニストンはアイラよりクリーンで装飾の少ないプロファイルのカントリーブーツ。スコッチグレインレザーは耐候性に優れ、ラウンドトゥが十分なスペースを提供。",
     "amazonUrl": "",
-    "image": "/images/boots/service-boot.svg",
-    "relatedBoots": ["crockett-jones-islay", "trickers-stow", "paraboot-michael"]
+    "image": "/images/boots/crockett-jones-coniston.webp",
+    "relatedBoots": [
+      "crockett-jones-islay",
+      "trickers-stow",
+      "paraboot-michael"
+    ]
   },
   {
     "id": "churchs-shannon",
@@ -516,13 +857,27 @@
     "price": 580,
     "priceRange": "premium",
     "madeIn": "UK",
-    "features": ["Bookbinder leather option", "Leather sole", "Classic English derby", "Round toe design"],
-    "featuresJa": ["ブックバインダーレザーオプション", "レザーソール", "クラシックイングリッシュダービー", "ラウンドトゥデザイン"],
+    "features": [
+      "Bookbinder leather option",
+      "Leather sole",
+      "Classic English derby",
+      "Round toe design"
+    ],
+    "featuresJa": [
+      "ブックバインダーレザーオプション",
+      "レザーソール",
+      "クラシックイングリッシュダービー",
+      "ラウンドトゥデザイン"
+    ],
     "description": "The Shannon is Church's quintessential English derby. With its clean lines and polished finish, it exemplifies understated British elegance. Available in various leather finishes including the distinctive Bookbinder polished leather.",
     "descriptionJa": "シャノンはチャーチの典型的なイングリッシュダービー。クリーンなラインとポリッシュ仕上げで控えめな英国のエレガンスを体現。独特のブックバインダーポリッシュドレザーなど各種レザーで展開。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["churchs-consul", "crockett-jones-islay", "paraboot-chambord"]
+    "image": "/images/boots/churchs-shannon.webp",
+    "relatedBoots": [
+      "churchs-consul",
+      "crockett-jones-islay",
+      "paraboot-chambord"
+    ]
   },
   {
     "id": "churchs-consul",
@@ -537,13 +892,27 @@
     "price": 620,
     "priceRange": "premium",
     "madeIn": "UK",
-    "features": ["Plain toe oxford", "Calfskin leather", "Leather sole", "Benchmark English shoe"],
-    "featuresJa": ["プレーントゥオックスフォード", "カーフスキンレザー", "レザーソール", "英国靴のベンチマーク"],
+    "features": [
+      "Plain toe oxford",
+      "Calfskin leather",
+      "Leather sole",
+      "Benchmark English shoe"
+    ],
+    "featuresJa": [
+      "プレーントゥオックスフォード",
+      "カーフスキンレザー",
+      "レザーソール",
+      "英国靴のベンチマーク"
+    ],
     "description": "The Consul is Church's most classic shoe — a plain toe oxford that has barely changed since 1945. Its clean, unadorned design makes it the ultimate formal shoe, suitable for the most traditional settings.",
     "descriptionJa": "コンサルはチャーチで最もクラシックな靴。1945年以来ほとんど変わらないプレーントゥオックスフォード。そのクリーンで飾り気のないデザインは究極のフォーマルシューズ。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["churchs-shannon", "allen-edmonds-park-avenue", "crockett-jones-coniston"]
+    "image": "/images/boots/churchs-consul.webp",
+    "relatedBoots": [
+      "churchs-shannon",
+      "allen-edmonds-park-avenue",
+      "crockett-jones-coniston"
+    ]
   },
   {
     "id": "carmina-shell-cordovan-derby",
@@ -558,13 +927,27 @@
     "price": 750,
     "priceRange": "luxury",
     "madeIn": "Spain",
-    "features": ["Horween Shell Cordovan", "Rain last", "Blake/Rapid available", "Handmade in Mallorca"],
-    "featuresJa": ["ホーウィン社シェルコードバン", "Rainラスト", "ブレイク/ラピッド対応", "マヨルカ島でハンドメイド"],
+    "features": [
+      "Horween Shell Cordovan",
+      "Rain last",
+      "Blake/Rapid available",
+      "Handmade in Mallorca"
+    ],
+    "featuresJa": [
+      "ホーウィン社シェルコードバン",
+      "Rainラスト",
+      "ブレイク/ラピッド対応",
+      "マヨルカ島でハンドメイド"
+    ],
     "description": "Carmina's Shell Cordovan Derby represents exceptional European craftsmanship. Made in their Mallorca workshop using Horween Shell Cordovan, the Rain last provides a sleek yet comfortable fit at a price well below English and American competitors.",
     "descriptionJa": "カルミナのシェルコードバンダービーは卓越したヨーロッパのクラフツマンシップを体現。マヨルカ島の工房でホーウィン社シェルコードバンを使用し、Rainラストがスリークで快適なフィットを英米の競合よりも手頃な価格で提供。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["alden-plain-toe-blucher", "churchs-shannon", "paraboot-chambord"]
+    "image": "/images/boots/carmina-shell-cordovan-derby.webp",
+    "relatedBoots": [
+      "alden-plain-toe-blucher",
+      "churchs-shannon",
+      "paraboot-chambord"
+    ]
   },
   {
     "id": "paraboot-chambord",
@@ -579,13 +962,27 @@
     "price": 500,
     "priceRange": "premium",
     "madeIn": "France",
-    "features": ["Norwegian welt construction", "Paraboot rubber sole", "Lisse calfskin leather", "Distinctive split toe"],
-    "featuresJa": ["ノルウィージャンウェルト製法", "パラブーツ独自ラバーソール", "リスカーフスキンレザー", "特徴的なスプリットトゥ"],
+    "features": [
+      "Norwegian welt construction",
+      "Paraboot rubber sole",
+      "Lisse calfskin leather",
+      "Distinctive split toe"
+    ],
+    "featuresJa": [
+      "ノルウィージャンウェルト製法",
+      "パラブーツ独自ラバーソール",
+      "リスカーフスキンレザー",
+      "特徴的なスプリットトゥ"
+    ],
     "description": "The Chambord is Paraboot's most iconic shoe. Its Norwegian welt construction provides exceptional water resistance, while the distinctive split-toe design has made it a staple of French style. Paraboot manufactures their own rubber soles in-house.",
     "descriptionJa": "シャンボードはパラブーツで最もアイコニックな靴。ノルウィージャンウェルト製法が卓越した防水性を提供し、特徴的なスプリットトゥデザインはフランススタイルの定番に。パラブーツは自社でラバーソールを製造。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["paraboot-michael", "trickers-bourton", "viberg-derby"]
+    "image": "/images/boots/paraboot-chambord.webp",
+    "relatedBoots": [
+      "paraboot-michael",
+      "trickers-bourton",
+      "viberg-derby"
+    ]
   },
   {
     "id": "paraboot-michael",
@@ -600,12 +997,252 @@
     "price": 530,
     "priceRange": "premium",
     "madeIn": "France",
-    "features": ["Norwegian welt construction", "Tyrolean-style design", "Marche rubber sole", "Double-stitched construction"],
-    "featuresJa": ["ノルウィージャンウェルト製法", "チロリアンスタイルデザイン", "マルシェラバーソール", "ダブルステッチ製法"],
+    "features": [
+      "Norwegian welt construction",
+      "Tyrolean-style design",
+      "Marche rubber sole",
+      "Double-stitched construction"
+    ],
+    "featuresJa": [
+      "ノルウィージャンウェルト製法",
+      "チロリアンスタイルデザイン",
+      "マルシェラバーソール",
+      "ダブルステッチ製法"
+    ],
     "description": "The Michael is Paraboot's take on the Tyrolean mountain shoe. Its chunky double-stitched Norwegian welt and thick rubber sole provide unmatched weather protection. A favorite of architects, designers, and those who value function as much as form.",
     "descriptionJa": "ミカエルはパラブーツのチロリアンマウンテンシューズ。チャンキーなダブルステッチのノルウィージャンウェルトと厚いラバーソールが無敵の耐候性を提供。建築家、デザイナー、機能美を重視する人々に愛用されている。",
     "amazonUrl": "",
-    "image": "/images/boots/oxford.svg",
-    "relatedBoots": ["paraboot-chambord", "trickers-bourton", "crockett-jones-coniston"]
+    "image": "/images/boots/paraboot-michael.webp",
+    "relatedBoots": [
+      "paraboot-chambord",
+      "trickers-bourton",
+      "crockett-jones-coniston"
+    ]
+  },
+  {
+    "id": "whites-semi-dress",
+    "name": "White's Semi-Dress",
+    "nameJa": "ホワイツ セミドレス",
+    "brand": "whites",
+    "category": "service-boot",
+    "leather": "chromexcel",
+    "construction": "stitchdown",
+    "sole": "vibram",
+    "lastShape": "55",
+    "price": 500,
+    "priceRange": "premium",
+    "madeIn": "USA",
+    "features": [
+      "Horween Chromexcel leather",
+      "Stitchdown construction",
+      "Vibram 430 sole",
+      "Arch Ease support system",
+      "Handcrafted in Spokane, WA"
+    ],
+    "featuresJa": [
+      "ホーウィン社クロムエクセルレザー",
+      "ステッチダウン製法",
+      "Vibram 430ソール",
+      "アーチイーズサポートシステム",
+      "ワシントン州スポケーンでハンドメイド"
+    ],
+    "description": "White's Semi-Dress is the refined sibling of their legendary Smokejumper. Built by hand in Spokane, Washington since 1853, it features the brand's signature Arch Ease support and stitchdown construction for a boot that molds to your foot and lasts a lifetime. The Chromexcel leather develops stunning character with wear.",
+    "descriptionJa": "ホワイツのセミドレスは伝説的スモークジャンパーの洗練版。1853年からワシントン州スポケーンで手作りされ、ブランド独自のアーチイーズサポートとステッチダウン製法で足に馴染み一生使えるブーツ。クロムエクセルレザーは使い込むほど見事な表情を見せる。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/whites-semi-dress.webp",
+    "relatedBoots": [
+      "viberg-service-boot-2030",
+      "grant-stone-ottawa-boot",
+      "alden-indy-boot-403"
+    ]
+  },
+  {
+    "id": "parkhurst-allen",
+    "name": "Parkhurst Allen",
+    "nameJa": "パークハースト アレン",
+    "brand": "parkhurst",
+    "category": "service-boot",
+    "leather": "chromexcel",
+    "construction": "blake-rapid",
+    "sole": "dainite",
+    "lastShape": "602",
+    "price": 350,
+    "priceRange": "mid",
+    "madeIn": "USA",
+    "features": [
+      "Chromexcel or Dublin leather options",
+      "Blake Rapid construction",
+      "Dainite studded sole",
+      "Handmade in small batches in Albany, NY"
+    ],
+    "featuresJa": [
+      "クロムエクセルまたはダブリンレザー",
+      "ブレイクラピッド製法",
+      "ダイナイト・スタッドソール",
+      "ニューヨーク州オールバニーで少量生産ハンドメイド"
+    ],
+    "description": "The Parkhurst Allen is a modern American service boot handcrafted in Albany, New York. Blake Rapid construction gives it a sleeker profile than traditional Goodyear welted boots while still allowing resoling. Available in Chromexcel and Dublin leathers, it punches well above its price point in both materials and build quality.",
+    "descriptionJa": "パークハースト・アレンはニューヨーク州オールバニーで手作りされる現代的アメリカンサービスブーツ。ブレイクラピッド製法で従来のグッドイヤーウェルトよりスリークなプロファイルを実現しつつリソールも可能。クロムエクセルとダブリンレザーで展開し、素材も製法も価格以上の品質を誇る。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/parkhurst-allen.webp",
+    "relatedBoots": [
+      "grant-stone-diesel-boot",
+      "thursday-captain",
+      "wolverine-1000-mile"
+    ]
+  },
+  {
+    "id": "danner-bull-run",
+    "name": "Danner Bull Run",
+    "nameJa": "ダナー ブルラン",
+    "brand": "danner",
+    "category": "work-boot",
+    "leather": "full-grain",
+    "construction": "goodyear-welt",
+    "sole": "christy",
+    "lastShape": "850",
+    "price": 190,
+    "priceRange": "budget",
+    "madeIn": "USA",
+    "features": [
+      "Full-grain leather upper",
+      "Goodyear welt construction",
+      "Wedge Christy outsole",
+      "Ortholite footbed",
+      "Oil and slip resistant"
+    ],
+    "featuresJa": [
+      "フルグレインレザーアッパー",
+      "グッドイヤーウェルト製法",
+      "ウェッジ・クリスティアウトソール",
+      "オーソライトフットベッド",
+      "耐油・防滑"
+    ],
+    "description": "The Danner Bull Run is a genuine American-made work boot that delivers heritage quality at an accessible price. Built in Portland, Oregon with full-grain leather and Goodyear welt construction, it features a comfortable wedge Christy sole that excels on hard surfaces. The Ortholite footbed provides all-day comfort for working professionals.",
+    "descriptionJa": "ダナー・ブルランはアメリカ製の本格ワークブーツを手頃な価格で提供。オレゴン州ポートランドでフルグレインレザーとグッドイヤーウェルト製法で製造。ウェッジ・クリスティソールは硬い地面での作業に最適で、オーソライトフットベッドが終日の快適さを実現。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/danner-bull-run.webp",
+    "relatedBoots": [
+      "red-wing-moc-toe-875",
+      "thursday-captain",
+      "red-wing-blacksmith-3343"
+    ]
+  },
+  {
+    "id": "rm-williams-craftsman",
+    "name": "R.M. Williams Craftsman Chelsea",
+    "nameJa": "R.M.ウィリアムズ クラフツマン チェルシー",
+    "brand": "rm-williams",
+    "category": "chelsea",
+    "leather": "calf",
+    "construction": "goodyear-welt",
+    "sole": "leather",
+    "lastShape": "B543",
+    "price": 500,
+    "priceRange": "premium",
+    "madeIn": "Australia",
+    "features": [
+      "Single piece of yearling leather",
+      "Goodyear welt construction",
+      "Leather sole",
+      "Chisel toe profile",
+      "Elastic side gussets"
+    ],
+    "featuresJa": [
+      "一枚革のイヤリングレザー",
+      "グッドイヤーウェルト製法",
+      "レザーソール",
+      "チゼルトゥプロファイル",
+      "サイドエラスティックガセット"
+    ],
+    "description": "The R.M. Williams Craftsman is the definitive Chelsea boot, crafted from a single piece of yearling leather in Adelaide, Australia. Its whole-cut construction eliminates seams for a remarkably clean silhouette. Originally designed for the Australian outback, it has become an icon of effortless style that transitions seamlessly from ranch to restaurant.",
+    "descriptionJa": "R.M.ウィリアムズのクラフツマンは究極のチェルシーブーツ。オーストラリア・アデレードで一枚革のイヤリングレザーから製作。ホールカット製法で縫い目を排除した驚くほどクリーンなシルエット。元々オーストラリアの奥地向けに設計されたが、牧場からレストランまでシームレスに対応するスタイルアイコンに成長。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/rm-williams-craftsman.webp",
+    "relatedBoots": [
+      "red-wing-beckman",
+      "wolverine-1000-mile",
+      "crockett-jones-coniston"
+    ]
+  },
+  {
+    "id": "clarks-desert-boot",
+    "name": "Clarks Desert Boot",
+    "nameJa": "クラークス デザートブーツ",
+    "brand": "clarks",
+    "category": "chukka",
+    "leather": "suede",
+    "construction": "cemented",
+    "sole": "crepe",
+    "lastShape": "Desert",
+    "price": 130,
+    "priceRange": "budget",
+    "madeIn": "England/Vietnam",
+    "features": [
+      "Premium suede upper",
+      "Natural crepe rubber sole",
+      "Two-eyelet lacing",
+      "Lightweight and flexible",
+      "Iconic since 1950"
+    ],
+    "featuresJa": [
+      "プレミアムスエードアッパー",
+      "天然クレープラバーソール",
+      "2アイレットレーシング",
+      "軽量でフレキシブル",
+      "1950年以来のアイコン"
+    ],
+    "description": "The Clarks Desert Boot is one of the most influential shoes ever designed. Created by Nathan Clark in 1950 after seeing crepe-soled boots worn by British officers in Cairo, its minimalist two-eyelet chukka design and soft crepe sole have made it a timeless wardrobe staple across generations and subcultures.",
+    "descriptionJa": "クラークスのデザートブーツは史上最も影響力のある靴の一つ。1950年にネイサン・クラークがカイロで英国将校が履いていたクレープソールブーツにインスパイアされて誕生。ミニマルな2アイレットチャッカデザインとソフトなクレープソールは、世代やサブカルチャーを超えた永遠のワードローブの定番。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/clarks-desert-boot.webp",
+    "relatedBoots": [
+      "thursday-captain",
+      "red-wing-blacksmith-3343",
+      "danner-bull-run"
+    ]
+  },
+  {
+    "id": "john-lofgren-engineer",
+    "name": "John Lofgren Engineer",
+    "nameJa": "ジョン・ロフグレン エンジニア",
+    "brand": "john-lofgren",
+    "category": "engineer",
+    "leather": "chromexcel",
+    "construction": "goodyear-welt",
+    "sole": "vibram",
+    "lastShape": "Munson",
+    "price": 900,
+    "priceRange": "luxury",
+    "madeIn": "Japan",
+    "features": [
+      "Horween CXL leather upper",
+      "Goodyear welt construction",
+      "Vibram 700 sole",
+      "Steel shank reinforcement",
+      "Handmade in Japan with vintage techniques"
+    ],
+    "featuresJa": [
+      "ホーウィン社CXLレザーアッパー",
+      "グッドイヤーウェルト製法",
+      "Vibram 700ソール",
+      "スチールシャンク補強",
+      "日本でヴィンテージ技法によるハンドメイド"
+    ],
+    "description": "The John Lofgren Engineer boot is a meticulous Japanese reproduction of the classic American engineer boot. Handcrafted in Japan using Horween Chromexcel leather and vintage manufacturing techniques, it represents the pinnacle of the 'better than the original' philosophy that Japanese bootmakers are renowned for. Every detail, from the brass buckle to the leather-lined interior, is executed to perfection.",
+    "descriptionJa": "ジョン・ロフグレンのエンジニアブーツは、クラシックなアメリカン・エンジニアブーツの精密な日本製復刻版。ホーウィン社クロムエクセルレザーとヴィンテージ製法で日本でハンドメイド。真鍮バックルからレザー裏地まで、日本のブーツメーカーが誇る「オリジナルを超える」哲学の頂点を体現。すべてのディテールが完璧に仕上げられている。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/john-lofgren-engineer.webp",
+    "relatedBoots": [
+      "viberg-service-boot-2030",
+      "whites-semi-dress",
+      "alden-indy-boot-403"
+    ]
   }
 ]

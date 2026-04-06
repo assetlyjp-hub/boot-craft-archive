@@ -4,6 +4,7 @@ description: "Everything you need to know about Shell Cordovan leather — from 
 category: "leather"
 tags: ["shell-cordovan", "horween", "leather-guide", "premium"]
 publishedAt: "2026-03-25"
+updatedAt: "2026-04-06"
 relatedBoots: ["alden-plain-toe-blucher", "alden-tassel-loafer", "carmina-shell-cordovan-derby"]
 articleType: "guide"
 ---
