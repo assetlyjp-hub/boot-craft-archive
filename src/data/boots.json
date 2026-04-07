@@ -1244,5 +1244,221 @@
       "whites-semi-dress",
       "alden-indy-boot-403"
     ]
+  },
+  {
+    "id": "thorogood-moc-toe-814-4200",
+    "name": "Thorogood American Heritage Moc Toe 814-4200",
+    "nameJa": "ソログッド アメリカンヘリテージ モックトゥ 814-4200",
+    "brand": "thorogood",
+    "category": "moc-toe",
+    "leather": "oil-tanned",
+    "construction": "goodyear-welt",
+    "sole": "wedge",
+    "lastShape": "60",
+    "price": 200,
+    "priceRange": "mid",
+    "madeIn": "USA",
+    "features": [
+      "Oil-tanned leather upper",
+      "MAXWear wedge sole",
+      "Poron comfort cushion insole",
+      "Steel shank for support"
+    ],
+    "featuresJa": [
+      "オイルタンニンレザーアッパー",
+      "MAXWearウェッジソール",
+      "Poronコンフォートクッションインソール",
+      "スチールシャンクによるサポート"
+    ],
+    "description": "The Thorogood 814-4200 is a workhorse moc toe boot proudly made in Wisconsin, USA. Its oil-tanned leather develops a rugged patina while the MAXWear wedge sole provides all-day comfort on hard surfaces. A blue-collar icon trusted by tradespeople for generations.",
+    "descriptionJa": "ソログッド 814-4200はウィスコンシン州で製造される本格モックトゥブーツ。オイルタンニンレザーは使い込むほどに味わい深いパティーナを形成し、MAXWearウェッジソールは硬い地面でも終日快適。世代を超えて職人たちに愛されるブルーカラーアイコン。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/thorogood-moc-toe-814-4200.webp",
+    "relatedBoots": [
+      "red-wing-moc-toe-875",
+      "red-wing-iron-ranger-8111",
+      "grant-stone-diesel-boot"
+    ]
+  },
+  {
+    "id": "nicks-robert",
+    "name": "Nick's Handmade Robert Boot",
+    "nameJa": "ニックス ロバートブーツ",
+    "brand": "nicks",
+    "category": "service-boot",
+    "leather": "chromexcel",
+    "construction": "handmade",
+    "sole": "vibram",
+    "lastShape": "HNW",
+    "price": 500,
+    "priceRange": "high",
+    "madeIn": "USA",
+    "features": [
+      "Horween Chromexcel leather",
+      "Hand-lasted and hand-welted",
+      "Custom arch support system",
+      "Fully rebuildable construction"
+    ],
+    "featuresJa": [
+      "ホーウィン社クロムエクセルレザー",
+      "ハンドラスト＆ハンドウェルト製法",
+      "カスタムアーチサポートシステム",
+      "完全リビルド可能な構造"
+    ],
+    "description": "Nick's Robert Boot is handcrafted in Spokane, Washington using Horween Chromexcel leather. Each pair is built on a hand-carved last with a custom arch support that molds to your foot over time. Designed to be rebuilt indefinitely, making it a true buy-it-for-life investment.",
+    "descriptionJa": "ニックスのロバートブーツはワシントン州スポケーンでホーウィン社のクロムエクセルレザーを使い手作りされる。手彫りの木型とカスタムアーチサポートが足に馴染み、完全リビルド可能な構造で一生使える投資品。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/nicks-robert.webp",
+    "relatedBoots": [
+      "whites-semi-dress",
+      "viberg-service-boot-2030",
+      "wesco-jobmaster"
+    ]
+  },
+  {
+    "id": "wesco-jobmaster",
+    "name": "Wesco Jobmaster",
+    "nameJa": "ウエスコ ジョブマスター",
+    "brand": "wesco",
+    "category": "logger-boot",
+    "leather": "horsehide",
+    "construction": "stitch-down",
+    "sole": "vibram",
+    "lastShape": "1339",
+    "price": 650,
+    "priceRange": "high",
+    "madeIn": "USA",
+    "features": [
+      "Horsehide leather upper",
+      "Stitch-down construction",
+      "Triple-ribbed steel shank",
+      "Fully customizable options"
+    ],
+    "featuresJa": [
+      "ホースハイドレザーアッパー",
+      "ステッチダウン製法",
+      "トリプルリブスチールシャンク",
+      "フルカスタマイズ対応"
+    ],
+    "description": "The Wesco Jobmaster is a legendary Pacific Northwest boot handcrafted in Scappoose, Oregon since 1918. Its stitch-down construction and horsehide leather create an incredibly durable boot that only gets better with age. Fully customizable with hundreds of leather and sole options.",
+    "descriptionJa": "ウエスコ ジョブマスターは1918年からオレゴン州スキャプーズで手作りされる伝説的な太平洋岸北西部のブーツ。ステッチダウン製法とホースハイドレザーの組み合わせは驚異的な耐久性を誇り、数百のレザーとソールオプションでフルカスタマイズが可能。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/wesco-jobmaster.webp",
+    "relatedBoots": [
+      "nicks-robert",
+      "whites-semi-dress",
+      "john-lofgren-engineer"
+    ]
+  },
+  {
+    "id": "dr-martens-1460",
+    "name": "Dr. Martens 1460",
+    "nameJa": "ドクターマーチン 1460",
+    "brand": "dr-martens",
+    "category": "combat-boot",
+    "leather": "smooth-leather",
+    "construction": "goodyear-welt",
+    "sole": "air-cushion",
+    "lastShape": "1460",
+    "price": 150,
+    "priceRange": "entry",
+    "madeIn": "UK origin (now various)",
+    "features": [
+      "Iconic 8-eyelet design",
+      "AirWair air-cushioned sole",
+      "Smooth polished leather",
+      "Yellow welt stitching signature"
+    ],
+    "featuresJa": [
+      "アイコニックな8アイレットデザイン",
+      "AirWairエアクッションソール",
+      "スムースポリッシュドレザー",
+      "イエローウェルトステッチのシグネチャー"
+    ],
+    "description": "The Dr. Martens 1460 is one of the most culturally significant boots ever made. Originally designed as a work boot in 1960, it was adopted by British subcultures from skinheads to punks and became a global fashion icon. The air-cushioned sole provides surprising comfort while the smooth leather develops character with wear.",
+    "descriptionJa": "ドクターマーチン 1460は文化的に最も重要なブーツの一つ。1960年にワークブーツとして誕生し、スキンヘッズからパンクスまで英国のサブカルチャーに採用されグローバルなファッションアイコンに。エアクッションソールは快適で、スムースレザーは着用で味わいが出る。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/dr-martens-1460.webp",
+    "relatedBoots": [
+      "solovair-derby-boot",
+      "red-wing-iron-ranger-8111",
+      "blundstone-500"
+    ]
+  },
+  {
+    "id": "redback-usbok",
+    "name": "Redback USBOK",
+    "nameJa": "レッドバック USBOK",
+    "brand": "redback",
+    "category": "chelsea-boot",
+    "leather": "full-grain",
+    "construction": "direct-inject",
+    "sole": "polyurethane",
+    "lastShape": "USBOK",
+    "price": 170,
+    "priceRange": "mid",
+    "madeIn": "Australia",
+    "features": [
+      "Full-grain leather upper",
+      "Direct-inject polyurethane sole",
+      "No laces — easy on/off design",
+      "Oil and acid resistant sole"
+    ],
+    "featuresJa": [
+      "フルグレインレザーアッパー",
+      "ダイレクトインジェクト・ポリウレタンソール",
+      "紐なし — 着脱簡単デザイン",
+      "耐油・耐酸性ソール"
+    ],
+    "description": "The Redback USBOK is Australia's answer to the work boot. This pull-on chelsea boot uses direct-inject construction to bond the polyurethane sole directly to the full-grain leather upper, creating a virtually indestructible seal. Popular with farmers, tradies, and anyone who needs a tough, no-fuss boot.",
+    "descriptionJa": "レッドバック USBOKはオーストラリア発のワークブーツの回答。プルオンチェルシーブーツはダイレクトインジェクト製法でポリウレタンソールをフルグレインレザーに直接接合し、事実上壊れない接合面を実現。農家、職人、タフで手間のかからないブーツを求める全ての人に人気。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/redback-usbok.webp",
+    "relatedBoots": [
+      "blundstone-500",
+      "rm-williams-craftsman",
+      "dr-martens-1460"
+    ]
+  },
+  {
+    "id": "yuketen-maine-guide",
+    "name": "Yuketen Maine Guide Boot",
+    "nameJa": "ユケテン メインガイドブーツ",
+    "brand": "yuketen",
+    "category": "moc-toe",
+    "leather": "chromexcel",
+    "construction": "handsewn-moccasin",
+    "sole": "vibram",
+    "lastShape": "maine",
+    "price": 650,
+    "priceRange": "high",
+    "madeIn": "USA/Mexico",
+    "features": [
+      "Horween Chromexcel leather",
+      "Handsewn moccasin construction",
+      "Vibram mini lug sole",
+      "Handcrafted by skilled artisans"
+    ],
+    "featuresJa": [
+      "ホーウィン社クロムエクセルレザー",
+      "ハンドソーンモカシン製法",
+      "Vibramミニラグソール",
+      "熟練職人による手作り"
+    ],
+    "description": "The Yuketen Maine Guide Boot combines traditional Native American moccasin construction with modern bootmaking. Founded by Yuki Matsuda, each pair is handsewn using Horween Chromexcel leather, creating a boot that is as comfortable as a slipper yet as durable as a work boot. A bridge between heritage craft and contemporary style.",
+    "descriptionJa": "ユケテン メインガイドブーツはネイティブアメリカンの伝統的なモカシン製法と現代のブーツメイキングを融合。松田ユキが設立したブランドで、ホーウィン社のクロムエクセルレザーをハンドソーンで仕上げ、スリッパのような快適さとワークブーツの耐久性を両立。伝統工芸と現代スタイルの架け橋。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "image": "/images/boots/yuketen-maine-guide.webp",
+    "relatedBoots": [
+      "quoddy-grizzly-boot",
+      "viberg-service-boot-2030",
+      "nicks-robert"
+    ]
   }
 ]
