@@ -168,11 +168,22 @@ const productJsonLd = {
     </div>
 
     <!-- 購入リンク（URLがある場合のみ表示） -->
-    {boot.amazonUrl && (
+    {(boot.amazonUrl || boot.amazonJPUrl || boot.amazonUKUrl || boot.rakutenUrl) && (
       <div style="padding: var(--space-md) 0 var(--space-lg);">
         <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
         <div class="buy-links">
-          <a href={boot.amazonUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon</a>
+          {boot.amazonUrl && (
+            <a href={boot.amazonUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon</a>
+          )}
+          {boot.amazonJPUrl && (
+            <a href={boot.amazonJPUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon JP</a>
+          )}
+          {boot.amazonUKUrl && (
+            <a href={boot.amazonUKUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon UK</a>
+          )}
+          {boot.rakutenUrl && (
+            <a href={boot.rakutenUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">🛒 楽天市場</a>
+          )}
         </div>
       </div>
     )}
