@@ -51,36 +51,29 @@ const categoryLabel = boot.category
   .map(w => w.charAt(0).toUpperCase() + w.slice(1))
   .join(' ');
 
-// JSON-LD構造化データ（Product schema）
-const productJsonLd = {
+// JSON-LD構造化データ（Article schema）
+const articleJsonLd = {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": boot.name,
+  "@type": "Article",
+  "headline": boot.name,
   "description": boot.description,
   "image": new URL(boot.image, Astro.site).href,
-  "brand": {
-    "@type": "Brand",
-    "name": brand?.name || boot.brand,
+  "author": {
+    "@type": "Organization",
+    "name": "Boot Craft Archive",
   },
-  "offers": {
-    "@type": "Offer",
-    "price": boot.price,
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Boot Craft Archive",
   },
-  "additionalProperty": [
-    { "@type": "PropertyValue", "name": "Category", "value": categoryLabel },
-    { "@type": "PropertyValue", "name": "Leather", "value": leather?.name || boot.leather },
-    { "@type": "PropertyValue", "name": "Construction", "value": construction?.name || boot.construction },
-    { "@type": "PropertyValue", "name": "Made In", "value": boot.madeIn },
-  ],
+  "datePublished": new Date().toISOString().split('T')[0],
 };
 ---
 
 <Base
   title={boot.name}
   description={boot.description.slice(0, 160)}
-  jsonLd={productJsonLd}
+  jsonLd={articleJsonLd}
 >
   <!-- 一覧への戻りリンク -->
   <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
