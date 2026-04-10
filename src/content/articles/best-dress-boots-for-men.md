@@ -39,7 +39,7 @@ Goodyear welt is the gold standard. It allows resoling, provides water resistanc
 
 The Dalton is a wingtip boot that balances formality with character. Built on the 65 last with a Goodyear welt and leather sole, it pairs equally well with a navy suit or dark jeans. The brogue detailing adds visual interest without crossing into casual territory. Available in walnut, oxblood, and black, with walnut being the most versatile option.
 
-**Price**: ~$425 | **Construction**: Goodyear Welt | **Sole**: Leather
+**Price**: ~$495 | **Construction**: Goodyear Welt | **Sole**: Dainite Rubber
 
 ### Crockett & Jones Islay — The James Bond Pick
 
@@ -51,7 +51,7 @@ Made famous on screen, the Islay is a scotch grain wingtip boot with Dainite sol
 
 Allen Edmonds took their most iconic dress shoe last and built a boot on it. The result is a cap-toe boot with clean, minimalist lines that works under a suit as naturally as the original oxford. The 65 last provides a sleek profile, and the single leather sole keeps things formal. Choose black for maximum versatility in corporate settings.
 
-**Price**: ~$425 | **Construction**: Goodyear Welt | **Sole**: Leather
+**Price**: ~$395 | **Construction**: Goodyear Welt | **Sole**: Leather
 
 ### Church's Shannon — British Elegance
 

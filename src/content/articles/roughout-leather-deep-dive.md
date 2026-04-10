@@ -4,6 +4,7 @@ description: "A deep dive into Roughout leather — tanning process, properties,
 category: "leather"
 tags: ["roughout", "leather-guide", "various"]
 publishedAt: "2026-04-07"
+updatedAt: "2026-04-10"
 articleType: "guide"
 ---
 

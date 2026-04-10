@@ -4,6 +4,7 @@ description: "Slouchy boots are back and bigger than ever. Learn how to wear the
 category: "beginner"
 tags: ["slouchy boots", "trend", "styling", "fashion", "2025", "2026"]
 publishedAt: "2026-04-09"
+updatedAt: "2026-04-10"
 articleType: "guide"
 ---
 

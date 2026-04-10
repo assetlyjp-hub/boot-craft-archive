@@ -4,6 +4,7 @@ description: "Everything you need to know about Norwegian Welt construction — 
 category: "construction"
 tags: ["norwegian-welt", "construction", "guide"]
 publishedAt: "2026-04-08"
+updatedAt: "2026-04-10"
 articleType: "guide"
 ---
 

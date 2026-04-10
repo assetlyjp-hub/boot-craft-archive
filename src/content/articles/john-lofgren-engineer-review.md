@@ -4,6 +4,7 @@ description: "A comprehensive review of the John Lofgren Engineer by john-lofgre
 category: "review"
 tags: ["john-lofgren", "engineer", "chromexcel", "review"]
 publishedAt: "2026-04-06"
+updatedAt: "2026-04-10"
 relatedBoots: ["viberg-service-boot-2030", "whites-semi-dress", "alden-indy-boot-403"]
 articleType: "review"
 ---
