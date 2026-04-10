@@ -28,3 +28,9 @@ yarn-error.log*
 
 # デバッグ
 *.log
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
