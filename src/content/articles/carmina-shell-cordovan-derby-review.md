@@ -4,6 +4,7 @@ description: "A comprehensive review of the Carmina Shell Cordovan Derby by Carm
 category: "review"
 tags: ["carmina", "derby", "shell-cordovan", "review"]
 publishedAt: "2026-04-06"
+updatedAt: "2026-04-10"
 relatedBoots: ["alden-plain-toe-blucher", "churchs-shannon", "paraboot-chambord"]
 articleType: "review"
 ---

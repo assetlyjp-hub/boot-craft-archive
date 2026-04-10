@@ -4,13 +4,14 @@ description: "A head-to-head comparison of the Dr. Martens 1460 and Red Wing Rou
 category: "comparison"
 tags: ["dr-martens", "red-wing", "comparison"]
 publishedAt: "2026-04-09"
+updatedAt: "2026-04-10"
 relatedBoots: ["dr-martens-1460", "red-wing-roughneck-2942"]
 articleType: "comparison"
 ---
 
 ## Overview
 
-Choosing between the Dr. Martens 1460 ($150) and the Red Wing Roughneck 2942 ($46000) is a common dilemma. Both are excellent options, but they cater to different preferences and priorities.
+Choosing between the Dr. Martens 1460 ($150) and the Red Wing Roughneck 2942 ($300) is a common dilemma. Both are excellent options, but they cater to different preferences and priorities.
 
 ## Dr. Martens 1460
 
@@ -28,7 +29,7 @@ The Dr. Martens 1460 is one of the most culturally significant boots ever made. 
 - **Leather**: Copper Rough & Tough Leather
 - **Construction**: Goodyear Welt
 - **Made In**: USA
-- **Price**: $46000
+- **Price**: $300
 
 A rugged moc toe boot with Vibram Lug sole for aggressive traction. Built on the same No. 23 last as the Classic Moc, but with a lug sole suited for rougher terrain. Copper Rough & Tough leather develops character with age.
 
@@ -41,7 +42,7 @@ Both boots use quality leather, but smooth leather and copper rough & tough leat
 Goodyear Welt vs Goodyear Welt — each method has its strengths. Consider your priorities around resolability, water resistance, and break-in comfort.
 
 ### Value
-At $150 vs $46000, the price difference of $45850 may be a factor in your decision. Consider the long-term cost-per-wear rather than just the upfront price.
+At $150 vs $300, the price difference of $150 may be a factor in your decision. Consider the long-term cost-per-wear rather than just the upfront price.
 
 ## Verdict
 
