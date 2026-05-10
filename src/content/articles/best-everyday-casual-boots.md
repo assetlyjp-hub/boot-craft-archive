@@ -3,8 +3,8 @@ title: "Best Everyday Casual Boots 2026: From Coffee Shops to Office"
 description: "The best boots for everyday casual wear — versatile picks that work with jeans, chinos, and even relaxed business casual."
 category: "guide"
 tags: [casual, everyday, versatile, smart-casual, daily-wear]
-publishedAt: "2026-05-07"
-updatedAt: "2026-05-07"
+publishedAt: "2026-05-10"
+updatedAt: "2026-05-10"
 relatedBoots: ["thursday-captain", "wolverine-1000-mile", "alden-plain-toe-blucher", "grant-stone-ottawa-boot"]
 articleType: "guide"
 ---

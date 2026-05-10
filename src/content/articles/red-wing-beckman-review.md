@@ -3,8 +3,8 @@ title: "Red Wing Beckman Review: 5 Years of Honest Wear"
 description: "Five years of Red Wing Beckman ownership reviewed — leather development, sole wear, sizing reality, and how it compares to the Iron Ranger."
 category: "review"
 tags: [red-wing, beckman, dress-boot, featherstone, review]
-publishedAt: "2026-05-07"
-updatedAt: "2026-05-07"
+publishedAt: "2026-05-10"
+updatedAt: "2026-05-10"
 relatedBoots: ["red-wing-beckman", "red-wing-iron-ranger-8111"]
 articleType: "review"
 ---
