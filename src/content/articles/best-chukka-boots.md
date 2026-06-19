@@ -34,7 +34,7 @@ This is the first decision and most people get it wrong.
 
 **Leather chukkas** — typically calf or chromexcel — are more weather-friendly, easier to wipe clean, and can be dressed up or down depending on finish. A polished calf chukka in dark brown is essentially a desk-friendly dress shoe. A chromexcel chukka in a rough natural finish reads as casual and rugged.
 
-My honest split: if you live somewhere wet (London, Seattle, Tokyo's rainy season), start with leather. If you live somewhere with proper seasons or a dry climate, suede is the more interesting purchase. I have written more about [keeping suede looking right](/articles/how-to-clean-suede-boots) and [what regular leather care actually looks like](/articles/how-to-care-for-leather-boots) — both matter for chukkas because the small surface area shows neglect quickly.
+My honest split: if you live somewhere wet (London, Seattle, Tokyo's rainy season), start with leather. If you live somewhere with proper seasons or a dry climate, suede is the more interesting purchase. I have written more about [keeping suede looking right](/magazine/how-to-clean-suede-boots) and [what regular leather care actually looks like](/magazine/how-to-care-for-leather-boots) — both matter for chukkas because the small surface area shows neglect quickly.
 
 ## When a Chukka Actually Works
 
@@ -72,7 +72,7 @@ If you are testing whether you actually like chukkas before committing more mone
 
 The Ottawa is my pick at this price. Goodyear welted, leather lined, made in China to a standard that genuinely competes with American brands twice the price. Three eyelets, plain toe, available in calf and chromexcel.
 
-The chromexcel version is the one I reach for. Chromexcel develops the kind of patina that makes people ask where you got your boots. (For background on the leather itself, see the [chromexcel leather guide](/articles/chromexcel-leather-guide).) The shape is elegant — Grant Stone uses their Leo last for the Ottawa, which is a softer, more rounded almond toe than American work brands. It looks dressier than its price suggests.
+The chromexcel version is the one I reach for. Chromexcel develops the kind of patina that makes people ask where you got your boots. (For background on the leather itself, see the [chromexcel leather guide](/magazine/chromexcel-leather-guide).) The shape is elegant — Grant Stone uses their Leo last for the Ottawa, which is a softer, more rounded almond toe than American work brands. It looks dressier than its price suggests.
 
 Resoleable. Replaceable. The pair I bought in 2023 has been to two weddings, three job interviews, and roughly two hundred normal days. They have one set of polish creases I would call beautiful.
 
@@ -92,7 +92,7 @@ The chromexcel chukka in colour 8 (a deep oxblood) is genuinely iconic. It has b
 
 Honest downside: Alden has had quality control issues over the last few years. Stitching irregularities, last drift, occasional leather flaws have all been reported. Buy from a stocking dealer who will accept returns and inspect your pair carefully.
 
-For a deeper comparison of construction methods that affect how these resole, see [Goodyear welt vs Blake stitch](/articles/goodyear-welt-vs-blake-stitch).
+For a deeper comparison of construction methods that affect how these resole, see [Goodyear welt vs Blake stitch](/magazine/goodyear-welt-vs-blake-stitch).
 
 ## Quick Comparison
 
@@ -106,9 +106,9 @@ For a deeper comparison of construction methods that affect how these resole, se
 
 ## Toe Shape Matters More Than You Think
 
-Plain toe is the chukka default and the right answer ninety percent of the time. A plain toe puts the focus on the leather and the silhouette of the last itself. If you have not thought about why a plain toe reads as more elegant, [moc toe vs plain toe boots](/articles/moc-toe-vs-plain-toe-boots) covers the visual reasoning.
+Plain toe is the chukka default and the right answer ninety percent of the time. A plain toe puts the focus on the leather and the silhouette of the last itself. If you have not thought about why a plain toe reads as more elegant, [moc toe vs plain toe boots](/magazine/moc-toe-vs-plain-toe-boots) covers the visual reasoning.
 
-A cap toe chukka exists. C&J makes one. Tricker's makes one. They are dressier still and edge into territory where you might as well wear a proper dress boot. Speaking of which — if you are deciding between a chukka and a more traditional balmoral or jodhpur, the [best dress boots for men](/articles/best-dress-boots-for-men) guide compares the silhouettes side by side.
+A cap toe chukka exists. C&J makes one. Tricker's makes one. They are dressier still and edge into territory where you might as well wear a proper dress boot. Speaking of which — if you are deciding between a chukka and a more traditional balmoral or jodhpur, the [best dress boots for men](/magazine/best-dress-boots-for-men) guide compares the silhouettes side by side.
 
 ## Honest Downsides of Chukkas
 
@@ -134,7 +134,7 @@ Yes. Dark wash, slim or straight. Skinny jeans look bad with chukkas — the sil
 Depends on the brand. Clarks run roomy — drop half a size. Thursday runs roomy — drop a full size for some, half for others. Grant Stone, Alden, C&J — go true to your Brannock size and adjust based on lasts. There is no universal answer, but most chukkas will not need to go up.
 
 **How do I break in a chukka?**
-Less work than a heavy work boot. Wear them around the house for an hour or two, then short outings, then full days. A leather-lined chukka is usually wearable from day one with mild discomfort that resolves in a week. For more, [how to break in leather boots](/articles/how-to-break-in-leather-boots) covers it in detail.
+Less work than a heavy work boot. Wear them around the house for an hour or two, then short outings, then full days. A leather-lined chukka is usually wearable from day one with mild discomfort that resolves in a week. For more, [how to break in leather boots](/magazine/how-to-break-in-leather-boots) covers it in detail.
 
 **Can chukkas be resoled?**
 Goodyear welted ones, yes — multiple times if the upper is in good shape. Cemented chukkas like the Clarks Desert can theoretically be resoled but the cost rarely makes sense relative to a new pair.

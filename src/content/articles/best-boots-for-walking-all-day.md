@@ -38,7 +38,7 @@ Two things to know:
 - **Heritage American lasts** (Red Wing 8, Alden Trubalance, Wolverine's classic last) tend to run roomy in the toe and snug at the heel. Good for wide, high-volume feet. Often too sloppy for narrow ones.
 - **Service / military lasts** (Alden Modified, some Nicks, Viberg 2030) have more arch shaping and a sleeker toe. Better for narrow or normal-width feet, but punishing on wide ones.
 
-If you have wide feet, [our guide on the best boots for wide feet](/articles/best-boots-for-wide-feet) covers specific recommendations. For everyone else: try before you buy when possible, and if you can't, study the brand's last description rather than assuming "size 10 is size 10."
+If you have wide feet, [our guide on the best boots for wide feet](/magazine/best-boots-for-wide-feet) covers specific recommendations. For everyone else: try before you buy when possible, and if you can't, study the brand's last description rather than assuming "size 10 is size 10."
 
 ### 3. Weight
 
@@ -50,7 +50,7 @@ Weight comes from sole stack, leather thickness, and steel shanks. Lightweight a
 
 Watch how a boot bends when you flex your toes upward. The boot should hinge cleanly at the metatarsal joint — same place your foot bends — without fighting back. Stiff lugged work soles and very thick midsoles resist that flex, forcing your calves and hip flexors to do extra work all day. By hour eight, you'll know.
 
-Goodyear-welted boots with leather or single-layer rubber soles flex earliest. Storm-welted or stitchdown construction with double midsoles takes longer. Blake-stitched dress boots flex almost immediately, but trade off resoling longevity. ([Goodyear vs Blake comparison here](/articles/goodyear-welt-vs-blake-stitch).)
+Goodyear-welted boots with leather or single-layer rubber soles flex earliest. Storm-welted or stitchdown construction with double midsoles takes longer. Blake-stitched dress boots flex almost immediately, but trade off resoling longevity. ([Goodyear vs Blake comparison here](/magazine/goodyear-welt-vs-blake-stitch).)
 
 ## Heritage boots vs hiking-influenced boots
 
@@ -76,7 +76,7 @@ Around $200, Goodyear-welted, leather/rubber sole, decent cork bed. The Captain 
 
 Horween Chromexcel upper, Goodyear-welted, single-layer leather sole. Lighter than most heritage boots (around 1.6 lb) and the last is moderately roomy. The leather sole flexes early and the cork bed molds quickly.
 
-The trade-off: leather soles are slick on wet tile and wear faster than rubber. I added a thin half-rubber to mine after a year. After that mod, the 1000 Mile became my single most-worn boot. ([Full review here.](/articles/wolverine-1000-mile-review))
+The trade-off: leather soles are slick on wet tile and wear faster than rubber. I added a thin half-rubber to mine after a year. After that mod, the 1000 Mile became my single most-worn boot. ([Full review here.](/magazine/wolverine-1000-mile-review))
 
 **All-day verdict:** comfortable from week three. Best-in-class once broken in.
 
@@ -102,7 +102,7 @@ The Iron Ranger is the most-recommended heritage boot on the internet, and I wan
 
 Two reasons. One, the double-layer leather sole is stiff and stays stiff for 60–80 hours of real wear. Two, the steel shank and toe cap add weight and forefoot rigidity. People who buy an Iron Ranger expecting "comfortable from day one" are usually disappointed.
 
-If you commit to the break-in, the Iron Ranger becomes excellent — I still wear mine for full days. But if you want comfort early, the Beckman or Wolverine 1000 Mile gets you there faster. ([Detailed Iron Ranger review.](/articles/red-wing-iron-ranger-review))
+If you commit to the break-in, the Iron Ranger becomes excellent — I still wear mine for full days. But if you want comfort early, the Beckman or Wolverine 1000 Mile gets you there faster. ([Detailed Iron Ranger review.](/magazine/red-wing-iron-ranger-review))
 
 **All-day verdict:** rough first month, then excellent. Not the right pick if you can't survive a real break-in.
 
@@ -136,7 +136,7 @@ The single biggest mistake I see is buyers expecting heritage-boot comfort in th
 - **Hours 40–80:** footbed reaches its imprinted shape. Boot now walks like an extension of your foot.
 - **Year 1+:** ongoing micro-adjustments. The boot becomes more, not less, comfortable.
 
-If you're spending $300+ on a heritage boot, plan to wear it short distances for the first week or two. [Our break-in guide](/articles/how-to-break-in-leather-boots) covers the specific tactics — wear a thin sock under a thick one, condition aggressively early, walk on grass before pavement.
+If you're spending $300+ on a heritage boot, plan to wear it short distances for the first week or two. [Our break-in guide](/magazine/how-to-break-in-leather-boots) covers the specific tactics — wear a thin sock under a thick one, condition aggressively early, walk on grass before pavement.
 
 Skipping break-in by stretching mechanically or soaking the boot is tempting but blunts the molded-fit advantage. Be patient.
 
@@ -147,7 +147,7 @@ I'm not going to pretend leather boots are objectively superior for walking — 
 - **Wet weather:** even waterproof-treated leather wets through eventually. A purpose-built rain boot or Gore-Tex hiker is better in true downpours.
 - **Pure speed:** if you're trying to walk 4+ mph for hours, modern running shoes will be lighter and bouncier. Leather boots are for the 2.5–3.5 mph "tourist pace" most of us actually walk.
 - **Hot weather:** leather doesn't breathe like mesh. Above 30°C / 85°F, your feet will sweat. Lighter, unlined uppers (Wolverine 1000 Mile, Alden's Chromexcel) handle this better than thick work-boot leathers.
-- **Cost over time:** a $400 boot is cheap on a 10-year amortization, but expensive in month one. Budget accordingly. The [under-$300 Goodyear-welted options](/articles/best-goodyear-welt-boots-under-300) are a fair starting point.
+- **Cost over time:** a $400 boot is cheap on a 10-year amortization, but expensive in month one. Budget accordingly. The [under-$300 Goodyear-welted options](/magazine/best-goodyear-welt-boots-under-300) are a fair starting point.
 
 If any of those tradeoffs are dealbreakers, leather isn't the right tool. If they're acceptable, you'll outwalk every sneaker-wearer in the room and your boots will look better five years from now than they do today.
 
@@ -175,7 +175,7 @@ A: For trail use, yes. For city walking, the gap closes a lot. Modern hikers hav
 A: Yes. Leather soles flex earliest and feel "alive" underfoot, but offer minimal cushioning. Single-layer rubber (like Vibram 2021) adds shock absorption with manageable stiffness. Double-layer rubber soles are great for traction but trade away forefoot flex. For all-day walking on hard urban surfaces, I prefer single-layer rubber or a leather sole with a thin rubber half-sole added.
 
 **Q: Is Goodyear welt construction more comfortable than Blake stitch?**
-A: Goodyear is typically more cushioned because of the cork-filled cavity between insole and outsole. Blake-stitched boots have less stack and a more direct sole feel — sometimes preferred for dressier boots, but less comfortable for long days. [Full comparison here](/articles/goodyear-welt-vs-blake-stitch).
+A: Goodyear is typically more cushioned because of the cork-filled cavity between insole and outsole. Blake-stitched boots have less stack and a more direct sole feel — sometimes preferred for dressier boots, but less comfortable for long days. [Full comparison here](/magazine/goodyear-welt-vs-blake-stitch).
 
 ## Bottom line
 

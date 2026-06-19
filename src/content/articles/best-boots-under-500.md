@@ -23,9 +23,9 @@ There is a brutal hockey-stick curve in boot pricing. Below about two-fifty, you
 
 Three things change when you cross the three-hundred-dollar line.
 
-**Goodyear welt becomes the default, not the upcharge.** Below three hundred, you have to hunt for a true 360-degree welt. Above three hundred, it is the assumed baseline. That matters because welted boots are the only ones designed to be resoled cleanly when the tread eventually wears down. A pair you can resole twice is, in real terms, three pairs of boots. (I dig into the structural difference between welts and stitches in my [Goodyear welt vs Blake stitch guide](/articles/goodyear-welt-vs-blake-stitch).)
+**Goodyear welt becomes the default, not the upcharge.** Below three hundred, you have to hunt for a true 360-degree welt. Above three hundred, it is the assumed baseline. That matters because welted boots are the only ones designed to be resoled cleanly when the tread eventually wears down. A pair you can resole twice is, in real terms, three pairs of boots. (I dig into the structural difference between welts and stitches in my [Goodyear welt vs Blake stitch guide](/magazine/goodyear-welt-vs-blake-stitch).)
 
-**Full-grain leather stops being a luxury.** This is the outer cut of the hide, the strongest and most beautiful layer, and it is what allows boots to develop the patina people obsess over. Mid-tier brands now source from world-class tanneries: Horween in Chicago, C.F. Stead in Leeds, Charles F. Stead's English kips, and a handful of Tuscan vegetable-tan houses. (For the cult-favorite leather of this whole tier, see my [Chromexcel leather guide](/articles/chromexcel-leather-guide).)
+**Full-grain leather stops being a luxury.** This is the outer cut of the hide, the strongest and most beautiful layer, and it is what allows boots to develop the patina people obsess over. Mid-tier brands now source from world-class tanneries: Horween in Chicago, C.F. Stead in Leeds, Charles F. Stead's English kips, and a handful of Tuscan vegetable-tan houses. (For the cult-favorite leather of this whole tier, see my [Chromexcel leather guide](/magazine/chromexcel-leather-guide).)
 
 **Country-of-origin still means something.** Below three hundred, you are almost always looking at Vietnam, Mexico, or China, with the occasional Portuguese exception. Between three and five hundred, USA-made, UK-made, and Spanish-made boots all become viable. Country of origin is not magic. But factories with century-long traditions of welted footwear tend to make better boots than factories that started in 2019.
 
@@ -39,7 +39,7 @@ Yes, the Captain technically lives below the three-hundred line for the standard
 
 What I like: it breaks in fast. Out of the box, the Captain feels closer to a finished broken-in boot than anything else under three-fifty. What you give up: the leather is thinner than the Iron Ranger, and the toe box flattens noticeably after two seasons.
 
-If you want to understand the entire entry-level tier in detail, read my [best Goodyear welt boots under $300 roundup](/articles/best-goodyear-welt-boots-under-300).
+If you want to understand the entire entry-level tier in detail, read my [best Goodyear welt boots under $300 roundup](/magazine/best-goodyear-welt-boots-under-300).
 
 ### Red Wing Iron Ranger 8111 — $370-$400
 
@@ -47,7 +47,7 @@ The Iron Ranger is the boot that taught me what patina means. Made in Red Wing, 
 
 What I like: the leather is thick. Like, oxblood-brick thick. After two years of daily wear, the creases in mine look like topographic maps. What you give up: the break-in is a punishment. Plan on three weeks of bleeding heels unless you start with thick socks and short walks. The Iron Ranger also runs roughly a half-size large.
 
-I wrote a long-form [Red Wing Iron Ranger review](/articles/red-wing-iron-ranger-review) covering sizing, leather options, and the resole experience.
+I wrote a long-form [Red Wing Iron Ranger review](/magazine/red-wing-iron-ranger-review) covering sizing, leather options, and the resole experience.
 
 ### Wolverine 1000 Mile — $360-$420
 
@@ -55,7 +55,7 @@ The original American work boot reissue, manufactured in Big Rapids, Michigan fr
 
 What I like: dressy and rugged at the same time, which is harder than it sounds. They look correct with raw denim and they look correct with a sport coat. What you give up: the leather sole wears fast on concrete, the laces are too long, and quality control on individual pairs has been inconsistent over the last two years. Inspect carefully before you commit.
 
-Full breakdown in my [Wolverine 1000 Mile review](/articles/wolverine-1000-mile-review).
+Full breakdown in my [Wolverine 1000 Mile review](/magazine/wolverine-1000-mile-review).
 
 ### Grant Stone Diesel Boot — $390-$420
 
@@ -71,7 +71,7 @@ The English benchmade brand has a few models that sneak in just under five hundr
 
 What I like: this is the only boot on my list that genuinely competes with thousand-dollar Edward Greens on construction quality. The waist is bevelled, the heel is stacked leather, and the welt is hand-trimmed. What you give up: street price often pushes over five hundred once you add international shipping or tariffs, the styling skews more dressy than rugged, and the break-in is genuinely uncomfortable on the stiff oak-bark leather.
 
-If you want a refined leather boot you can wear with a suit, also see my [best dress boots for men](/articles/best-dress-boots-for-men) roundup.
+If you want a refined leather boot you can wear with a suit, also see my [best dress boots for men](/magazine/best-dress-boots-for-men) roundup.
 
 ### Allen Edmonds Park Avenue Boot — $395-$450
 
@@ -112,7 +112,7 @@ The flip side. Stepping up from sub-three-hundred to mid-tier gets you, concrete
 - **Domestic or European manufacturing accountability.** When Red Wing screws up, they fix it. When a faceless Vietnamese contract factory screws up, you are out of luck.
 - **A boot that does not look like everyone else's.** The big chains all sell similar-looking brown boots. This tier has personality.
 
-For the deep dive on caring for any of these so they actually last, read [how to care for leather boots](/articles/how-to-care-for-leather-boots).
+For the deep dive on caring for any of these so they actually last, read [how to care for leather boots](/magazine/how-to-care-for-leather-boots).
 
 ## FAQ
 
@@ -138,7 +138,7 @@ A welted resole runs about $130-$180 in 2026 dollars at a competent cobbler. Pla
 
 **Q6: Are any of these waterproof?**
 
-None of them are technically waterproof out of the box. Veldtschoen construction (C&J Coniston) gets you closest. Otherwise, treat them yourself — see [how to waterproof leather boots](/articles/how-to-waterproof-leather-boots).
+None of them are technically waterproof out of the box. Veldtschoen construction (C&J Coniston) gets you closest. Otherwise, treat them yourself — see [how to waterproof leather boots](/magazine/how-to-waterproof-leather-boots).
 
 **Q7: I have wide feet. What works?**
 

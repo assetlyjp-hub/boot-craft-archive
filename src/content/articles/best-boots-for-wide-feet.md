@@ -73,17 +73,17 @@ Their Indy boot in EE on the Trubalance last is the boot I recommend most often 
 
 Nobody offers a wider selection than Allen Edmonds. Many of their models come in B, D, E, EE, and EEE — and they will sometimes do EEEE on special order. If you are in EEE territory, Allen Edmonds is essentially the only mainstream brand that will fit you off the rack.
 
-The trade-off is that AE leans more dressy than heritage. Their Higgins Mill boot in EEE is a great work boot, and the Dalton in EE makes an excellent dress option. For a deeper look at AE's dress lineup, see our [best dress boots for men](/articles/best-dress-boots-for-men) guide.
+The trade-off is that AE leans more dressy than heritage. Their Higgins Mill boot in EEE is a great work boot, and the Dalton in EE makes an excellent dress option. For a deeper look at AE's dress lineup, see our [best dress boots for men](/magazine/best-dress-boots-for-men) guide.
 
 ### Red Wing — Wide on a Budget
 
 Red Wing offers D and EE on most Heritage models, including the Iron Ranger, Beckman, and Moc Toe. The EE versions are functionally identical in look to the D — same leather, same construction, just a wider last. For roughly $350 you can get a goodyear-welted boot that actually fits your foot. That is rare value.
 
-I cover the Iron Ranger specifically in our [Red Wing Iron Ranger review](/articles/red-wing-iron-ranger-review), and the EE version is what I personally wear.
+I cover the Iron Ranger specifically in our [Red Wing Iron Ranger review](/magazine/red-wing-iron-ranger-review), and the EE version is what I personally wear.
 
 ### Wolverine 1000 Mile — Casual EE
 
-The 1000 Mile comes in D and EE. The EE version is a comfortable, broken-in-feeling boot that suits wide feet with a moderate instep. If your instep is high, the 1000 Mile last can feel low-volume even in EE. Our [Wolverine 1000 Mile review](/articles/wolverine-1000-mile-review) goes deeper on fit notes.
+The 1000 Mile comes in D and EE. The EE version is a comfortable, broken-in-feeling boot that suits wide feet with a moderate instep. If your instep is high, the 1000 Mile last can feel low-volume even in EE. Our [Wolverine 1000 Mile review](/magazine/wolverine-1000-mile-review) goes deeper on fit notes.
 
 ### Carmina — Last-Dependent
 
@@ -135,7 +135,7 @@ The other reality of wide-foot online buying: longer shipping windows. Wide widt
 
 ### Best Wide-Width Work Boot — Red Wing Iron Ranger 8084 in EE
 
-The Iron Ranger in EE is the wide-foot work boot. Roomy toe box, broken-in within 2-3 weeks, and at ~$350 it is the best value in this guide. Pair with a quality leather conditioner — see our [leather boot care guide](/articles/how-to-care-for-leather-boots) for a routine that keeps the leather supple.
+The Iron Ranger in EE is the wide-foot work boot. Roomy toe box, broken-in within 2-3 weeks, and at ~$350 it is the best value in this guide. Pair with a quality leather conditioner — see our [leather boot care guide](/magazine/how-to-care-for-leather-boots) for a routine that keeps the leather supple.
 
 ### Best Wide-Width Dress Boot — Allen Edmonds Dalton in EE
 
@@ -143,11 +143,11 @@ The Dalton is a wingtip boot built on the 65 last, available up to EEE on reques
 
 ### Best Wide-Width Casual Boot — Alden Indy 405 in EE on Trubalance
 
-The Indy on Trubalance is, in my opinion, the best wide-foot boot ever made. The last is generous everywhere, the chromexcel softens beautifully, and the Goodyear flex construction (a flexible variant of standard goodyear welt) means short break-in. Expect to spend ~$700+, and expect to keep them for a decade. For more on welt construction trade-offs, see [goodyear welt vs blake stitch](/articles/goodyear-welt-vs-blake-stitch).
+The Indy on Trubalance is, in my opinion, the best wide-foot boot ever made. The last is generous everywhere, the chromexcel softens beautifully, and the Goodyear flex construction (a flexible variant of standard goodyear welt) means short break-in. Expect to spend ~$700+, and expect to keep them for a decade. For more on welt construction trade-offs, see [goodyear welt vs blake stitch](/magazine/goodyear-welt-vs-blake-stitch).
 
 ### Best Budget Wide-Width Boot — Wolverine 1000 Mile in EE
 
-If $350 is your ceiling, the 1000 Mile in EE is a solid pick. Goodyear welted, made in the USA, and comfortable for moderate-instep wide feet. For more options in this price range, see [best goodyear welt boots under $300](/articles/best-goodyear-welt-boots-under-300).
+If $350 is your ceiling, the 1000 Mile in EE is a solid pick. Goodyear welted, made in the USA, and comfortable for moderate-instep wide feet. For more options in this price range, see [best goodyear welt boots under $300](/magazine/best-goodyear-welt-boots-under-300).
 
 ## The Honest Downsides of Wide-Foot Boot Ownership
 
@@ -157,7 +157,7 @@ I want to close with the trade-offs, because no guide is honest without them:
 - **Longer shipping.** Wide-width inventory turns over more slowly, and many widths are made-to-order or made-in-batches.
 - **Higher entry cost.** The brands with the best width selection tend to be the more expensive ones (Alden, Allen Edmonds). Budget options exist but are limited.
 - **Harder secondhand market.** Wide-width boots in good condition sell fast on r/goodyearwelt and StyleForum. You will need to move quickly when one appears.
-- **Break-in still matters.** Even a perfect-fit boot needs proper break-in. Read our [how to break in leather boots](/articles/how-to-break-in-leather-boots) guide before your first wear.
+- **Break-in still matters.** Even a perfect-fit boot needs proper break-in. Read our [how to break in leather boots](/magazine/how-to-break-in-leather-boots) guide before your first wear.
 
 The upside? Once you find your brand, your last, and your width, you are set for life. I have worn the same Alden 405s for seven years. They have been resoled twice. They fit better today than the day I bought them.
 

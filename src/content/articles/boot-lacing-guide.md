@@ -28,7 +28,7 @@ When you pull a lace tight across an eyelet pair, you are creating a localized t
 - **Distributes pressure** — even tension across all eyelets prevents pressure points; uneven tension creates them.
 - **Affects ankle articulation** — locked-down upper eyelets restrict ankle flex, which is good for stability but bad for comfort on long walks.
 
-This is why lacing matters for foot health. Numb toes are usually caused by too-tight lacing across the instep. Heel blisters are usually caused by too-loose lacing at the top eyelets. Achilles pain on tall boots is usually caused by lacing the top eyelet too tight when you should have left it loose. The cure for most fit problems is in the laces, not the leather. For boots in the break-in phase specifically, lacing technique can make the difference between miserable and tolerable — see my [break-in guide](/articles/how-to-break-in-leather-boots) for the full strategy.
+This is why lacing matters for foot health. Numb toes are usually caused by too-tight lacing across the instep. Heel blisters are usually caused by too-loose lacing at the top eyelets. Achilles pain on tall boots is usually caused by lacing the top eyelet too tight when you should have left it loose. The cure for most fit problems is in the laces, not the leather. For boots in the break-in phase specifically, lacing technique can make the difference between miserable and tolerable — see my [break-in guide](/magazine/how-to-break-in-leather-boots) for the full strategy.
 
 ## Method 1 — Straight Bar Lacing (Lydiard / European)
 
@@ -105,7 +105,7 @@ This is not a complete lacing method but rather a modification you can add to an
 
 The surgeon's knot creates a "step" in the tension. You can lace the lower portion comfortably loose and the upper portion firmly tight, with the surgeon's knot keeping the two zones separate. Your toes get room, your heel gets locked down, and the lace tension over your instep stays comfortable.
 
-This single technique has fixed more boot fit problems for me than any other adjustment. If you take only one thing from this article, take this. It works especially well on boots that tend to slip at the heel during break-in — see my [Wolverine 1000 Mile review](/articles/wolverine-1000-mile-review) for an example of a boot where I personally use this technique to manage early heel slip.
+This single technique has fixed more boot fit problems for me than any other adjustment. If you take only one thing from this article, take this. It works especially well on boots that tend to slip at the heel during break-in — see my [Wolverine 1000 Mile review](/magazine/wolverine-1000-mile-review) for an example of a boot where I personally use this technique to manage early heel slip.
 
 ## Lace Material — What You Are Actually Buying
 
@@ -127,7 +127,7 @@ Cotton laces coated with a wax finish. Slightly stiffer than plain cotton, much 
 
 Round leather thongs (often rawhide), the traditional choice for heritage work boots like Red Wing and Wolverine. Look fantastic on the right boot, last for years if you take care of them.
 
-**Trade-off:** Stretch over time and need re-tightening. Can break dramatically when they fail (no warning, the lace just snaps). If exposed to heavy salt or sustained wet conditions, they dry out and crack — see my [boot care guide](/articles/how-to-care-for-leather-boots) for conditioning leather laces alongside the boot itself.
+**Trade-off:** Stretch over time and need re-tightening. Can break dramatically when they fail (no warning, the lace just snaps). If exposed to heavy salt or sustained wet conditions, they dry out and crack — see my [boot care guide](/magazine/how-to-care-for-leather-boots) for conditioning leather laces alongside the boot itself.
 
 ### Paracord Laces
 
@@ -168,7 +168,7 @@ When replacing, take a photo of your existing lacing pattern first — it is muc
 New boots often have stiff eyelets that bite the lace and make threading difficult. Two tricks help:
 
 1. **Aglet first, then push through fully.** Don't try to feed the body of the lace through a tight eyelet — it will catch and twist. Get the aglet (the plastic or metal tip) all the way through, then pull the rest through smoothly.
-2. **Lubricate the eyelets if needed.** A tiny dab of leather conditioner on a cotton swab, applied to the inside of stubborn eyelets, can help the laces feed cleanly without damaging the leather. Don't use silicone spray or anything petroleum-based, especially on suede boots — see my [suede cleaning guide](/articles/how-to-clean-suede-boots) for what damages those finishes.
+2. **Lubricate the eyelets if needed.** A tiny dab of leather conditioner on a cotton swab, applied to the inside of stubborn eyelets, can help the laces feed cleanly without damaging the leather. Don't use silicone spray or anything petroleum-based, especially on suede boots — see my [suede cleaning guide](/magazine/how-to-clean-suede-boots) for what damages those finishes.
 
 ## When the Lacing Cannot Save the Fit
 
@@ -179,7 +179,7 @@ I want to be honest about the limits here. Lacing technique cannot compensate fo
 - Severe pronation or supination issues that need an insole or orthotic
 - Boots with damaged or stretched-out leather around the eyelets
 
-If you have tried two or three lacing patterns and the boot still hurts in the same place, the lacing is not the problem. Return the boots if you can, or reach for a different pair from your rotation. For boot recommendations across budgets that are likely to fit a wider range of feet, see my [under-$300 Goodyear welt buying guide](/articles/best-goodyear-welt-boots-under-300).
+If you have tried two or three lacing patterns and the boot still hurts in the same place, the lacing is not the problem. Return the boots if you can, or reach for a different pair from your rotation. For boot recommendations across budgets that are likely to fit a wider range of feet, see my [under-$300 Goodyear welt buying guide](/magazine/best-goodyear-welt-boots-under-300).
 
 ## Frequently Asked Questions
 

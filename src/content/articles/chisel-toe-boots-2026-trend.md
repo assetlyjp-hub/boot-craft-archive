@@ -91,7 +91,7 @@ At the chisel-toe silhouette's price range (most quality options run $250–$600
 Chisel-toe boots benefit from construction methods that keep the profile slim:
 - **Blake stitch** — Minimal bulk, sleek sole-to-upper transition. Best for dress and Chelsea styles.
 - **Blake Rapid** — Adds a midsole for durability while keeping the blake's slim look.
-- **Goodyear welt** — Works for western and casual styles where a little more visual weight is acceptable. (See our [Goodyear welt vs Blake stitch guide](/articles/goodyear-welt-vs-blake-stitch) for more.)
+- **Goodyear welt** — Works for western and casual styles where a little more visual weight is acceptable. (See our [Goodyear welt vs Blake stitch guide](/magazine/goodyear-welt-vs-blake-stitch) for more.)
 
 Avoid cemented (glued) construction. The chisel toe puts stress on the front of the sole, and glue will delaminate faster than stitching will fail.
 
@@ -100,7 +100,7 @@ Avoid cemented (glued) construction. The chisel toe puts stress on the front of 
 The chisel toe's geometry favors:
 - **Black** — The purest expression of the shape. No distraction.
 - **Dark brown** — Versatile, slightly warmer, works across seasons.
-- **Chocolate suede** — The dark horse of 2026. Suede softens the architectural edge of the chisel. (For suede care tips, see our [leather boot care guide](/articles/how-to-care-for-leather-boots).)
+- **Chocolate suede** — The dark horse of 2026. Suede softens the architectural edge of the chisel. (For suede care tips, see our [leather boot care guide](/magazine/how-to-care-for-leather-boots).)
 - **Cognac/tan** — Beautiful but harder to style. Reserve for spring and summer.
 
 ## How to Know If You're Getting the Right Fit

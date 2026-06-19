@@ -35,7 +35,7 @@ A leather sole is exactly what it sounds like — a layer of thick, dense leathe
 
 **Best for:** Dress boots, dressier service boots, anything you wear primarily indoors or on dry surfaces. The sole I would put on a Carmina or an Edward Green.
 
-For more detail on construction and how soles attach, see [goodyear welt vs blake stitch](/articles/goodyear-welt-vs-blake-stitch).
+For more detail on construction and how soles attach, see [goodyear welt vs blake stitch](/magazine/goodyear-welt-vs-blake-stitch).
 
 ## Dainite Studded Rubber
 
@@ -97,7 +97,7 @@ A compromise between commando and mini-lug — moderate depth, moderate spacing,
 **Durability:** High. Built for serious use.
 **Best for:** Service boots that will see varied conditions. A great all-around choice for someone buying one boot.
 
-For more on which boot suits which use case, my [Iron Ranger review](/articles/red-wing-iron-ranger-review) breaks down the standard Iron Ranger sole options.
+For more on which boot suits which use case, my [Iron Ranger review](/magazine/red-wing-iron-ranger-review) breaks down the standard Iron Ranger sole options.
 
 ## Wedge Soles (Broader Category)
 
@@ -116,7 +116,7 @@ A wedge sole has no separate heel. The sole runs from the heel to the toe at the
 **Durability:** Lowest of any sole option. The soft compounds wear fast.
 **Repairability:** Most wedges can be replaced. Cat's Paw, Vibram Christy, and plantation crepe are all available as resole options.
 
-**Best for:** Casual heritage boots, moc toes, chukkas. Anything you want to read as workwear or weekend rather than office or formal. See [moc toe vs plain toe boots](/articles/moc-toe-vs-plain-toe-boots) for more on which boots traditionally pair with wedges.
+**Best for:** Casual heritage boots, moc toes, chukkas. Anything you want to read as workwear or weekend rather than office or formal. See [moc toe vs plain toe boots](/magazine/moc-toe-vs-plain-toe-boots) for more on which boots traditionally pair with wedges.
 
 ## Choosing the Right Sole for the Right Boot
 
@@ -153,7 +153,7 @@ The math says that a more durable sole reduces lifetime cost. A pair of Vibram-s
 
 That said, the right sole for the way you use the boot is more important than the longest-lasting sole. Boots that last forever but live in the closet because the sole is wrong for your life are not a value.
 
-For a deeper dive into resoling, see the [resoling guide](/articles/resoling-guide).
+For a deeper dive into resoling, see the [resoling guide](/magazine/resoling-guide).
 
 ## FAQ
 
@@ -179,7 +179,7 @@ Cheap stack-leather soles on entry-level boots are usually low-density chrome-ta
 Sometimes pebbles get wedged between studs, but they fall out within a few steps. Worse on Vibram lug soles, which can hold mud in the deeper grooves. Wipe them out periodically.
 
 **Can I resole a non-goodyear-welted boot?**
-Cement-construction boots (glued sole) cannot be resoled in any practical sense. Blake-stitched boots can sometimes be resoled by a cobbler with a Blake stitcher, but the options are limited. Goodyear welt is by far the most resole-friendly construction. See my [goodyear welt vs blake stitch](/articles/goodyear-welt-vs-blake-stitch) for more.
+Cement-construction boots (glued sole) cannot be resoled in any practical sense. Blake-stitched boots can sometimes be resoled by a cobbler with a Blake stitcher, but the options are limited. Goodyear welt is by far the most resole-friendly construction. See my [goodyear welt vs blake stitch](/magazine/goodyear-welt-vs-blake-stitch) for more.
 
 ## The Honest Downsides
 
@@ -189,4 +189,4 @@ The other honest issue is that sole preference is partly aesthetic. Vibram lugs 
 
 The right sole is the one that matches how you will actually wear the boot, in the conditions you will actually walk in, with the clothes you actually own. Not the sole that looks coolest in photos. Not the sole that lasts longest in theory. The one that fits your real use.
 
-For more on care across all sole types, see [how to care for leather boots](/articles/how-to-care-for-leather-boots), and for dressier sole-appropriate options, [best dress boots for men](/articles/best-dress-boots-for-men).
+For more on care across all sole types, see [how to care for leather boots](/magazine/how-to-care-for-leather-boots), and for dressier sole-appropriate options, [best dress boots for men](/magazine/best-dress-boots-for-men).

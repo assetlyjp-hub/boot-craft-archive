@@ -39,7 +39,7 @@ What you do once a week, usually on a Sunday with a podcast on:
 
 **Inspect.** Look at the welt, the sole edge, the laces, the heel cap. Anything fraying, splitting, or coming loose? Catch it now while it is a five-dollar fix instead of a sixty-dollar one.
 
-If the boots are suede, swap the horsehair brush for a suede brush (brass-bristled or rubber crepe). Different leather, different tools. The general approach in [how to clean suede boots](/articles/how-to-clean-suede-boots) covers the technique in more detail.
+If the boots are suede, swap the horsehair brush for a suede brush (brass-bristled or rubber crepe). Different leather, different tools. The general approach in [how to clean suede boots](/magazine/how-to-clean-suede-boots) covers the technique in more detail.
 
 ## Monthly — Twenty Minutes
 
@@ -49,13 +49,13 @@ What you do once a month, scheduled on a calendar so you do not forget:
 
 For most leathers, I use Saphir Renovateur or Lexol. A pea-sized amount on a clean cotton cloth, worked into one boot at a time in small circles. Let it absorb for thirty minutes. Buff with a clean horsehair brush.
 
-For chromexcel, you usually do not need a separate conditioner — the leather is already loaded with oils and waxes from the tannery. A light buff with a horsehair brush brings the oils to the surface. Heavier conditioning with Venetian Shoe Cream or Bick 4 every couple of months is plenty. There is more on chromexcel-specific care in the [chromexcel leather guide](/articles/chromexcel-leather-guide).
+For chromexcel, you usually do not need a separate conditioner — the leather is already loaded with oils and waxes from the tannery. A light buff with a horsehair brush brings the oils to the surface. Heavier conditioning with Venetian Shoe Cream or Bick 4 every couple of months is plenty. There is more on chromexcel-specific care in the [chromexcel leather guide](/magazine/chromexcel-leather-guide).
 
 **Polish, only if dressy.** Casual work boots do not need polish. A monthly polish on dress boots or chukkas — Saphir cream polish, neutral or matched colour, applied in tiny amounts and buffed thoroughly — keeps them looking sharp. Wax polish is for shine, not protection. Cream polish is the workhorse.
 
 **Check the laces.** Replace worn ones now, not when they snap on a Tuesday morning when you are running late.
 
-For the full conditioning method I default to, see [how to care for leather boots](/articles/how-to-care-for-leather-boots).
+For the full conditioning method I default to, see [how to care for leather boots](/magazine/how-to-care-for-leather-boots).
 
 ## Seasonal — Forty Minutes, Twice a Year
 
@@ -71,7 +71,7 @@ For dressier calf, I use Saphir Médaille d'Or Greasy Leather Cream or a beeswax
 
 For suede, a spray-on waterproofer like Saphir Super Invulner. Two light coats, fifteen minutes between coats, twenty-four hours to cure before wearing.
 
-The detailed method for each leather type is in [how to waterproof leather boots](/articles/how-to-waterproof-leather-boots).
+The detailed method for each leather type is in [how to waterproof leather boots](/magazine/how-to-waterproof-leather-boots).
 
 ### Spring (April-ish): Deep Clean
 
@@ -89,7 +89,7 @@ After winter has put salt, slush, and grit through your boots, they need a prope
 
 The big inspection. Block out an afternoon. Get a beer or a coffee.
 
-**Resole assessment.** Look at the outsole tread, the heel block, and the welt stitching. Tread worn down to the cork or showing the welt? Heel cap rolled over to the side? Welt stitching breaking? Time to send them for a resole. Catching this annually, instead of when the sole has actually failed, is the difference between a $90 resole and a $200 rebuild. The full assessment criteria are in the [resoling guide](/articles/resoling-guide).
+**Resole assessment.** Look at the outsole tread, the heel block, and the welt stitching. Tread worn down to the cork or showing the welt? Heel cap rolled over to the side? Welt stitching breaking? Time to send them for a resole. Catching this annually, instead of when the sole has actually failed, is the difference between a $90 resole and a $200 rebuild. The full assessment criteria are in the [resoling guide](/magazine/resoling-guide).
 
 **Leather inspection.** Look at the toe box for cracks (a sign of dry leather and over-creasing). Check the heel counter for collapse. Inspect the lining for tears. Examine the leather around the welt — this is where rot starts on neglected boots.
 
@@ -99,7 +99,7 @@ The big inspection. Block out an afternoon. Get a beer or a coffee.
 
 **Sole edge dressing.** The painted edge of the sole and heel chips and fades over a year. Edge dressing — Angelus or Saphir — applied with a small brush brings them back. This is cosmetic but cheap and fast.
 
-**Patina assessment.** Take photos. Compare to last year. This is the year-over-year evolution that makes a leather boot interesting and is the whole reason you bought welted boots in the first place. The [patina and aging guide](/articles/patina-and-aging-guide) covers what good aging looks like versus what to worry about.
+**Patina assessment.** Take photos. Compare to last year. This is the year-over-year evolution that makes a leather boot interesting and is the whole reason you bought welted boots in the first place. The [patina and aging guide](/magazine/patina-and-aging-guide) covers what good aging looks like versus what to worry about.
 
 ## The Full Tool Kit (Cost Breakdown)
 

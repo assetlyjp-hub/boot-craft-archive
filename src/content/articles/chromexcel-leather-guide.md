@@ -46,7 +46,7 @@ The speed and drama of Chromexcel's patina is why makers like Viberg, Alden, and
 
 ### Chromexcel vs Shell Cordovan
 
-Shell Cordovan is denser, more expensive, and develops patina more slowly. Where Chromexcel creases, Shell Cordovan rolls. Shell Cordovan is more formal and polished; Chromexcel is more casual and rugged. Both are excellent — they simply serve different purposes. If you want dramatic, fast-developing character, choose Chromexcel. If you want a mirror-like luster that builds over years, choose Shell Cordovan. For a deep dive into Shell Cordovan, see our [Shell Cordovan Complete Guide](/articles/shell-cordovan-complete-guide).
+Shell Cordovan is denser, more expensive, and develops patina more slowly. Where Chromexcel creases, Shell Cordovan rolls. Shell Cordovan is more formal and polished; Chromexcel is more casual and rugged. Both are excellent — they simply serve different purposes. If you want dramatic, fast-developing character, choose Chromexcel. If you want a mirror-like luster that builds over years, choose Shell Cordovan. For a deep dive into Shell Cordovan, see our [Shell Cordovan Complete Guide](/magazine/shell-cordovan-complete-guide).
 
 ### Chromexcel vs Oil-Tanned Leather
 
@@ -81,19 +81,19 @@ Chromexcel is one of the easiest leathers to maintain, thanks to its heavy oil c
 - **Heavy wax polish**: Darkens the leather permanently and reduces pull-up character
 - **Direct heat**: Never dry CXL boots near a radiator or with a hair dryer
 
-For a comprehensive boot care routine, see our [Complete Leather Boot Care Guide](/articles/how-to-care-for-leather-boots).
+For a comprehensive boot care routine, see our [Complete Leather Boot Care Guide](/magazine/how-to-care-for-leather-boots).
 
 ## Best Chromexcel Boots by Price
 
 ### Under $200 — Entry Level
 
-**Thursday Boot Co Captain** ($199) — The boot that proved you can get genuine Horween Chromexcel at an accessible price. Goodyear welt construction, Poron insole for comfort, and the Crown last that works with everything from jeans to chinos. The best first Chromexcel boot for most people. See our [Best Goodyear Welt Boots Under $300](/articles/best-goodyear-welt-boots-under-300) for more options.
+**Thursday Boot Co Captain** ($199) — The boot that proved you can get genuine Horween Chromexcel at an accessible price. Goodyear welt construction, Poron insole for comfort, and the Crown last that works with everything from jeans to chinos. The best first Chromexcel boot for most people. See our [Best Goodyear Welt Boots Under $300](/magazine/best-goodyear-welt-boots-under-300) for more options.
 
 ### $300-$400 — Best Value
 
 **Grant Stone Diesel Boot** ($360) — Grant Stone delivers Alden-level quality at a fraction of the cost. Their Chromexcel sourcing from Horween is impeccable, and the Leo last provides a balanced, versatile fit. The wheeled welt adds a refined touch. If you want the best possible Chromexcel boot under $400, this is it.
 
-**Red Wing Iron Ranger 8111** ($350) — While technically using Amber Harness rather than standard Chromexcel, the Iron Ranger deserves mention. It is the most iconic American heritage boot and uses oil-tanned leather from a similar family. Read our [Red Wing Iron Ranger Review](/articles/red-wing-iron-ranger-review) for the full story.
+**Red Wing Iron Ranger 8111** ($350) — While technically using Amber Harness rather than standard Chromexcel, the Iron Ranger deserves mention. It is the most iconic American heritage boot and uses oil-tanned leather from a similar family. Read our [Red Wing Iron Ranger Review](/magazine/red-wing-iron-ranger-review) for the full story.
 
 ### $400-$700 — Premium
 
@@ -109,7 +109,7 @@ For a comprehensive boot care routine, see our [Complete Leather Boot Care Guide
 
 ### Does Chromexcel stretch?
 
-Yes. Chromexcel is a soft, pliable leather that stretches more than most boot leathers. This is why proper sizing is critical — a boot that feels snug on day one may become too loose after a month of wear. Most Chromexcel boots should feel firm but not painfully tight when new. For break-in advice, see our [Break-In Guide](/articles/how-to-break-in-leather-boots).
+Yes. Chromexcel is a soft, pliable leather that stretches more than most boot leathers. This is why proper sizing is critical — a boot that feels snug on day one may become too loose after a month of wear. Most Chromexcel boots should feel firm but not painfully tight when new. For break-in advice, see our [Break-In Guide](/magazine/how-to-break-in-leather-boots).
 
 ### Is Chromexcel waterproof?
 

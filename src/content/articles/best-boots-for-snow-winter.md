@@ -39,13 +39,13 @@ The standard Blacksmith ships on a Vibram 430 mini-lug sole, but the version tha
 
 Pair it with a thick Merino sock (Darn Tough Hiker weight) and treat the leather aggressively before the season. It is not a snowboot. It is a heritage boot that handles winter better than most.
 
-For more on the Iron Ranger and other Red Wing heritage models, see my [Iron Ranger review](/articles/red-wing-iron-ranger-review).
+For more on the Iron Ranger and other Red Wing heritage models, see my [Iron Ranger review](/magazine/red-wing-iron-ranger-review).
 
 ### Wolverine 1000 Mile — A Caveat, Not a Pick
 
 I am including the Wolverine 1000 Mile not to recommend it for winter, but to warn you. It looks like a winter boot. It photographs like a winter boot. It is not a winter boot. The sole is a thin leather-and-rubber combination with minimal lug, the leather is unlined Horween chromexcel that wets through quickly in slush, and there is no gusset tongue. I love this boot in fall. I learned the hard way that I do not love it in February. If you already own a pair and want to push them into winter duty, get the Vibram-soled version (1000 Mile Vibram) and treat them obsessively. Even then, save them for dry cold.
 
-Full thoughts in my [Wolverine 1000 Mile review](/articles/wolverine-1000-mile-review).
+Full thoughts in my [Wolverine 1000 Mile review](/magazine/wolverine-1000-mile-review).
 
 ### Viberg Service Boot 2030
 
@@ -91,7 +91,7 @@ For winter, I treat my oil-tanned boots twice a season — once before the first
 2. Apply a generous coat of Sno-Seal (beeswax-based) or Obenauf's HD LP, working it into the welt and seams especially.
 3. Buff off excess after a few hours.
 
-The dressing darkens leather. If you do not want that, use Saphir Renovateur instead, but it is less aggressive for water resistance. For full leather care detail, see [how to waterproof leather boots](/articles/how-to-waterproof-leather-boots) and the broader [leather boot care guide](/articles/how-to-care-for-leather-boots).
+The dressing darkens leather. If you do not want that, use Saphir Renovateur instead, but it is less aggressive for water resistance. For full leather care detail, see [how to waterproof leather boots](/magazine/how-to-waterproof-leather-boots) and the broader [leather boot care guide](/magazine/how-to-care-for-leather-boots).
 
 ## Sock Pairing Matters More Than People Think
 
@@ -117,10 +117,10 @@ For deep grip on snow and ice, yes. Vibram lugs (especially 100 commando, 132 Kl
 If you live somewhere with serious winter, yes. Trying to make a single pair of boots cover all conditions ends with either ruined boots or cold feet. A pair of Bean Boots or Sorels at $200 saves a $700 heritage pair from getting destroyed.
 
 **How does goodyear welt hold up to snow?**
-Acceptably, with maintenance. Storm welts (raised welts) and Norwegian welts hold up better. Stitchdown construction holds up best of the heritage methods. For more, see my [goodyear welt vs blake stitch](/articles/goodyear-welt-vs-blake-stitch) guide.
+Acceptably, with maintenance. Storm welts (raised welts) and Norwegian welts hold up better. Stitchdown construction holds up best of the heritage methods. For more, see my [goodyear welt vs blake stitch](/magazine/goodyear-welt-vs-blake-stitch) guide.
 
 **What is the budget pick for a winter-capable heritage boot?**
-The Red Wing Blacksmith with the Vibram 132 sole, around $360, is the best value. Treated properly with Sno-Seal and paired with a heavy sock, it handles a lot. See my [best goodyear welt boots under $300](/articles/best-goodyear-welt-boots-under-300) for cheaper options, though most of those are not winter-suitable.
+The Red Wing Blacksmith with the Vibram 132 sole, around $360, is the best value. Treated properly with Sno-Seal and paired with a heavy sock, it handles a lot. See my [best goodyear welt boots under $300](/magazine/best-goodyear-welt-boots-under-300) for cheaper options, though most of those are not winter-suitable.
 
 **Is shearling lining worth it?**
 Yes, if you actually need warmth. Shearling is genuinely insulating, breathes better than synthetic insulation, and feels luxurious. The downside is bulk — shearling-lined boots tend to fit a half-size differently and run hotter in the shoulder seasons. If you are in serious cold often, get a shearling-lined boot. If you are buying for occasional snow days, Thinsulate is more versatile.

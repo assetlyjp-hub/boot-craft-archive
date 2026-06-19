@@ -132,7 +132,7 @@ Most people insert trees and walk away. There's a slightly better method:
 
 5. **For long storage** (off-season pairs), leave trees in continuously. Pull boots out monthly to inspect, but the trees stay home.
 
-This pairs well with a proper [boot care schedule](/articles/boot-care-schedule). Trees do the day-to-day work; conditioning every 8-12 weeks does the leather work.
+This pairs well with a proper [boot care schedule](/magazine/boot-care-schedule). Trees do the day-to-day work; conditioning every 8-12 weeks does the leather work.
 
 ## Honest downsides of boot trees
 
@@ -144,7 +144,7 @@ To balance the recommendation: there are real downsides.
 
 **The wrong tree can damage a boot.** A tree that's too big can stretch the heel counter or vamp permanently. A tree that's too small flops around and provides minimal benefit. Sizing matters — and split-toe trees in size ranges are better at fitting flexibly than rigid lasted trees.
 
-**Cedar can dry out leather over very long periods.** This is genuinely contested in the community, but I've seen it happen on boots stored with cedar trees in heated dry winters for multiple years without conditioning. Cedar pulls moisture out of leather, and leather needs *some* moisture to stay supple. Pair cedar tree storage with regular conditioning. See [how to care for leather boots](/articles/how-to-care-for-leather-boots).
+**Cedar can dry out leather over very long periods.** This is genuinely contested in the community, but I've seen it happen on boots stored with cedar trees in heated dry winters for multiple years without conditioning. Cedar pulls moisture out of leather, and leather needs *some* moisture to stay supple. Pair cedar tree storage with regular conditioning. See [how to care for leather boots](/magazine/how-to-care-for-leather-boots).
 
 ## FAQ
 
@@ -163,13 +163,13 @@ Once a year is plenty. Light sanding with 220-grit paper exposes fresh cedar oil
 **Can I make my own boot trees?**
 You can. People have used rolled-up newspaper, wadded socks, even foam blocks. They preserve shape (poorly) but don't absorb moisture. For a $200 boot, real trees are worth it. For a $50 boot you don't care about long-term, newspaper is fine.
 
-**Do I need trees for boots I'm [breaking in](/articles/how-to-break-in-leather-boots)?**
+**Do I need trees for boots I'm [breaking in](/magazine/how-to-break-in-leather-boots)?**
 Yes — even more so. Break-in is when leather is most actively reshaping, and trees ensure it's reshaping in the right direction (matching your foot in wear, returning to the last shape at rest). Skipping trees during break-in is how boots end up permanently distorted.
 
-**What about trees for [resoled boots](/articles/resoling-guide)?**
+**What about trees for [resoled boots](/magazine/resoling-guide)?**
 Same as new boots. Recrafting includes a re-lasting step where the upper is reshaped on its original last. Trees maintain that shape through the new leather's settling period.
 
-**Do trees affect [patina development](/articles/patina-and-aging-guide)?**
+**Do trees affect [patina development](/magazine/patina-and-aging-guide)?**
 Indirectly. Trees keep leather smoother, which lets light reflect more evenly across the surface. The result is a more uniform patina rather than a heavily creased, "character" patina. Both look good — trees push toward the smoother end of that spectrum.
 
 ## What I'd buy starting over
@@ -184,4 +184,4 @@ For someone with 6+ pairs of higher-end boots, scale up to lasted trees for the 
 
 The big lesson: trees aren't an upsell, they're insurance. The cost of a quality tree is a fraction of a recrafting fee, and recrafting only saves a boot once or twice before the upper is too far gone. Good trees, used consistently, are how a $400 pair of boots becomes a 15-year investment instead of a 5-year wardrobe item.
 
-Pair the trees with a regular conditioning routine and proper [waterproofing](/articles/how-to-waterproof-leather-boots), and you've covered 90% of what determines whether a boot lives or dies.
+Pair the trees with a regular conditioning routine and proper [waterproofing](/magazine/how-to-waterproof-leather-boots), and you've covered 90% of what determines whether a boot lives or dies.

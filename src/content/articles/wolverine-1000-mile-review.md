@@ -31,7 +31,7 @@ The stacked leather sole is one of the defining characteristics of the 1000 Mile
 
 The Chromexcel on the 1000 Mile Boot is consistently excellent. Wolverine has a long-standing relationship with Horween, and it shows in the leather selection. Out of the box, the leather has a rich, deep brown tone with visible pull-up character. Press your thumb into the vamp and you will see the oils migrate, creating a lighter spot that slowly returns to normal.
 
-Within weeks of regular wear, the Chromexcel begins its transformation. The vamp crease develops dramatic pull-up contrast, the toe box lightens slightly from contact and friction, and the quarters retain their original depth. By the six-month mark, the patina is genuinely stunning. For a deep dive into how Chromexcel ages across different boots, see our [Patina and Aging Guide](/articles/patina-and-aging-guide).
+Within weeks of regular wear, the Chromexcel begins its transformation. The vamp crease develops dramatic pull-up contrast, the toe box lightens slightly from contact and friction, and the quarters retain their original depth. By the six-month mark, the patina is genuinely stunning. For a deep dive into how Chromexcel ages across different boots, see our [Patina and Aging Guide](/magazine/patina-and-aging-guide).
 
 The leather thickness is moderate — thinner than a Red Wing Iron Ranger but thicker than most dress shoes. This strikes a good balance between structure and comfort, contributing to a faster break-in period.
 
@@ -51,7 +51,7 @@ This is where the 1000 Mile Boot shines compared to stiffer heritage competitors
 
 The heel may feel slightly stiff initially, and the leather sole will be slippery on smooth surfaces until the surface roughens naturally. Scuffing the sole on concrete before your first wear helps with traction.
 
-The one break-in pain point is the leather insole, which takes time to develop a footbed impression. Unlike boots with cork or Poron insoles, the 1000 Mile relies entirely on the leather insole molding to your foot. This happens naturally over 2-3 weeks of regular wear. For detailed break-in techniques, see our [Break-In Guide](/articles/how-to-break-in-leather-boots).
+The one break-in pain point is the leather insole, which takes time to develop a footbed impression. Unlike boots with cork or Poron insoles, the 1000 Mile relies entirely on the leather insole molding to your foot. This happens naturally over 2-3 weeks of regular wear. For detailed break-in techniques, see our [Break-In Guide](/magazine/how-to-break-in-leather-boots).
 
 ## Long-Term Performance
 
@@ -59,7 +59,7 @@ The one break-in pain point is the leather insole, which takes time to develop a
 
 After break-in, the 1000 Mile Boot becomes remarkably comfortable. The leather insole molds to your foot precisely, the Chromexcel upper becomes soft and supple, and the overall fit improves with every wear. The patina development on Chromexcel is among the best in the boot world — dramatic, fast-developing, and unique to each wearer.
 
-The Goodyear welt construction means the boot is fully resolable. When the leather sole wears through — typically after 2-3 years of heavy rotation — any competent cobbler can attach a new sole. For details on the resoling process, see our [Resoling Guide](/articles/resoling-guide).
+The Goodyear welt construction means the boot is fully resolable. When the leather sole wears through — typically after 2-3 years of heavy rotation — any competent cobbler can attach a new sole. For details on the resoling process, see our [Resoling Guide](/magazine/resoling-guide).
 
 ### The Concerns
 
@@ -78,13 +78,13 @@ The 1000 Mile Boot requires minimal care thanks to its Chromexcel upper:
 
 Avoid heavy waxes and polishes — Chromexcel responds best to light, neutral conditioners. The leather already contains enough oils and waxes from the tanning process that it rarely feels dry during regular wear.
 
-For a complete care routine, see our [Leather Boot Care Guide](/articles/how-to-care-for-leather-boots).
+For a complete care routine, see our [Leather Boot Care Guide](/magazine/how-to-care-for-leather-boots).
 
 ## How It Compares
 
 ### Wolverine 1000 Mile vs Red Wing Iron Ranger
 
-The Iron Ranger ($350) is heavier, stiffer, and more rugged. Its Vibram 430 Mini Lug sole provides far better traction, and the double-layered toe cap adds a workwear edge. The 1000 Mile ($400) is sleeker, more refined, and better suited to smart-casual settings. The Iron Ranger wins on durability and bad-weather performance. The 1000 Mile wins on versatility and break-in comfort. Read our [Iron Ranger Review](/articles/red-wing-iron-ranger-review) for the full comparison.
+The Iron Ranger ($350) is heavier, stiffer, and more rugged. Its Vibram 430 Mini Lug sole provides far better traction, and the double-layered toe cap adds a workwear edge. The 1000 Mile ($400) is sleeker, more refined, and better suited to smart-casual settings. The Iron Ranger wins on durability and bad-weather performance. The 1000 Mile wins on versatility and break-in comfort. Read our [Iron Ranger Review](/magazine/red-wing-iron-ranger-review) for the full comparison.
 
 ### Wolverine 1000 Mile vs Grant Stone Diesel Boot
 

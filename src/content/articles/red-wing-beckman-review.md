@@ -27,7 +27,7 @@ Most Red Wing Heritage boots use a Goodyear welt with a synthetic welt strip. Th
 
 There is a tradeoff here that nobody mentioned to me when I bought the boot. Leather welts are more elegant. They are also more fragile. If you scuff the welt against a curb, the leather can split or lift in a way a synthetic welt simply would not. Mine has a small split on the inside welt of the right boot from a misjudged step off a Tokyo train platform in year three. It does not affect function. It does affect resale, and it would have been avoidable with slightly more careful walking.
 
-For more on welt construction tradeoffs in general, see [Goodyear welt vs Blake stitch](/articles/goodyear-welt-vs-blake-stitch).
+For more on welt construction tradeoffs in general, see [Goodyear welt vs Blake stitch](/magazine/goodyear-welt-vs-blake-stitch).
 
 The sole is Vibram 430 (the "mini-lug" half-rubber on a leather midsole), at least on most modern Beckman SKUs. Earlier versions shipped with a full leather sole, and some older Beckmans you find on the secondary market will have that. The Vibram half-rubber is the correct choice for almost everyone — it gives you weather resistance without ruining the dress profile, and it grips wet stone in a way leather does not. If you are buying a Beckman to wear with a suit twice a year and never see rain, sure, get the leather sole. For everyone else, the half-rubber is the version to own.
 
@@ -55,11 +55,11 @@ If you have a high arch or a wider midfoot, consider the EE width. Red Wing's E 
 
 This is the conversation I have most often in DMs, so let me lay it out.
 
-The **Iron Ranger** is the boot Red Wing is famous for. It is more rugged, more visually busy (cap toe, double-stitched, storm welt), and more comfortable out of the box because of the slightly cushier insole and roomier last. It is a casual boot that you can dress up. See my full take in [the Iron Ranger review](/articles/red-wing-iron-ranger-review).
+The **Iron Ranger** is the boot Red Wing is famous for. It is more rugged, more visually busy (cap toe, double-stitched, storm welt), and more comfortable out of the box because of the slightly cushier insole and roomier last. It is a casual boot that you can dress up. See my full take in [the Iron Ranger review](/magazine/red-wing-iron-ranger-review).
 
 The **Beckman** is a dress boot that you can dress down. It is sleeker, more refined, and reads more grown-up with tailored clothing. It is also stiffer for the first two months and never quite as forgiving on a long walking day.
 
-The **Wolverine 1000 Mile** sits between them stylistically — sleeker than the Iron Ranger, less formal than the Beckman, with Horween Chromexcel that develops faster and more dramatically than Featherstone but doesn't hold its shape as well. The 1000 Mile is also significantly less expensive in most markets. My deeper take is in [the Wolverine 1000 Mile review](/articles/wolverine-1000-mile-review).
+The **Wolverine 1000 Mile** sits between them stylistically — sleeker than the Iron Ranger, less formal than the Beckman, with Horween Chromexcel that develops faster and more dramatically than Featherstone but doesn't hold its shape as well. The 1000 Mile is also significantly less expensive in most markets. My deeper take is in [the Wolverine 1000 Mile review](/magazine/wolverine-1000-mile-review).
 
 | Feature | Beckman | Iron Ranger | Wolverine 1000 Mile |
 |---|---|---|---|
@@ -77,7 +77,7 @@ The **Wolverine 1000 Mile** sits between them stylistically — sleeker than the
 
 If your closet leans tailored — wool trousers, oxford-cloth shirts, blazers — buy the Beckman. If your closet leans casual — selvedge denim, flannel, workwear chore coats — buy the Iron Ranger. If you want a single boot that splits the difference and you live in a market where Wolverine is well-distributed, the 1000 Mile is the safer one-and-done.
 
-For a broader look at the dress boot category, see [best dress boots for men](/articles/best-dress-boots-for-men) and [best boots under $500](/articles/best-boots-under-500).
+For a broader look at the dress boot category, see [best dress boots for men](/magazine/best-dress-boots-for-men) and [best boots under $500](/magazine/best-boots-under-500).
 
 ## Dress Versus Casual Versatility, In Practice
 
@@ -111,7 +111,7 @@ Both of my recrafts went through Red Wing's official program. Cost in 2023 was $
 
 The work is the work — leather midsole replaced, Vibram outsole replaced, heel pads replaced, welt re-stitched where needed, uppers cleaned and conditioned. They came back looking newer than they had any right to. The second recraft I requested they leave the patina alone (you can specify minimal cleaning), and they honored it. The boots came back with five years of color and zero years of sole.
 
-If you live outside the US, recrafting through Red Wing's regional service centers (Japan has one, the UK uses a partner) is comparably good but slightly more expensive. Third-party cobblers can also resole the Beckman, but the leather welt makes it a more delicate job than the Iron Ranger and you should make sure your cobbler is comfortable with leather welts before handing the boot over. See [how to care for leather boots](/articles/how-to-care-for-leather-boots) for the routine I follow between resoles.
+If you live outside the US, recrafting through Red Wing's regional service centers (Japan has one, the UK uses a partner) is comparably good but slightly more expensive. Third-party cobblers can also resole the Beckman, but the leather welt makes it a more delicate job than the Iron Ranger and you should make sure your cobbler is comfortable with leather welts before handing the boot over. See [how to care for leather boots](/magazine/how-to-care-for-leather-boots) for the routine I follow between resoles.
 
 ## Frequently Asked Questions
 

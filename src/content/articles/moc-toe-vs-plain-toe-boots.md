@@ -27,7 +27,7 @@ The moc toe seam also creates a natural structural ridge. Think of it as a built
 
 A plain toe boot has an uninterrupted vamp — no cap, no seam, no apron. The leather runs from the throat of the boot to the toe in one continuous piece (or two pieces joined at a center seam, depending on the pattern). This simplicity is the point. There is nothing to distract from the leather itself, which means the quality of the hide is on full display.
 
-Plain toe boots trace their lineage to military service boots and general-purpose work footwear of the early 20th century. The Red Wing Iron Ranger — with its cap toe — is technically not a plain toe, but boots like the Red Wing Blacksmith or Wolverine 1000 Mile represent the style in its purest form. For a deep look at one of the most iconic examples, see our [Red Wing Iron Ranger Review](/articles/red-wing-iron-ranger-review), which covers the cap-toe variant that bridges the plain and structured toe divide.
+Plain toe boots trace their lineage to military service boots and general-purpose work footwear of the early 20th century. The Red Wing Iron Ranger — with its cap toe — is technically not a plain toe, but boots like the Red Wing Blacksmith or Wolverine 1000 Mile represent the style in its purest form. For a deep look at one of the most iconic examples, see our [Red Wing Iron Ranger Review](/magazine/red-wing-iron-ranger-review), which covers the cap-toe variant that bridges the plain and structured toe divide.
 
 The plain toe silhouette is inherently slimmer and more streamlined. Without the raised moc seam adding visual bulk, the boot sits closer to dress footwear territory while still retaining its workwear roots.
 
@@ -43,15 +43,15 @@ Plain toe boots vary more in toe box shape depending on the last. Some, like the
 
 ### Break-In Character
 
-Both styles require break-in time, particularly in [Goodyear welt construction](/articles/goodyear-welt-vs-blake-stitch). But the nature of the break-in differs. Moc toe boots tend to feel stiff at the seam initially — the raised ridge can press against the top of your foot during the first few weeks. Once it softens, the ridge becomes a non-issue and many wearers report that the roomier toe box makes moc toes more comfortable in the long run.
+Both styles require break-in time, particularly in [Goodyear welt construction](/magazine/goodyear-welt-vs-blake-stitch). But the nature of the break-in differs. Moc toe boots tend to feel stiff at the seam initially — the raised ridge can press against the top of your foot during the first few weeks. Once it softens, the ridge becomes a non-issue and many wearers report that the roomier toe box makes moc toes more comfortable in the long run.
 
-Plain toe boots break in more evenly across the vamp, but the entire toe box has to flex and crease as a single unit. This can create pressure points along the sides of the foot early on. For detailed break-in strategies that work for both styles, see our [Break-In Guide](/articles/how-to-break-in-leather-boots).
+Plain toe boots break in more evenly across the vamp, but the entire toe box has to flex and crease as a single unit. This can create pressure points along the sides of the foot early on. For detailed break-in strategies that work for both styles, see our [Break-In Guide](/magazine/how-to-break-in-leather-boots).
 
 ### Sole Pairings
 
 Moc toe boots are traditionally paired with wedge soles — the flat, heel-less christy sole that gives them their characteristic chunky, casual look. This sole is lightweight, comfortable on flat surfaces, and cushions well. But it offers poor traction on wet or uneven terrain and wears down faster than lug soles.
 
-Plain toe boots more commonly ship with heeled soles — leather, Dainite, Vibram lug, or commando patterns. These provide better heel-to-toe transition for walking and offer more versatility across surfaces. That said, these pairings are conventions, not rules. You can absolutely find moc toes on lug soles and plain toes on wedge soles. When any sole eventually wears out, both styles are fully [resolable](/articles/resoling-guide) if they are welted.
+Plain toe boots more commonly ship with heeled soles — leather, Dainite, Vibram lug, or commando patterns. These provide better heel-to-toe transition for walking and offer more versatility across surfaces. That said, these pairings are conventions, not rules. You can absolutely find moc toes on lug soles and plain toes on wedge soles. When any sole eventually wears out, both styles are fully [resolable](/magazine/resoling-guide) if they are welted.
 
 ## The Formality Spectrum
 
@@ -83,17 +83,17 @@ On wedge soles, the bottom edges of the sole yellow and darken over time, adding
 
 ### Plain Toe Aging
 
-Plain toe boots age as a single canvas. Every crease, scratch, and color shift plays out across one unbroken surface, which means the quality of the leather is fully exposed over time. A great hide — like [Chromexcel](/articles/chromexcel-leather-guide) — will reward you with deep, rolling creases and rich tonal variation. A mediocre hide will just look worn out.
+Plain toe boots age as a single canvas. Every crease, scratch, and color shift plays out across one unbroken surface, which means the quality of the leather is fully exposed over time. A great hide — like [Chromexcel](/magazine/chromexcel-leather-guide) — will reward you with deep, rolling creases and rich tonal variation. A mediocre hide will just look worn out.
 
 The vamp crease is the signature aging mark on a plain toe boot. It forms across the widest part of the toe box where your foot flexes, and it is the first thing experienced boot watchers notice. On good leather, this crease develops tight, fine rolls. On poor leather, it collapses into loose, ugly wrinkles. There is no moc seam to hide behind.
 
-For both styles, proper care dramatically affects how they age. Regular conditioning and rotation will keep the leather supple and ensure the patina develops evenly rather than drying out. Our [leather boot care guide](/articles/how-to-care-for-leather-boots) covers the essentials, and the [patina and aging guide](/articles/patina-and-aging-guide) goes deeper into what separates graceful aging from premature decay.
+For both styles, proper care dramatically affects how they age. Regular conditioning and rotation will keep the leather supple and ensure the patina develops evenly rather than drying out. Our [leather boot care guide](/magazine/how-to-care-for-leather-boots) covers the essentials, and the [patina and aging guide](/magazine/patina-and-aging-guide) goes deeper into what separates graceful aging from premature decay.
 
 ## Best Models: Moc Toe
 
 These are the moc toe boots that have earned their reputation through actual performance, not just marketing.
 
-**Red Wing Classic Moc 875** (~$300) — The one that started it all. Oro Legacy leather, wedge sole, Goodyear welt construction. It is chunky, unapologetic, and ages like nothing else. The break-in is real — plan for 3-4 weeks — but the payoff is a boot that fits like a glove and looks better at year five than year one. A strong contender in our [best Goodyear welt boots under $300](/articles/best-goodyear-welt-boots-under-300) roundup.
+**Red Wing Classic Moc 875** (~$300) — The one that started it all. Oro Legacy leather, wedge sole, Goodyear welt construction. It is chunky, unapologetic, and ages like nothing else. The break-in is real — plan for 3-4 weeks — but the payoff is a boot that fits like a glove and looks better at year five than year one. A strong contender in our [best Goodyear welt boots under $300](/magazine/best-goodyear-welt-boots-under-300) roundup.
 
 **Thorogood American Heritage Moc Toe** (~$220) — The working person's moc toe. Tobacco oil-tanned leather, MAXWear wedge sole, and a Goodyear welt that can take serious abuse. Less refined than the Red Wing but more comfortable out of the box thanks to the shock-absorption insole. A genuine made-in-USA value play.
 

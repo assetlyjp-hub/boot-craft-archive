@@ -15,7 +15,7 @@ Suede punishes bad technique. Where smooth leather forgives a wrong wipe and a d
 
 This guide is the one I wish I had when I ruined my first pair of chukkas with a wet paper towel — trial-and-error on real boots, not brush-brand marketing copy.
 
-If you're also caring for smooth leather, start with [how to care for leather boots](/articles/how-to-care-for-leather-boots) — the fundamentals there are completely different from what you'll do to suede.
+If you're also caring for smooth leather, start with [how to care for leather boots](/magazine/how-to-care-for-leather-boots) — the fundamentals there are completely different from what you'll do to suede.
 
 ## Suede vs Nubuck vs Roughout — Clear the Confusion First
 
@@ -25,7 +25,7 @@ Before you clean anything, know what you actually have. The three "fuzzy leather
 - **Nubuck**: Made from the *outer* (grain) side of the hide, then sanded to raise a very fine, dense nap. Feels like velvet. Tougher than suede because the grain layer is still intact underneath.
 - **Roughout**: Regular grain leather turned inside out — flesh side worn outside, grain side worn inside. Coarser, uneven nap. Extremely durable. Used in military and work boots.
 
-For a deeper look at roughout specifically, see the [roughout leather deep dive](/articles/roughout-leather-deep-dive).
+For a deeper look at roughout specifically, see the [roughout leather deep dive](/magazine/roughout-leather-deep-dive).
 
 The cleaning techniques in this guide work on all three, but **nubuck tolerates slightly more aggressive brushing**, and **roughout can take water better than suede can**. When in doubt, treat the material like suede — the gentlest assumption is the safest one.
 
@@ -103,7 +103,7 @@ Winter's signature damage: white crusty rings from road salt. Salt is corrosive 
 5. Stuff the boot with newspaper, let it dry completely at room temperature (no heat).
 6. Once dry, brush to restore the nap.
 
-For heavy winter use, preventative waterproofing is essential. See [how to waterproof leather boots](/articles/how-to-waterproof-leather-boots) for broader context — the principles apply to suede with a different product choice (suede-safe fluoropolymer spray instead of wax).
+For heavy winter use, preventative waterproofing is essential. See [how to waterproof leather boots](/magazine/how-to-waterproof-leather-boots) for broader context — the principles apply to suede with a different product choice (suede-safe fluoropolymer spray instead of wax).
 
 ## Step 5 — Water Spots (Whole-Boot Wet Method)
 
@@ -197,11 +197,11 @@ The part most guides leave out.
 
 **Recoloring has limits.** Dye matches work best on darker suedes (navy, brown, charcoal). Light colors (sand, tan, pale grey) are nearly impossible to restore invisibly — dye bleeds between old and new areas.
 
-**Rain is always a risk.** Even protected suede can water-spot in heavy rain. If you live somewhere wet, keep suede for dry days and rotate in [chromexcel leather](/articles/chromexcel-leather-guide) or other oil-tanned options for daily wear.
+**Rain is always a risk.** Even protected suede can water-spot in heavy rain. If you live somewhere wet, keep suede for dry days and rotate in [chromexcel leather](/magazine/chromexcel-leather-guide) or other oil-tanned options for daily wear.
 
-**Break-in is less forgiving.** Because suede is thinner, it breaks in faster but mistakes leave permanent marks. See [how to break in leather boots](/articles/how-to-break-in-leather-boots) for general principles.
+**Break-in is less forgiving.** Because suede is thinner, it breaks in faster but mistakes leave permanent marks. See [how to break in leather boots](/magazine/how-to-break-in-leather-boots) for general principles.
 
-**Suede doesn't patina like smooth leather.** It fades unevenly and the "character" it develops is less universally admired. If patina is your thing, read the [patina and aging guide](/articles/patina-and-aging-guide) — smooth leather is the better canvas.
+**Suede doesn't patina like smooth leather.** It fades unevenly and the "character" it develops is less universally admired. If patina is your thing, read the [patina and aging guide](/magazine/patina-and-aging-guide) — smooth leather is the better canvas.
 
 None of this means don't buy suede. It means go in with eyes open.
 

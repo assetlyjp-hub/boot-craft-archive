@@ -15,7 +15,7 @@ Leather is a porous, organic material. Left untreated, it absorbs water like a s
 
 This guide ranks the five waterproofing methods I've used over the past decade on everything from Red Wing Iron Rangers to shell cordovan dress boots. I'll tell you what actually works, what's overhyped, and — most importantly — what can permanently damage your leather. No affiliate kickbacks, no "best product of 2026" nonsense. Just honest notes from boots that have been through Pacific Northwest winters, Tokyo rainy seasons, and a regrettable snowstorm in Boston.
 
-If you're new to boot maintenance more generally, start with our [complete guide to caring for leather boots](/articles/how-to-care-for-leather-boots) — waterproofing is one layer on top of a regular cleaning and conditioning routine, not a substitute for it.
+If you're new to boot maintenance more generally, start with our [complete guide to caring for leather boots](/magazine/how-to-care-for-leather-boots) — waterproofing is one layer on top of a regular cleaning and conditioning routine, not a substitute for it.
 
 ## The Core Trade-Off You Need to Understand First
 
@@ -42,16 +42,16 @@ Beeswax compounds are my top pick for roughout, oil-tanned, and heavy work leath
 
 ### Pros
 - Longest-lasting protection of any method (2-3 months of hard wear)
-- Excellent for welt stitching — the weakest water entry point on [Goodyear welted boots](/articles/goodyear-welt-vs-blake-stitch)
+- Excellent for welt stitching — the weakest water entry point on [Goodyear welted boots](/magazine/goodyear-welt-vs-blake-stitch)
 - Non-toxic, reasonably priced, and shelf-stable for years
 
 ### Cons — and they're significant
 - **Darkens almost every leather by one or two shades.** Natural CXL goes from caramel to dark coffee.
 - Kills the original polished finish. A mirror-shined dress boot will look matte and dull.
 - Reduces breathability noticeably. Not ideal for summer or indoor-heavy use.
-- On heavily-conditioned leather like [Chromexcel](/articles/chromexcel-leather-guide), it can push the already-oily leather into a sticky, over-saturated state. Use sparingly on CXL.
+- On heavily-conditioned leather like [Chromexcel](/magazine/chromexcel-leather-guide), it can push the already-oily leather into a sticky, over-saturated state. Use sparingly on CXL.
 
-**Verdict:** The default choice for service boots, logger boots, moc-toe work boots, and any [roughout or waxed-flesh leather](/articles/roughout-leather-deep-dive). Do not use on dress boots or shell cordovan.
+**Verdict:** The default choice for service boots, logger boots, moc-toe work boots, and any [roughout or waxed-flesh leather](/magazine/roughout-leather-deep-dive). Do not use on dress boots or shell cordovan.
 
 ## Method 2: Silicone / Chemical Sprays (Kiwi Protect All-Weather, Scotchgard Heavy Duty)
 
@@ -66,7 +66,7 @@ Silicone sprays coat the leather surface with a thin polymer barrier. They're fa
 4. Let cure for 24 hours before wearing.
 
 ### Pros
-- Preserves original color and finish — critical for dress leathers and [patina development](/articles/patina-and-aging-guide)
+- Preserves original color and finish — critical for dress leathers and [patina development](/magazine/patina-and-aging-guide)
 - Fast, low-skill application
 - Works reasonably well for light rain and snow
 
@@ -102,7 +102,7 @@ Mink oil and neatsfoot oil are traditional leather treatments marketed heavily a
 - **Attracts dust and dirt** — oiled leather picks up grime much faster.
 - Modern "mink oil" is usually a blend of petroleum and animal fat. Quality varies wildly by brand.
 
-**Verdict:** I basically don't recommend pure oils anymore. If the leather is dry and brittle, use a proper conditioner like Venetian Cream or Saphir Renovateur first. Mink oil belongs on weathered farm boots, not quality goodyear-welted footwear. Absolutely never use it on [shell cordovan](/articles/shell-cordovan-complete-guide) — the fiber structure will not recover.
+**Verdict:** I basically don't recommend pure oils anymore. If the leather is dry and brittle, use a proper conditioner like Venetian Cream or Saphir Renovateur first. Mink oil belongs on weathered farm boots, not quality goodyear-welted footwear. Absolutely never use it on [shell cordovan](/magazine/shell-cordovan-complete-guide) — the fiber structure will not recover.
 
 ## Method 4: Fluoropolymer Sprays (Nikwax Waterproofing Wax, Granger's G-Wax, Crep Protect)
 
@@ -129,7 +129,7 @@ Fluoropolymer sprays are the modern technical answer. Instead of coating the sur
 - Can smell chemical during application — ventilate well.
 - Lifespan is shorter than beeswax (4-6 weeks vs. 2-3 months).
 
-**Verdict:** My default for dress boots, cap-toe boots, and anything where preserving the original finish matters. This is also what I recommend for people who are still [breaking in new boots](/articles/how-to-break-in-leather-boots) and don't want to commit to a heavy wax treatment yet.
+**Verdict:** My default for dress boots, cap-toe boots, and anything where preserving the original finish matters. This is also what I recommend for people who are still [breaking in new boots](/magazine/how-to-break-in-leather-boots) and don't want to commit to a heavy wax treatment yet.
 
 ## Method 5: Traditional Dubbin
 
@@ -184,18 +184,18 @@ Different leathers have radically different needs. Here's what I actually reach 
 - **Primary:** Light fluoropolymer spray (Method 4)
 - **Winter heavy use:** Thin beeswax (Method 1), applied sparingly
 - **Avoid:** Mink oil, heavy dubbin — CXL is already saturated with hot-stuffed oils and fats
-- See the [full CXL breakdown](/articles/chromexcel-leather-guide) for context
+- See the [full CXL breakdown](/magazine/chromexcel-leather-guide) for context
 
 ### Shell Cordovan
 - **Primary:** Nothing. A good horsehair brushing and a little Saphir Cordovan Cream is all most shell needs — the fiber structure is naturally water-resistant
 - **Emergency:** Fluoropolymer spray (Method 4) ONLY, very lightly
-- **Never:** Any wax, oil, mink, dubbin, or silicone. Shell cordovan is uniquely sensitive. More in the [shell cordovan complete guide](/articles/shell-cordovan-complete-guide)
+- **Never:** Any wax, oil, mink, dubbin, or silicone. Shell cordovan is uniquely sensitive. More in the [shell cordovan complete guide](/magazine/shell-cordovan-complete-guide)
 
 ### Suede / Roughout
 - **Primary:** Dedicated suede spray (fluoropolymer-based, Method 4 category)
 - **Secondary:** Sno-Seal very sparingly on the toe cap and welt area only
 - **Avoid:** Anything that mats the nap — oils, heavy wax, dubbin
-- Details in our [roughout leather deep dive](/articles/roughout-leather-deep-dive)
+- Details in our [roughout leather deep dive](/magazine/roughout-leather-deep-dive)
 
 ### Smooth Calfskin (dress boots)
 - **Primary:** Fluoropolymer spray (Method 4)
@@ -236,7 +236,7 @@ Some fluoropolymer products (Nikwax specifically) are designed to be applied to 
 A few premium boot makers have clauses about silicone specifically — Viberg, for example, has historically recommended against silicone sprays. Most manufacturers are fine with wax, fluoropolymer, and proper conditioners. Check your boot maker's care guide before applying anything aggressive.
 
 ### What about salt stains from winter sidewalks?
-Salt is separate from waterproofing. Wipe boots with a 1:1 water/white vinegar solution to neutralize salt as soon as you come inside. Waterproofing won't stop salt — you still need to clean it off. This is covered in more depth in our [seasonal boot maintenance guide](/articles/how-to-care-for-leather-boots).
+Salt is separate from waterproofing. Wipe boots with a 1:1 water/white vinegar solution to neutralize salt as soon as you come inside. Waterproofing won't stop salt — you still need to clean it off. This is covered in more depth in our [seasonal boot maintenance guide](/magazine/how-to-care-for-leather-boots).
 
 ## Final Recommendation
 

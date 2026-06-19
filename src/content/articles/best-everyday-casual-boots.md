@@ -37,11 +37,11 @@ The Captain's last is medium-round, neither sleek nor chunky. The cap toe is sub
 
 What you give up at this price: the leather is good, not great. It will not develop the depth of Featherstone or Chromexcel. The insole is acceptable but most people end up swapping it for a Pedag or similar within the first six months. The welt is real but the leather midsole is thin, which means resoling is possible but rarely worth the cost — at this price the boot is closer to "wear it for four years and replace it" than "wear it for fifteen years and recraft it twice."
 
-For a deeper alternative in this price band, see [best Goodyear welt boots under $300](/articles/best-goodyear-welt-boots-under-300).
+For a deeper alternative in this price band, see [best Goodyear welt boots under $300](/magazine/best-goodyear-welt-boots-under-300).
 
 ### 2. Wolverine 1000 Mile — The Default Recommendation
 
-If I could only own one casual boot for the rest of my life, it would be the Wolverine 1000 Mile in Brown Chromexcel. Five years of ownership on my own pair has not changed that opinion. Full review here: [Wolverine 1000 Mile review](/articles/wolverine-1000-mile-review).
+If I could only own one casual boot for the rest of my life, it would be the Wolverine 1000 Mile in Brown Chromexcel. Five years of ownership on my own pair has not changed that opinion. Full review here: [Wolverine 1000 Mile review](/magazine/wolverine-1000-mile-review).
 
 The 1000 Mile is the platonic American work-meets-dress boot. Plain toe, single stitch, a last that flatters most feet, and Horween Chromexcel that pulls up dramatically on the first wear and develops into a leather you cannot stop touching by year two.
 
@@ -73,7 +73,7 @@ The downside: Grant Stone is direct-to-consumer, sizing requires research, and r
 
 I am including the Iron Ranger because everyone asks about it, but with a real caveat: the Iron Ranger is on the *casual* end of the casual-boot spectrum. The cap toe, double stitching, and storm welt give it a workwear-leaning look that does not slide into business casual as smoothly as the four boots above.
 
-If your everyday wardrobe is jeans, chinos, and chore coats — buy the Iron Ranger and stop reading. It is durable, comfortable, easy to recraft, and it patinas beautifully. See [the full Iron Ranger review](/articles/red-wing-iron-ranger-review) for the deep dive.
+If your everyday wardrobe is jeans, chinos, and chore coats — buy the Iron Ranger and stop reading. It is durable, comfortable, easy to recraft, and it patinas beautifully. See [the full Iron Ranger review](/magazine/red-wing-iron-ranger-review) for the deep dive.
 
 If you need to look polished in a meeting more than once a month, the Iron Ranger is not the right pick. Go with the Wolverine 1000 Mile, the Alden plain toe, or the Grant Stone Ottawa instead.
 
@@ -101,7 +101,7 @@ The single biggest mistake I see people make with casual boots is wearing them w
 
 **With a suit:** none of these are a true substitute for a proper dress shoe. In a pinch — a casual tweed suit, a wedding at a vineyard — the Alden plain toe in Color 8 is the closest you will get.
 
-For a broader pant-and-boot framework, see [moc toe vs plain toe boots](/articles/moc-toe-vs-plain-toe-boots) and [best chukka boots](/articles/best-chukka-boots).
+For a broader pant-and-boot framework, see [moc toe vs plain toe boots](/magazine/moc-toe-vs-plain-toe-boots) and [best chukka boots](/magazine/best-chukka-boots).
 
 ## Dressing Up Versus Dressing Down
 
@@ -132,7 +132,7 @@ If you live in a four-season climate, my recommendation is:
 - **Light winter:** Wolverine and Iron Ranger handle cold and dry conditions well; Alden Color 8 is surprisingly water-resistant
 - **Heavy winter:** none of these — get a dedicated winter boot (Sorel, L.L. Bean, or a Vibram-soled pull-on)
 
-The single best thing you can do for any of these boots in wet weather is to not panic. Wipe them down when you get home, stuff them with cedar shoe trees, let them dry slowly away from heat, and condition them once they are fully dry. See [how to care for leather boots](/articles/how-to-care-for-leather-boots) for the full routine.
+The single best thing you can do for any of these boots in wet weather is to not panic. Wipe them down when you get home, stuff them with cedar shoe trees, let them dry slowly away from heat, and condition them once they are fully dry. See [how to care for leather boots](/magazine/how-to-care-for-leather-boots) for the full routine.
 
 ## Honest Downsides Across the Board
 
@@ -174,7 +174,7 @@ Snug at the heel, no slippage when you walk, half a thumbnail of space at the to
 
 **What's the difference between Goodyear and Blake stitch for everyday wear?**
 
-Goodyear is more durable and more weather-resistant. Blake is sleeker and more flexible. For everyday casual, Goodyear is the safer pick. See [Goodyear welt vs Blake stitch](/articles/goodyear-welt-vs-blake-stitch) for the long answer.
+Goodyear is more durable and more weather-resistant. Blake is sleeker and more flexible. For everyday casual, Goodyear is the safer pick. See [Goodyear welt vs Blake stitch](/magazine/goodyear-welt-vs-blake-stitch) for the long answer.
 
 **Should I buy used boots to save money?**
 
@@ -186,4 +186,4 @@ The best everyday casual boot is the one you stop thinking about. You put it on,
 
 For most people, in 2026, that boot is the Wolverine 1000 Mile. For people building from scratch on a budget, it is the Thursday Captain. For people willing to invest, it is the Alden plain toe blucher. For people who want the best value at the upper-mid tier, it is the Grant Stone Ottawa. And for people whose wardrobes lean denim and workwear, the Red Wing Iron Ranger is still the right pick.
 
-Pick one, wear it, stop researching. The right boot is the one already on your feet next year. For more options across price points, see [best boots under $500](/articles/best-boots-under-500).
+Pick one, wear it, stop researching. The right boot is the one already on your feet next year. For more options across price points, see [best boots under $500](/magazine/best-boots-under-500).

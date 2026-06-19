@@ -28,7 +28,7 @@ Set your expectations before you pick a method. Leather is stretchy, but it is n
 
 The other thing worth knowing: leather has memory. If you stretch a boot to fit a swollen foot and then your foot returns to normal, the leather will partially relax back. Permanent stretching requires the boot to be worn at the stretched dimensions repeatedly until the leather reshapes for good. That usually takes weeks, not days.
 
-If you have not yet committed to stretching and you are still in the break-in window, read [how to break in leather boots](/articles/how-to-break-in-leather-boots) first. A lot of "tight" boots are simply unbroken-in boots, and break-in is gentler on the leather than active stretching.
+If you have not yet committed to stretching and you are still in the break-in window, read [how to break in leather boots](/magazine/how-to-break-in-leather-boots) first. A lot of "tight" boots are simply unbroken-in boots, and break-in is gentler on the leather than active stretching.
 
 ## The 5 Methods, Ranked
 
@@ -82,7 +82,7 @@ This is the method that sounds like a joke and actually works. Water expands whe
 
 **Best for:** Toe box pressure, especially on the pinky toe side. I have used this on a pair of Red Wing Iron Rangers that were a hair tight after a winter of wool socks, and it gave me exactly the width I needed.
 
-**Honest downside:** Risky. If the bag leaks, water gets into the leather and lining and can damage both. Always double-bag. Also, this method only works on leather that can handle moisture — Chromexcel and oil-tanned leathers are fine, but suede and unsealed veg-tan should not see this method. See [chromexcel leather guide](/articles/chromexcel-leather-guide) for which leathers tolerate water.
+**Honest downside:** Risky. If the bag leaks, water gets into the leather and lining and can damage both. Always double-bag. Also, this method only works on leather that can handle moisture — Chromexcel and oil-tanned leathers are fine, but suede and unsealed veg-tan should not see this method. See [chromexcel leather guide](/magazine/chromexcel-leather-guide) for which leathers tolerate water.
 
 ### 4. Alcohol Spray and Wear — Aggressive but Effective
 
@@ -101,7 +101,7 @@ Sometimes called the "wet wear" method, this involves applying a stretching agen
 
 **Best for:** Boots that are tight in multiple spots and would benefit from a full custom fit. This is essentially an aggressive break-in technique.
 
-**Honest downside:** Alcohol is harsh on leather. Repeated use will dry out the fibers and shorten the boot's life. Use this method once or twice on a problem boot, then condition heavily afterward. Do not make it a routine. After the boots dry, apply a quality leather conditioner generously — see [how to care for leather boots](/articles/how-to-care-for-leather-boots) for a routine that restores moisture.
+**Honest downside:** Alcohol is harsh on leather. Repeated use will dry out the fibers and shorten the boot's life. Use this method once or twice on a problem boot, then condition heavily afterward. Do not make it a routine. After the boots dry, apply a quality leather conditioner generously — see [how to care for leather boots](/magazine/how-to-care-for-leather-boots) for a routine that restores moisture.
 
 I rank this fourth because the others are gentler. But on a boot that needs aggressive intervention, this is the most effective home method.
 
@@ -152,7 +152,7 @@ I cannot believe I have to write this, but I have seen forum posts suggesting mi
 
 Some guides suggest filling a bathtub and submerging the boots, then wearing them wet. This was an old military technique for canvas-and-leather combat boots, and it does not transfer to modern welted boots. Submersion damages the welt stitching, dissolves the cork footbed filler, ruins the glue holding the insole and outsole together, and can cause the leather to dry out unevenly and crack. If you do this to a Goodyear-welted boot, you may have just turned a $400 boot into a $400 piece of decor.
 
-For waterproofing without damage, see [how to waterproof leather boots](/articles/how-to-waterproof-leather-boots).
+For waterproofing without damage, see [how to waterproof leather boots](/magazine/how-to-waterproof-leather-boots).
 
 ### Wearing Boots in the Shower
 
@@ -174,7 +174,7 @@ This is the most common stretching request. Boot stretchers with plug points wor
 
 The ice bag method also works well for this scenario. The water settles into the toe area and expands evenly across the forefoot.
 
-If your pinky pressure is severe (you can see the leather bulging visibly), no amount of stretching will fix it. The boot is structurally too narrow, and you should consider returning it or selling it on. See [best boots for wide feet](/articles/best-boots-for-wide-feet) if your foot is consistently wider than your typical boots accommodate.
+If your pinky pressure is severe (you can see the leather bulging visibly), no amount of stretching will fix it. The boot is structurally too narrow, and you should consider returning it or selling it on. See [best boots for wide feet](/magazine/best-boots-for-wide-feet) if your foot is consistently wider than your typical boots accommodate.
 
 ### Instep Pressure (Top of the Foot Feels Crushed)
 
@@ -186,7 +186,7 @@ If instep pressure is severe, check whether your problem is the boot or your foo
 
 Calf-shaft stretching is the easiest of all because the shaft does not have a welt to fight. A calf-stretcher (a long, expandable rod inserted into the shaft) can add 1/2 to 1 inch of circumference. Cobblers can do this in an afternoon for $20-30.
 
-For very tall boots like equestrian or engineer styles, you may need a "shaft stretcher" specifically — a regular boot stretcher does not extend high enough. See [john lofgren engineer review](/articles/john-lofgren-engineer-review) for a deep dive on engineer boot fit, where shaft tightness is a constant topic.
+For very tall boots like equestrian or engineer styles, you may need a "shaft stretcher" specifically — a regular boot stretcher does not extend high enough. See [john lofgren engineer review](/magazine/john-lofgren-engineer-review) for a deep dive on engineer boot fit, where shaft tightness is a constant topic.
 
 ### Heel Slipping After Stretching
 
@@ -205,7 +205,7 @@ If you stretched the forefoot and now the heel is slipping, you stretched too mu
 | Quality leather conditioner | $10-20 | Bick 4, Venetian, Saphir |
 | Cedar shoe trees | $25-40 | Essential for any stretching method |
 
-For long-term boot value, see [best goodyear welt boots under 300](/articles/best-goodyear-welt-boots-under-300) — every boot on that list is built to be stretched, conditioned, and resoled rather than discarded.
+For long-term boot value, see [best goodyear welt boots under 300](/magazine/best-goodyear-welt-boots-under-300) — every boot on that list is built to be stretched, conditioned, and resoled rather than discarded.
 
 ## When Stretching Will Not Work
 
@@ -236,11 +236,11 @@ No. Length is fixed by the welt, the insole, and the structure of the boot. Stre
 
 ### Is the ice bag method safe for any leather?
 
-Mostly yes, with the exception of suede, nubuck, and unsealed veg-tan, which can be damaged by moisture. For Chromexcel, oil-tanned cowhide, and most heritage boot leathers, the ice method is fine if you double-bag the water properly. For suede, see [how to clean suede boots](/articles/how-to-clean-suede-boots) — water-based methods are generally not recommended.
+Mostly yes, with the exception of suede, nubuck, and unsealed veg-tan, which can be damaged by moisture. For Chromexcel, oil-tanned cowhide, and most heritage boot leathers, the ice method is fine if you double-bag the water properly. For suede, see [how to clean suede boots](/magazine/how-to-clean-suede-boots) — water-based methods are generally not recommended.
 
 ### Should I stretch new boots or break them in first?
 
-Always try to break them in first. Most "tight" new boots are simply unbroken-in boots, and proper break-in is far gentler on the leather than active stretching. Wear them with thick socks for 1-2 hours at a time over 2 weeks. If they are still tight after that, consider stretching. For a full break-in protocol, see [how to break in leather boots](/articles/how-to-break-in-leather-boots).
+Always try to break them in first. Most "tight" new boots are simply unbroken-in boots, and proper break-in is far gentler on the leather than active stretching. Wear them with thick socks for 1-2 hours at a time over 2 weeks. If they are still tight after that, consider stretching. For a full break-in protocol, see [how to break in leather boots](/magazine/how-to-break-in-leather-boots).
 
 ### Can a cobbler stretch boots more than I can at home?
 

@@ -25,7 +25,7 @@ Three factors matter, in this order: construction, leather, and weight. Most peo
 
 **Weight third — and it matters less than you'd think.** A heavy boot with great airflow beats a light boot with no ventilation every time. I'd rather wear a 22-ounce roughout chukka than a 14-ounce lined Chelsea on a hot day.
 
-The other thing nobody talks about: cork-bedded insoles, which are a feature of [Goodyear-welted construction](/articles/best-goodyear-welt-boots-under-300), can actually help in summer. Cork is hygroscopic — it absorbs moisture from the foot and slowly releases it. The catch is they need to dry out completely between wears, which means you need at least two pairs in summer rotation.
+The other thing nobody talks about: cork-bedded insoles, which are a feature of [Goodyear-welted construction](/magazine/best-goodyear-welt-boots-under-300), can actually help in summer. Cork is hygroscopic — it absorbs moisture from the foot and slowly releases it. The catch is they need to dry out completely between wears, which means you need at least two pairs in summer rotation.
 
 ## The picks: boots I actually wear in heat
 
@@ -37,7 +37,7 @@ I own three pairs. The sand suede is the standard issue — wear it with chinos,
 
 The crepe sole is the secret weapon. It's full of air pockets, which provides cushion and insulation from hot pavement. The downside is it picks up gravel, melts at extreme heat (I had a pair start gumming up at 110°F in Phoenix), and the upper has zero structure — your foot will splay out within six months.
 
-Around $150, made in Vietnam now (the British-made versions are gone unless you find old stock). For the price, nothing else gets close. Full review in the [chukka boots guide](/articles/best-chukka-boots).
+Around $150, made in Vietnam now (the British-made versions are gone unless you find old stock). For the price, nothing else gets close. Full review in the [chukka boots guide](/magazine/best-chukka-boots).
 
 ### Alden Unlined Chukka — for when you want it to last
 
@@ -55,7 +55,7 @@ The construction is 360-degree Goodyear welt with a leather midsole and a Vibram
 
 What makes the Ottawa work in summer specifically is the suede — it's unlined except for a small leather counter at the heel, so the entire shaft breathes. After a four-hour walking day in St. Louis humidity I didn't have the swamp-foot feeling that synthetic-lined boots produce.
 
-Around $390 direct from Grant Stone. They run true to size, slightly narrow in the toe box. For care, see the [suede cleaning guide](/articles/how-to-clean-suede-boots).
+Around $390 direct from Grant Stone. They run true to size, slightly narrow in the toe box. For care, see the [suede cleaning guide](/magazine/how-to-clean-suede-boots).
 
 ### Crockett & Jones Coniston in suede — proper English summer
 
@@ -63,7 +63,7 @@ The Coniston is C&J's hiking-influenced derby boot, built on the 325 last with a
 
 Why? The roughout suede is loose-grain, which means dramatic airflow. The Dainite sole has air pockets molded into the rubber for traction, which also reduces heat transfer from hot asphalt. And the fully bench-made construction means the boot will outlive several pairs of cheaper warm-weather boots.
 
-The downside is the price — around $850 — and the weight. These are not light boots. They're hot-weather *capable*, not hot-weather *optimized*. If you live in a humid climate and walk a lot, the Coniston is overkill in a wonderful way. If you're in Tucson and want minimum material on your foot, look at unlined chukkas instead. Featured in the [dress boots guide](/articles/best-dress-boots-for-men).
+The downside is the price — around $850 — and the weight. These are not light boots. They're hot-weather *capable*, not hot-weather *optimized*. If you live in a humid climate and walk a lot, the Coniston is overkill in a wonderful way. If you're in Tucson and want minimum material on your foot, look at unlined chukkas instead. Featured in the [dress boots guide](/magazine/best-dress-boots-for-men).
 
 ### Paraboot Chambord summer rotation
 
@@ -103,7 +103,7 @@ A few categories of boot that I won't recommend for summer no matter how much yo
 
 Summer boot care is different from winter care. The enemy isn't dryness, it's salt — sweat contains salts that, over time, leave white tide marks on leather and degrade the fibers. A few habits that have kept my summer pairs alive:
 
-1. **Cedar shoe trees, every time, no exceptions.** Cedar absorbs moisture and the wood draws sweat out of the leather. After a hot wear, insert trees within five minutes of taking the boots off. See [boot care basics](/articles/how-to-care-for-leather-boots).
+1. **Cedar shoe trees, every time, no exceptions.** Cedar absorbs moisture and the wood draws sweat out of the leather. After a hot wear, insert trees within five minutes of taking the boots off. See [boot care basics](/magazine/how-to-care-for-leather-boots).
 
 2. **Rotate aggressively.** Two-day minimum rest between wears in summer, three days if it's humid. Your boots need time to fully dry. This is the single biggest factor in summer boot longevity.
 
@@ -143,7 +143,7 @@ Merino wool, surprisingly. Merino regulates temperature and resists bacterial gr
 It depends on the surface. Leather soles are cooler (they don't transfer pavement heat as efficiently) but get slick on wet stone. Rubber soles grip better but can hold heat and, in the case of crepe, can soften at extreme temperatures. For city wear in summer I prefer leather soles. For travel and varied terrain, rubber.
 
 **Can I waterproof my summer boots?**
-You can, but be careful — wax-based [waterproofing treatments](/articles/how-to-waterproof-leather-boots) seal the leather and reduce breathability. For summer, a light suede protector spray (Saphir Super Invulner or Crep Protect) gives water resistance without killing airflow.
+You can, but be careful — wax-based [waterproofing treatments](/magazine/how-to-waterproof-leather-boots) seal the leather and reduce breathability. For summer, a light suede protector spray (Saphir Super Invulner or Crep Protect) gives water resistance without killing airflow.
 
 **How many summer boot pairs do I need?**
 Two minimum, three ideal. Rotation is critical for letting boots dry fully between wears, and that matters more in summer than any other season. One unlined chukka and one suede derby covers most occasions.
@@ -158,6 +158,6 @@ If I were rebuilding my summer boot rotation from scratch with $1,000 to spend, 
 2. Clarks Desert in sand suede ($150) — beach/casual/travel
 3. Alden Unlined Chukka in snuff ($550 on sale) — when it needs to look right
 
-Three boots, full coverage from beach to wedding, and they should last a decade with care. To build out a deeper understanding of suede specifically, see the [roughout leather deep-dive](/articles/roughout-leather-deep-dive).
+Three boots, full coverage from beach to wedding, and they should last a decade with care. To build out a deeper understanding of suede specifically, see the [roughout leather deep-dive](/magazine/roughout-leather-deep-dive).
 
 The real lesson summer boots taught me: most people aren't wearing the wrong category of footwear. They're wearing the wrong *construction* of the right category. An unlined suede boot in summer is more comfortable than most sneakers. The hard part is admitting boots aren't a winter-only thing — and once you do, you'll wear them more days a year than not.

@@ -25,7 +25,7 @@ That sounds simple, but the cap is doing a surprising amount of work:
 - **Visual proportion.** The cap creates a horizontal break that visually shortens the foot. On a long, narrow last this looks elegant. On a short, round last it can look stubby — proportions matter more than people admit.
 - **Aging compartments.** The cap and the vamp leather often age slightly differently because they flex differently. The cap stays relatively flat while the vamp creases across the ball of the foot, and over years the two zones develop subtly different patinas.
 
-Compare this to the [moc toe](/articles/moc-toe-vs-plain-toe-boots), which uses a raised seam around the toe box, or the plain toe, which has no seam at all. The cap toe is the middle ground — structured enough to read as intentional, simple enough to read as refined.
+Compare this to the [moc toe](/magazine/moc-toe-vs-plain-toe-boots), which uses a raised seam around the toe box, or the plain toe, which has no seam at all. The cap toe is the middle ground — structured enough to read as intentional, simple enough to read as refined.
 
 ## The Formality Spectrum — Where Cap Toes Actually Sit
 
@@ -39,7 +39,7 @@ Here is the most useful mental model I can give you. Cap toe boots span the wide
 | Brogued cap toe, scotch grain or pebble grain | Country / rugged dress | Tweeds, corduroys, casual office |
 | Cap toe work boot, oil-tanned leather, lug sole | Workwear only | Jeans, work pants, outdoor settings |
 
-The Red Wing Iron Ranger sits in the bottom two rows. A Crockett & Jones Coniston sits in the top two. Same fundamental silhouette, completely different jobs. For a deeper look at where dress boots fit into this picture, see my [Best Dress Boots for Men](/articles/best-dress-boots-for-men) guide.
+The Red Wing Iron Ranger sits in the bottom two rows. A Crockett & Jones Coniston sits in the top two. Same fundamental silhouette, completely different jobs. For a deeper look at where dress boots fit into this picture, see my [Best Dress Boots for Men](/magazine/best-dress-boots-for-men) guide.
 
 ## Brogue Cap Toes vs Plain Cap Toes
 
@@ -61,13 +61,13 @@ At $200 you are looking at the Thursday Captain in cap toe, certain Beckett Simo
 
 **Pick: Thursday Captain Cap Toe.** Goodyear welted, full-grain leather, leather lining. Will not match a $700 boot in leather density or last refinement, but it gets the construction right, which is the part that matters for longevity. Expect to resole once and retire after 5-7 years of regular wear rather than 20+ years.
 
-**The honest trade-off at this tier:** The leather is the weak link. It is full grain, but it is rarely the top-tier hides used at higher tiers. It will scuff more easily, take a polish less brilliantly, and develop patina that reads as "worn" rather than "lived in." That is a real difference, even if it is hard to see in product photos. Pair this with my [under-$300 Goodyear welt buying guide](/articles/best-goodyear-welt-boots-under-300) if you want broader options at this budget.
+**The honest trade-off at this tier:** The leather is the weak link. It is full grain, but it is rarely the top-tier hides used at higher tiers. It will scuff more easily, take a polish less brilliantly, and develop patina that reads as "worn" rather than "lived in." That is a real difference, even if it is hard to see in product photos. Pair this with my [under-$300 Goodyear welt buying guide](/magazine/best-goodyear-welt-boots-under-300) if you want broader options at this budget.
 
 ### The $400 Tier — Where Quality Compounds
 
 At $400 the Red Wing Iron Ranger, Allen Edmonds factory firsts in basic models, and the Sanders Cheltenham all become accessible.
 
-**Pick: Red Wing Iron Ranger 8111 (Amber Harness).** This is the cap toe boot I recommend most often, period. It is built on the Munson last, uses excellent oil-tanned leather, and is fully resolable. It also straddles the work-casual line better than almost any boot at any price. For a complete review, see my [Red Wing Iron Ranger Review](/articles/red-wing-iron-ranger-review).
+**Pick: Red Wing Iron Ranger 8111 (Amber Harness).** This is the cap toe boot I recommend most often, period. It is built on the Munson last, uses excellent oil-tanned leather, and is fully resolable. It also straddles the work-casual line better than almost any boot at any price. For a complete review, see my [Red Wing Iron Ranger Review](/magazine/red-wing-iron-ranger-review).
 
 The Iron Ranger is decidedly not a dress boot — the toe is too round, the leather too rugged, the sole too workwear-coded. But for a casual cap toe that ages into a personal heirloom, this is the best $400 you can spend. If you specifically need something dressier at this tier, look at the Allen Edmonds Dalton in factory firsts.
 
@@ -89,7 +89,7 @@ Above $1000 you are entering bench-made and shell cordovan territory: Edward Gre
 
 **Pick: Edward Green Galway in Cap Toe (or the closest cap toe variant in their seasonal makeup).** These are made on a different scale of attention. The lasts are sculpted, the leather is selected hide-by-hide, the finishing is done by hand. The boot will last the rest of your life if you take care of it.
 
-If you are drawn to shell cordovan specifically — and the cap toe is one of the silhouettes shell cordovan was made for — Alden's cap toe models in Color 8 are the entry point at this tier. For more on shell cordovan, see my [Carmina Shell Cordovan Derby Review](/articles/carmina-shell-cordovan-derby-review). For more general leather education that will help you evaluate boots at this tier, the [Chromexcel leather guide](/articles/chromexcel-leather-guide) covers another premium leather worth understanding.
+If you are drawn to shell cordovan specifically — and the cap toe is one of the silhouettes shell cordovan was made for — Alden's cap toe models in Color 8 are the entry point at this tier. For more on shell cordovan, see my [Carmina Shell Cordovan Derby Review](/magazine/carmina-shell-cordovan-derby-review). For more general leather education that will help you evaluate boots at this tier, the [Chromexcel leather guide](/magazine/chromexcel-leather-guide) covers another premium leather worth understanding.
 
 **The honest trade-off:** Diminishing returns are real. A $1500 Edward Green is not three times the boot of a $500 Crockett & Jones, even though it costs three times more. What you are buying is the last 15% of refinement — and that 15% is genuinely lovely if you can see it, but invisible if you can't. Spend here only when you have already exhausted the lessons of the $400 and $700 tiers.
 
@@ -97,7 +97,7 @@ If you are drawn to shell cordovan specifically — and the cap toe is one of th
 
 The cap toe seam is the most expressive part of a well-worn cap toe boot. Years of polish accumulate at the seam line, creating a darker ring that frames the cap. The cap itself, being protected from most of the flex, stays smoother and more uniformly colored. The vamp behind it develops creases across the ball of the foot — the deeper the creases, the more "lived in" the boot reads.
 
-If you condition and polish regularly (see [How to Care for Leather Boots](/articles/how-to-care-for-leather-boots) for my full routine), the cap will gradually become a darker, more lustrous version of the original color. If you wear the boots hard and condition rarely, the cap will fade and develop a matte, weathered look. Both can be beautiful — the question is which one suits your aesthetic.
+If you condition and polish regularly (see [How to Care for Leather Boots](/magazine/how-to-care-for-leather-boots) for my full routine), the cap will gradually become a darker, more lustrous version of the original color. If you wear the boots hard and condition rarely, the cap will fade and develop a matte, weathered look. Both can be beautiful — the question is which one suits your aesthetic.
 
 The seam itself is the most honest indicator of construction quality. On cheap cap toes, the stitching becomes loose or uneven within a year or two. On well-made cap toes, the stitching stays tight indefinitely and only the leather around it changes.
 
@@ -109,7 +109,7 @@ This is the mistake I see most often: someone buys an Iron Ranger thinking it is
 
 **Work cap toes** are characterized by round, generous lasts, thicker sole stacks (often Vibram lug or wedge), oil-tanned or pull-up leathers that resist water and scuffs, and visible workwear details (storm welts, stitched-down soles, hooks instead of eyelets). They look right with denim and chore coats.
 
-The middle category — the smart casual cap toe — exists, and the Crockett & Jones Coniston and similar country dress boots fit there. But the extremes do not interchange. Don't try to make an Iron Ranger work with a suit. Don't take an Edward Green into a job site. Both will end badly. If you need to understand construction differences that affect work vs dress applicability, my [Goodyear welt vs Blake stitch](/articles/goodyear-welt-vs-blake-stitch) guide covers the underlying mechanics.
+The middle category — the smart casual cap toe — exists, and the Crockett & Jones Coniston and similar country dress boots fit there. But the extremes do not interchange. Don't try to make an Iron Ranger work with a suit. Don't take an Edward Green into a job site. Both will end badly. If you need to understand construction differences that affect work vs dress applicability, my [Goodyear welt vs Blake stitch](/magazine/goodyear-welt-vs-blake-stitch) guide covers the underlying mechanics.
 
 ## Honest Downsides — Things Cap Toe Boots Don't Do Well
 
@@ -143,7 +143,7 @@ A plain cap toe in black or dark brown smooth calf, on a sleek last, with a leat
 A cap toe has a straight seam across the toe. A wingtip (full brogue) has a seam that takes a wing shape, extending back along the sides of the boot. A wingtip is essentially a cap toe with the cap shaped into wings.
 
 **Can cap toe boots be resoled?**
-Yes, if they are Goodyear welted, Blake stitched, or use any other resolable construction. Avoid cement-construction cap toes if you want to resole. See my [Goodyear welt vs Blake stitch guide](/articles/goodyear-welt-vs-blake-stitch) for the full breakdown of which constructions allow resoling.
+Yes, if they are Goodyear welted, Blake stitched, or use any other resolable construction. Avoid cement-construction cap toes if you want to resole. See my [Goodyear welt vs Blake stitch guide](/magazine/goodyear-welt-vs-blake-stitch) for the full breakdown of which constructions allow resoling.
 
 **Why do my cap toes crease so deeply across the vamp?**
 Deep vamp creases happen on every leather boot — they are a function of how leather flexes when you walk. Heavy creasing usually means the leather is soft and well-tanned, which is generally a good thing. Shallow creasing on a stiff boot can mean the leather is over-corrected or under-fed.
