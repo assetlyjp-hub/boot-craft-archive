@@ -13,14 +13,7 @@ const articles = defineCollection({
   schema: z.object({
     title: z.string(),                    // 記事タイトル
     description: z.string(),              // 概要（SEO用）
-    category: z.enum([                    // 記事カテゴリ
-      'review',        // レビュー
-      'leather',       // レザーガイド
-      'construction',  // 製法ガイド
-      'comparison',    // 比較記事
-      'care',          // ケアガイド
-      'beginner',      // 初心者向け
-    ]),
+    category: z.enum(['review', 'leather', 'construction', 'comparison', 'care', 'beginner', 'guide']),
     tags: z.array(z.string()).optional(), // タグ（任意）
     publishedAt: z.string(),             // 公開日（YYYY-MM-DD）
     updatedAt: z.string().optional(),    // 更新日（任意）
